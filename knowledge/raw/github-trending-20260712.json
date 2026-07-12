@@ -1,0 +1,93 @@
+[
+  {
+    "title": "free-claude-code",
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "source": "github",
+    "popularity": 12928,
+    "summary": "在终端、VSCode 扩展或 Discord 中免费使用 Claude Code，支持语音功能"
+  },
+  {
+    "title": "TradingAgents",
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "source": "github",
+    "popularity": 6152,
+    "summary": "多智能体 LLM 金融交易框架"
+  },
+  {
+    "title": "ml-intern",
+    "url": "https://github.com/huggingface/ml-intern",
+    "source": "github",
+    "popularity": 3157,
+    "summary": "开源机器学习工程师，可阅读论文、训练模型和部署 ML 模型"
+  },
+  {
+    "title": "Pixelle-Video",
+    "url": "https://github.com/AIDC-AI/Pixelle-Video",
+    "source": "github",
+    "popularity": 2023,
+    "summary": "AI 全自动短视频引擎，完全自动化的视频制作工具"
+  },
+  {
+    "title": "GenericAgent",
+    "url": "https://github.com/lsdefine/GenericAgent",
+    "source": "github",
+    "popularity": 1875,
+    "summary": "自进化智能体：从 3.3K 行种子代码成长技能树，实现完整系统控制，token 消耗减少 6 倍"
+  },
+  {
+    "title": "rlm",
+    "url": "https://github.com/alexzhang13/rlm",
+    "source": "github",
+    "popularity": 504,
+    "summary": "递归语言模型（RLM）的通用即插即用推理库，支持各种沙盒环境"
+  },
+  {
+    "title": "SkillSpector",
+    "url": "https://github.com/NVIDIA/SkillSpector",
+    "source": "github",
+    "popularity": 5190,
+    "summary": "AI 智能体技能的安全扫描器，检测漏洞、恶意模式和安全风险"
+  },
+  {
+    "title": "pm-skills",
+    "url": "https://github.com/phuryn/pm-skills",
+    "source": "github",
+    "popularity": 5775,
+    "summary": "产品经理技能市场：100+ 智能体技能、命令和插件，从发现到战略、执行、发布和增长"
+  },
+  {
+    "title": "agent-skills",
+    "url": "https://github.com/addyosmani/agent-skills",
+    "source": "github",
+    "popularity": 11431,
+    "summary": "用于 AI 编程智能体的生产级工程技能"
+  },
+  {
+    "title": "last30days-skill",
+    "url": "https://github.com/mvanhorn/last30days-skill",
+    "source": "github",
+    "popularity": 7226,
+    "summary": "AI 智能体技能，可在 Reddit、X、YouTube、HN、Polymarket 和网络上研究任何主题，然后生成有依据的摘要"
+  },
+  {
+    "title": "headroom",
+    "url": "https://github.com/chopratejas/headroom",
+    "source": "github",
+    "popularity": 9766,
+    "summary": "在工具输出、日志、文件和 RAG 块到达 LLM 之前进行压缩。减少 60-95% 的 token，答案保持不变。提供库、代理、MCP 服务器"
+  },
+  {
+    "title": "Agent-Reach",
+    "url": "https://github.com/Panniantong/Agent-Reach",
+    "source": "github",
+    "popularity": 6427,
+    "summary": "让你的 AI 智能体能够看到整个互联网。读取和搜索 Twitter、Reddit、YouTube、GitHub、Bilibili、小红书——一个 CLI，零 API 费用"
+  },
+  {
+    "title": "system_prompts_leaks",
+    "url": "https://github.com/asgeirtj/system_prompts_leaks",
+    "source": "github",
+    "popularity": 1220,
+    "summary": "提取的系统提示词，来自 Anthropic、OpenAI、Google、xAI 等，定期更新"
+  }
+]

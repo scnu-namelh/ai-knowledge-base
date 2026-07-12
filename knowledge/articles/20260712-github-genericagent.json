@@ -1,0 +1,19 @@
+{
+  "id": "genericagent-20260712",
+  "title": "GenericAgent",
+  "source_url": "https://github.com/lsdefine/GenericAgent",
+  "source_platform": "github",
+  "summary": "具有自进化能力的智能体，从 3.3K 行种子代码开始，通过自我学习成长为功能强大的技能树系统，可实现完整系统控制，且 token 消耗降低 6 倍。",
+  "tags": ["智能体", "AGI方向", "自学习", "系统优化", "效率提升"],
+  "status": "published",
+  "created_at": "2026-07-12T00:00:00Z",
+  "updated_at": "2026-07-12T00:00:00Z",
+  "analysis": {
+    "description": "GenericAgent 展示了一种全新的智能体设计思路——从最小可行代码开始，通过自我迭代和扩展，逐步构建出完整的能力体系。这种自进化模式为 AGI 研究提供了有趣的思路，同时在 token 效率上也有显著优化。",
+    "tech_category": "AGI研究",
+    "innovation": "1. 自进化的智能体架构设计；2. 从简单到复杂的渐进式能力扩展；3. 6倍 token 消耗降低的效率优化。",
+    "difficulty": "高 - 涉及智能体设计和系统级优化",
+    "use_cases": ["AGI 研究探索", "构建高效能智能体系统", "学习自进化系统设计"],
+    "score": 9
+  }
+}

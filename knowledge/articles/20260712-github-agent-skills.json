@@ -1,0 +1,19 @@
+{
+  "id": "agent-skills-20260712",
+  "title": "agent-skills",
+  "source_url": "https://github.com/addyosmani/agent-skills",
+  "source_platform": "github",
+  "summary": "由 Google 工程总监 Addy Osmani 维护的 AI 编程智能体生产级工程技能库，汇集了高质量的工程实践和技能，为 AI 编程助手提供专业级能力支持。",
+  "tags": ["编程助手", "软件工程", "AI开发", "最佳实践", "技能库"],
+  "status": "published",
+  "created_at": "2026-07-12T00:00:00Z",
+  "updated_at": "2026-07-12T00:00:00Z",
+  "analysis": {
+    "description": "agent-skills 项目由业界资深专家维护，提供了一套经过验证的生产级工程技能，旨在提升 AI 编程助手的代码质量和工程实践水平。该项目对提升 AI 辅助编程的专业性和可靠性具有重要意义。",
+    "tech_category": "AI编程工具",
+    "innovation": "1. 生产级工程技能的标准化；2. 由资深专家维护，质量保障；3. 提升 AI 编程助手的工程化水平。",
+    "difficulty": "中等 - 需要一定的软件工程基础",
+    "use_cases": ["提升 AI 编程助手质量", "学习软件工程最佳实践", "代码质量自动审核"],
+    "score": 8
+  }
+}

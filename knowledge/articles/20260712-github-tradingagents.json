@@ -1,0 +1,19 @@
+{
+  "id": "tradingagents-20260712",
+  "title": "TradingAgents",
+  "source_url": "https://github.com/TauricResearch/TradingAgents",
+  "source_platform": "github",
+  "summary": "基于多智能体 LLM 的金融交易框架，利用多个 AI 智能体协作进行金融市场分析和交易决策，为量化交易提供智能辅助支持。",
+  "tags": ["AI交易", "量化投资", "多智能体", "LLM", "金融科技"],
+  "status": "published",
+  "created_at": "2026-07-12T00:00:00Z",
+  "updated_at": "2026-07-12T00:00:00Z",
+  "analysis": {
+    "description": "TradingAgents 框架利用多智能体架构，让不同的 LLM 智能体分别负责市场分析、风险控制、策略执行等不同任务，通过协作提高金融交易的智能化水平。这是 LLM 在金融领域的重要实践应用。",
+    "tech_category": "金融AI应用",
+    "innovation": "1. 将多智能体协作模式引入金融交易领域；2. 发挥 LLM 在非结构化信息处理上的优势；3. 为量化交易提供智能化决策支持框架。",
+    "difficulty": "较高 - 需要金融知识、多智能体系统设计和 LLM 工程能力",
+    "use_cases": ["量化投资策略研发", "金融市场智能分析", "自动化交易系统构建"],
+    "score": 8
+  }
+}
