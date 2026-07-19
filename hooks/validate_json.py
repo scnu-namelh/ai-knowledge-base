@@ -17,9 +17,9 @@ REQUIRED_FIELDS: dict[str, type] = {
     "status": str,
 }
 
-VALID_STATUSES = frozenset({"draft", "review", "published", "archived"})
+VALID_STATUSES = frozenset({"pending", "analyzed", "published", "draft", "review", "archived"})
 VALID_AUDIENCES = frozenset({"beginner", "intermediate", "advanced"})
-ID_PATTERN = re.compile(r"^[a-zA-Z0-9_]+-\d{8}-\d{3}$")
+ID_PATTERN = re.compile(r"^[a-z0-9][a-z0-9-]*-\d{8}$")
 URL_PATTERN = re.compile(r"^https?://")
 
 
@@ -85,7 +85,7 @@ def validate_id(entry: dict[str, Any], file_path: str, result: ValidationResult)
         result.add_error(
             file_path, entry_id,
             f"Invalid id format: '{entry_id}' "
-            f"(expected {{source}}-{{YYYYMMDD}}-{{NNN}}, e.g. github-20260317-001)",
+            f"(expected {{slug}}-{{YYYYMMDD}}, e.g. my-article-20260317)",
         )
     return entry_id
 
