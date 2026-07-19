@@ -350,7 +350,7 @@ def collect(sources: List[str], limit: int) -> List[RawItem]:
 ANALYSIS_SYSTEM_PROMPT = """你是一个 AI 技术分析助手。请分析以下技术内容，以 JSON 格式返回分析结果：
 
 {
-  "summary": "一句话中文摘要（30字以内）",
+  "summary": "一句话中文摘要（20-100字）",
   "description": "详细中文描述（50-100字）",
   "tech_category": "技术分类，如：大语言模型、AI编程工具、多智能体、计算机视觉、金融AI应用",
   "innovation": "创新点说明（一句话）",
@@ -452,7 +452,7 @@ def _mock_analysis(item: RawItem) -> Dict[str, Any]:
         模拟分析字典。
     """
     return {
-        "summary": item.summary[:30] if item.summary else item.title[:30],
+        "summary": item.summary[:100] if item.summary else item.title[:100],
         "description": item.summary[:80] if item.summary else item.title[:80],
         "tech_category": "AI",
         "innovation": "创新点待分析",
