@@ -1,0 +1,29 @@
+{
+  "id": "a-global-workspace-in-language-models-20260719",
+  "title": "A global workspace in language models",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "source_platform": "rss",
+  "summary": "Anthropic研究提出在语言模型中引入全局工作空间，通过共享中间表示增强模型推理和一致性。",
+  "tags": [
+    "大语言模型",
+    "全局工作空间",
+    "推理增强",
+    "信息共享",
+    "Anthropic"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-19T06:05:34Z",
+  "updated_at": "2026-07-19T06:05:34Z",
+  "analysis": {
+    "description": "该研究探索在语言模型内部构建一个全局工作空间，允许不同模块或层之间共享和更新中间表示，从而提升模型在复杂推理任务中的表现和输出一致性。",
+    "tech_category": "大语言模型",
+    "innovation": "在语言模型中引入类似认知科学的全局工作空间机制，实现跨模块信息共享。",
+    "difficulty": "较高",
+    "use_cases": [
+      "复杂推理任务",
+      "多步推理",
+      "一致性输出生成"
+    ],
+    "score": 8
+  }
+}
