@@ -3,27 +3,27 @@
   "title": "Investigating idiosyncrasies in AI fiction",
   "source_url": "https://arxiv.org/abs/2604.03136",
   "source_platform": "rss",
-  "summary": "本文研究AI生成小说中的独特风格特征，分析其与人类写作的差异。",
+  "summary": "研究AI生成小说中的独特风格特征，分析其与人类写作的差异。",
   "tags": [
     "AI小说",
     "风格分析",
-    "文本生成",
-    "大语言模型",
-    "叙事研究"
+    "自然语言生成",
+    "文学计算",
+    "人机对比"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:40:18Z",
-  "updated_at": "2026-07-19T06:40:18Z",
+  "created_at": "2026-07-19T09:45:03Z",
+  "updated_at": "2026-07-19T09:45:03Z",
   "analysis": {
-    "description": "该研究通过对比AI与人类创作的小说，识别并分析AI在叙事结构、语言风格和主题选择上的独特模式，揭示AI生成文本的固有特征。",
+    "description": "本文探讨AI生成小说中存在的独特风格和模式，通过对比人类创作，揭示AI在叙事结构、语言使用和情感表达上的特异性，为理解AI文学创作提供新视角。",
     "tech_category": "大语言模型",
-    "innovation": "系统性地量化AI小说中的风格特异性和模式偏差。",
+    "innovation": "系统性地识别并分类AI小说中的风格特异性，而非仅关注内容质量。",
     "difficulty": "中等",
     "use_cases": [
-      "文学创作辅助",
+      "文学创作辅助工具评估",
       "AI内容检测",
-      "写作风格研究"
+      "创意写作教学"
     ],
-    "score": 8
+    "score": 7
   }
 }

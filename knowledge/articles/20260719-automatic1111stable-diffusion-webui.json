@@ -3,26 +3,26 @@
   "title": "AUTOMATIC1111/stable-diffusion-webui",
   "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
   "source_platform": "github",
-  "summary": "一个基于Gradio的Stable Diffusion Web UI，提供图像生成、编辑和优化功能。",
+  "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 的 Stable Diffusion 图形界面，支持多种模型和扩展，方便用户进行图像生成。",
   "tags": [
     "Stable Diffusion",
-    "图像生成",
-    "Web UI",
     "AI绘画",
+    "Web UI",
+    "图像生成",
     "Gradio"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:39:32Z",
-  "updated_at": "2026-07-19T06:39:32Z",
+  "created_at": "2026-07-19T09:44:09Z",
+  "updated_at": "2026-07-19T09:44:09Z",
   "analysis": {
-    "description": "该项目是Stable Diffusion的图形化界面，支持文本生成图像、图像修复、超分辨率等任务，集成了多种模型和扩展，方便用户进行AI绘画创作。",
+    "description": "该项目提供了一个直观的 Web 界面，用于运行 Stable Diffusion 模型。它支持文本到图像、图像到图像、修复、扩展等功能，并集成了多种采样器、提示词管理和扩展插件，降低了 AI 绘画的使用门槛。",
     "tech_category": "计算机视觉",
-    "innovation": "将Stable Diffusion模型封装为易用的Web界面，降低了AI绘画的使用门槛。",
+    "innovation": "通过模块化设计和丰富的扩展生态，将复杂的 Stable Diffusion 模型封装为易用的 Web 界面，极大提升了用户体验。",
     "difficulty": "入门",
     "use_cases": [
-      "AI艺术创作",
-      "图像编辑与修复",
-      "原型设计与概念生成"
+      "AI 艺术创作",
+      "图像修复与扩展",
+      "概念设计与原型生成"
     ],
     "score": 9
   }

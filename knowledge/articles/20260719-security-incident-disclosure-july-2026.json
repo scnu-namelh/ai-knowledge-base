@@ -3,22 +3,22 @@
   "title": "Security incident disclosure — July 2026",
   "source_url": "https://huggingface.co/blog/security-incident-july-2026",
   "source_platform": "rss",
-  "summary": "Hugging Face 披露2026年7月安全事件，涉及用户数据泄露和模型仓库访问问题。",
+  "summary": "Hugging Face披露2026年7月安全事件，涉及数据泄露和系统入侵，已采取措施修复并加强安全。",
   "tags": [
     "安全事件",
     "数据泄露",
     "Hugging Face",
     "AI安全",
-    "漏洞披露"
+    "漏洞修复"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:40:42Z",
-  "updated_at": "2026-07-19T06:40:42Z",
+  "created_at": "2026-07-19T09:45:31Z",
+  "updated_at": "2026-07-19T09:45:31Z",
   "analysis": {
-    "description": "Hugging Face 发布安全事件披露，报告2026年7月发生的安全漏洞，可能影响用户账户信息、模型仓库访问权限及部分敏感数据，团队已采取措施修复并加强安全防护。",
+    "description": "Hugging Face发布安全事件公告，详细说明2026年7月发生的安全漏洞，包括未授权访问和用户数据泄露。公司已修复漏洞、通知受影响用户，并加强安全协议以防止未来事件。",
     "tech_category": "AI安全",
-    "innovation": "公开透明地披露安全事件，强调AI平台安全防护的重要性。",
-    "difficulty": "入门",
+    "innovation": "公开透明地披露安全事件，强调AI平台的安全响应机制。",
+    "difficulty": "中等",
     "use_cases": [
       "AI平台安全审计",
       "用户数据保护",

@@ -8,21 +8,21 @@
     "MAX模型",
     "Apple Silicon",
     "GPU加速",
-    "本地推理",
-    "Metal Performance Shaders"
+    "Metal性能着色器",
+    "本地推理"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:40:30Z",
-  "updated_at": "2026-07-19T06:40:30Z",
+  "created_at": "2026-07-19T09:45:18Z",
+  "updated_at": "2026-07-19T09:45:18Z",
   "analysis": {
-    "description": "MAX模型已支持在Apple Silicon GPU上运行，利用Metal Performance Shaders优化，实现高效本地推理。该更新降低了AI模型部署门槛，适用于Mac设备上的机器学习任务。",
+    "description": "Modular公司宣布其MAX模型现在支持在Apple Silicon GPU上运行，利用Metal性能着色器进行加速。这一更新使得开发者能够在Mac设备上高效执行AI推理任务，无需依赖外部GPU或云服务。",
     "tech_category": "大语言模型",
-    "innovation": "将MAX模型适配至Apple Silicon GPU，利用MPS加速推理。",
+    "innovation": "将MAX模型优化适配Apple Silicon GPU，利用Metal性能着色器实现本地高效推理。",
     "difficulty": "中等",
     "use_cases": [
-      "Mac设备上的AI推理",
-      "本地大语言模型部署",
-      "边缘计算AI应用"
+      "在Mac上运行AI模型进行本地推理",
+      "开发AI应用无需外部GPU",
+      "提升Mac设备上的AI性能"
     ],
     "score": 8
   }

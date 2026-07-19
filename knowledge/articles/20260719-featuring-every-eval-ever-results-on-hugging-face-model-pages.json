@@ -3,26 +3,26 @@
   "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
   "source_url": "https://huggingface.co/blog/eee-community-evals",
   "source_platform": "rss",
-  "summary": "Hugging Face模型页面新增社区评估结果展示功能，用户可查看模型在各类基准测试中的表现。",
+  "summary": "Hugging Face在模型页面新增“Every Eval Ever”功能，集中展示社区评估结果，帮助用户快速了解模型性能。",
   "tags": [
     "Hugging Face",
     "模型评估",
-    "社区贡献",
-    "基准测试",
-    "透明度"
+    "社区协作",
+    "性能可视化",
+    "开源工具"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:41:20Z",
-  "updated_at": "2026-07-19T06:41:20Z",
+  "created_at": "2026-07-19T09:46:16Z",
+  "updated_at": "2026-07-19T09:46:16Z",
   "analysis": {
-    "description": "Hugging Face在模型页面集成了社区评估结果，支持用户查看模型在多种基准测试（如GLUE、SuperGLUE等）上的得分，并允许社区贡献评估数据，提升模型透明度和可比较性。",
+    "description": "该功能将社区提交的模型评估结果（如准确率、F1分数等）整合到Hugging Face模型页面，用户可一键查看所有公开评估数据，无需跳转外部链接，提升模型选择效率。",
     "tech_category": "大语言模型",
-    "innovation": "将社区驱动的评估结果直接嵌入模型页面，实现评估数据的标准化和可视化。",
+    "innovation": "将分散的社区评估结果统一集成到模型页面，实现评估数据的集中化和可视化。",
     "difficulty": "入门",
     "use_cases": [
-      "模型选择与比较",
-      "社区评估数据共享",
-      "模型性能透明化"
+      "模型性能对比与选择",
+      "社区评估数据汇总",
+      "模型发布与验证"
     ],
     "score": 8
   }

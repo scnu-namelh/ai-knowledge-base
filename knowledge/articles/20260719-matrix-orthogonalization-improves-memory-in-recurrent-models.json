@@ -3,26 +3,26 @@
   "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
   "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
   "source_platform": "rss",
-  "summary": "通过矩阵正交化技术提升循环模型的记忆能力，解决梯度消失问题。",
+  "summary": "通过矩阵正交化技术提升循环模型的长程记忆能力，解决梯度消失问题。",
   "tags": [
     "矩阵正交化",
     "循环神经网络",
+    "长程记忆",
     "梯度消失",
-    "长期记忆",
     "模型优化"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:40:23Z",
-  "updated_at": "2026-07-19T06:40:23Z",
+  "created_at": "2026-07-19T09:45:09Z",
+  "updated_at": "2026-07-19T09:45:09Z",
   "analysis": {
-    "description": "该技术通过将循环神经网络中的权重矩阵正交化，有效缓解了长期依赖中的梯度消失问题，从而显著提升了模型对长序列数据的记忆能力。实验表明，该方法在多个基准任务上优于传统RNN和LSTM。",
+    "description": "该技术通过将循环神经网络中的权重矩阵正交化，有效缓解了梯度消失和爆炸问题，从而显著提升了模型对长序列数据的记忆能力。实验表明，正交化方法在多个基准任务上优于传统RNN和LSTM。",
     "tech_category": "大语言模型",
-    "innovation": "将矩阵正交化应用于循环模型权重，以增强长期记忆。",
+    "innovation": "将矩阵正交化应用于循环模型权重，增强长期依赖捕获能力。",
     "difficulty": "中等",
     "use_cases": [
-      "长序列文本处理",
-      "时间序列预测",
-      "语音识别"
+      "长序列时间序列预测",
+      "自然语言处理中的长文本建模",
+      "语音识别中的长期依赖处理"
     ],
     "score": 8
   }

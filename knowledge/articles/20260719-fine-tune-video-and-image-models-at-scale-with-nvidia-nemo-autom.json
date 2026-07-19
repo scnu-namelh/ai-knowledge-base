@@ -3,26 +3,26 @@
   "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
   "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
   "source_platform": "rss",
-  "summary": "NVIDIA NeMo Automodel 与 Hugging Face Diffusers 集成，实现大规模视频和图像模型的微调。",
+  "summary": "NVIDIA NeMo Automodel与🤗 Diffusers结合，实现大规模视频和图像模型的微调。",
   "tags": [
     "NVIDIA NeMo",
-    "Hugging Face Diffusers",
-    "模型微调",
-    "分布式训练",
-    "视频模型"
+    "Diffusers",
+    "微调",
+    "视频模型",
+    "图像模型"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:40:37Z",
-  "updated_at": "2026-07-19T06:40:37Z",
+  "created_at": "2026-07-19T09:45:26Z",
+  "updated_at": "2026-07-19T09:45:26Z",
   "analysis": {
-    "description": "该博客介绍了如何利用 NVIDIA NeMo Automodel 和 Hugging Face Diffusers 对视频和图像模型进行大规模微调。NeMo Automodel 提供了自动化的分布式训练和优化，而 Diffusers 提供了丰富的预训练模型和管道，两者结合简化了微调流程，提升了训练效率。",
+    "description": "该博客介绍了如何利用NVIDIA NeMo Automodel和Hugging Face的Diffusers库，高效地对视频和图像模型进行大规模微调，包括数据准备、训练配置和部署优化。",
     "tech_category": "大语言模型",
-    "innovation": "将 NeMo Automodel 的自动化分布式训练能力与 Diffusers 的模型库结合，实现高效的大规模微调。",
+    "innovation": "将NVIDIA NeMo Automodel的自动化训练能力与Diffusers的灵活模型接口结合，简化大规模微调流程。",
     "difficulty": "中等",
     "use_cases": [
-      "图像生成模型微调",
-      "视频生成模型微调",
-      "大规模分布式训练"
+      "视频生成模型优化",
+      "图像生成模型定制",
+      "大规模模型训练部署"
     ],
     "score": 8
   }

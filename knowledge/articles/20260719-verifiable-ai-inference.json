@@ -3,26 +3,26 @@
   "title": "Verifiable AI inference",
   "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
   "source_platform": "rss",
-  "summary": "本文探讨了可验证AI推理的概念，旨在确保AI模型输出的可信度和透明度，通过技术手段验证推理过程的正确性。",
+  "summary": "Verifiable AI inference 探讨了如何确保AI推理过程的可验证性，以增强信任和透明度。",
   "tags": [
-    "可验证AI",
-    "推理验证",
-    "可信AI",
-    "密码学",
-    "形式化验证"
+    "可验证推理",
+    "AI信任",
+    "加密证明",
+    "透明度",
+    "模型安全"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:39:59Z",
-  "updated_at": "2026-07-19T06:39:59Z",
+  "created_at": "2026-07-19T09:44:42Z",
+  "updated_at": "2026-07-19T09:44:42Z",
   "analysis": {
-    "description": "文章介绍了可验证AI推理的重要性，即通过密码学或形式化验证方法，确保AI模型在推理过程中未被篡改或产生错误结果，从而增强用户对AI系统的信任。",
+    "description": "该技术关注于通过加密和验证机制，确保AI模型在推理时输出的结果可以被用户或第三方独立验证，防止篡改或错误，适用于需要高可靠性的场景。",
     "tech_category": "大语言模型",
-    "innovation": "提出通过验证机制确保AI推理过程的可信性，提升模型输出的可靠性和透明度。",
+    "innovation": "提出了一种结合密码学证明的AI推理验证框架，确保输出结果的完整性和来源可信。",
     "difficulty": "较高",
     "use_cases": [
-      "金融风控中的模型输出验证",
-      "医疗诊断AI的可靠性保障",
-      "法律咨询AI的决策可追溯"
+      "金融风控决策验证",
+      "医疗诊断结果审计",
+      "法律文书自动生成验证"
     ],
     "score": 8
   }

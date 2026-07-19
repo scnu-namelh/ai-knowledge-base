@@ -4,7 +4,7 @@
     "url": "https://github.com/openclaw/openclaw",
     "source": "github",
     "summary": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "popularity": 383427,
+    "popularity": 383437,
     "owner": "openclaw",
     "topics": [
       "ai",
@@ -16,15 +16,15 @@
       "personal"
     ],
     "language": "TypeScript",
-    "forks": 80538,
-    "updated_at": "2026-07-19T06:37:40Z"
+    "forks": 80536,
+    "updated_at": "2026-07-19T09:43:04Z"
   },
   {
     "title": "obra/superpowers",
     "url": "https://github.com/obra/superpowers",
     "source": "github",
     "summary": "An agentic skills framework & software development methodology that works.",
-    "popularity": 257213,
+    "popularity": 257285,
     "owner": "obra",
     "topics": [
       "ai",
@@ -37,15 +37,15 @@
       "superpowers"
     ],
     "language": "Shell",
-    "forks": 22920,
-    "updated_at": "2026-07-19T06:36:13Z"
+    "forks": 22922,
+    "updated_at": "2026-07-19T09:35:15Z"
   },
   {
     "title": "affaan-m/ECC",
     "url": "https://github.com/affaan-m/ECC",
     "source": "github",
     "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "popularity": 230993,
+    "popularity": 231035,
     "owner": "affaan-m",
     "topics": [
       "ai-agents",
@@ -58,15 +58,15 @@
       "productivity"
     ],
     "language": "JavaScript",
-    "forks": 35244,
-    "updated_at": "2026-07-19T06:38:12Z"
+    "forks": 35248,
+    "updated_at": "2026-07-19T09:37:34Z"
   },
   {
     "title": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "source": "github",
     "summary": "The agent that grows with you",
-    "popularity": 216944,
+    "popularity": 217006,
     "owner": "NousResearch",
     "topics": [
       "ai",
@@ -87,15 +87,15 @@
       "openclaw"
     ],
     "language": "Python",
-    "forks": 40772,
-    "updated_at": "2026-07-19T06:35:10Z"
+    "forks": 40796,
+    "updated_at": "2026-07-19T09:32:54Z"
   },
   {
     "title": "n8n-io/n8n",
     "url": "https://github.com/n8n-io/n8n",
     "source": "github",
     "summary": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-    "popularity": 196994,
+    "popularity": 197008,
     "owner": "n8n-io",
     "topics": [
       "ai",
@@ -120,51 +120,51 @@
       "workflow-automation"
     ],
     "language": "TypeScript",
-    "forks": 59455,
-    "updated_at": "2026-07-19T06:22:43Z"
+    "forks": 59456,
+    "updated_at": "2026-07-19T09:43:04Z"
   },
   {
     "title": "ultraworkers/claw-code",
     "url": "https://github.com/ultraworkers/claw-code",
     "source": "github",
     "summary": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
-    "popularity": 194811,
+    "popularity": 194815,
     "owner": "ultraworkers",
     "topics": [],
     "language": "Rust",
-    "forks": 109611,
-    "updated_at": "2026-07-19T06:03:07Z"
+    "forks": 109610,
+    "updated_at": "2026-07-19T09:36:25Z"
   },
   {
     "title": "multica-ai/andrej-karpathy-skills",
     "url": "https://github.com/multica-ai/andrej-karpathy-skills",
     "source": "github",
     "summary": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "popularity": 194047,
+    "popularity": 194122,
     "owner": "multica-ai",
     "topics": [],
     "language": "",
-    "forks": 19965,
-    "updated_at": "2026-07-19T06:38:44Z"
+    "forks": 19970,
+    "updated_at": "2026-07-19T09:38:54Z"
   },
   {
     "title": "anomalyco/opencode",
     "url": "https://github.com/anomalyco/opencode",
     "source": "github",
     "summary": "The open source coding agent.",
-    "popularity": 187299,
+    "popularity": 187337,
     "owner": "anomalyco",
     "topics": [],
     "language": "TypeScript",
-    "forks": 23527,
-    "updated_at": "2026-07-19T06:37:53Z"
+    "forks": 23538,
+    "updated_at": "2026-07-19T09:43:18Z"
   },
   {
     "title": "Significant-Gravitas/AutoGPT",
     "url": "https://github.com/Significant-Gravitas/AutoGPT",
     "source": "github",
     "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-    "popularity": 185600,
+    "popularity": 185603,
     "owner": "Significant-Gravitas",
     "topics": [
       "agentic-ai",
@@ -180,27 +180,27 @@
       "python"
     ],
     "language": "Python",
-    "forks": 46075,
-    "updated_at": "2026-07-19T06:25:55Z"
+    "forks": 46073,
+    "updated_at": "2026-07-19T09:08:02Z"
   },
   {
     "title": "mattpocock/skills",
     "url": "https://github.com/mattpocock/skills",
     "source": "github",
     "summary": "Skills for Real Engineers. Straight from my .agents directory.",
-    "popularity": 176789,
+    "popularity": 176934,
     "owner": "mattpocock",
     "topics": [],
     "language": "Shell",
-    "forks": 15157,
-    "updated_at": "2026-07-19T06:38:46Z"
+    "forks": 15171,
+    "updated_at": "2026-07-19T09:42:50Z"
   },
   {
     "title": "ollama/ollama",
     "url": "https://github.com/ollama/ollama",
     "source": "github",
     "summary": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-    "popularity": 176422,
+    "popularity": 176431,
     "owner": "ollama",
     "topics": [
       "deepseek",
@@ -220,15 +220,15 @@
       "qwen"
     ],
     "language": "Go",
-    "forks": 17025,
-    "updated_at": "2026-07-19T06:20:12Z"
+    "forks": 17026,
+    "updated_at": "2026-07-19T09:35:08Z"
   },
   {
     "title": "f/prompts.chat",
     "url": "https://github.com/f/prompts.chat",
     "source": "github",
     "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-    "popularity": 165989,
+    "popularity": 165995,
     "owner": "f",
     "topics": [
       "ai",
@@ -252,14 +252,14 @@
     ],
     "language": "HTML",
     "forks": 21466,
-    "updated_at": "2026-07-19T06:20:32Z"
+    "updated_at": "2026-07-19T09:36:27Z"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "source": "github",
     "summary": "Stable Diffusion web UI",
-    "popularity": 164217,
+    "popularity": 164220,
     "owner": "AUTOMATIC1111",
     "topics": [
       "ai",
@@ -280,15 +280,15 @@
       "web"
     ],
     "language": "Python",
-    "forks": 30417,
-    "updated_at": "2026-07-19T04:49:44Z"
+    "forks": 30418,
+    "updated_at": "2026-07-19T09:35:57Z"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "source": "github",
     "summary": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-    "popularity": 162716,
+    "popularity": 162722,
     "owner": "huggingface",
     "topics": [
       "audio",
@@ -312,22 +312,22 @@
       "vlm"
     ],
     "language": "Python",
-    "forks": 33935,
-    "updated_at": "2026-07-19T06:15:57Z"
+    "forks": 33936,
+    "updated_at": "2026-07-19T09:34:48Z"
   },
   {
     "title": "anthropics/skills",
     "url": "https://github.com/anthropics/skills",
     "source": "github",
     "summary": "Public repository for Agent Skills",
-    "popularity": 162505,
+    "popularity": 162550,
     "owner": "anthropics",
     "topics": [
       "agent-skills"
     ],
     "language": "Python",
-    "forks": 19263,
-    "updated_at": "2026-07-19T06:38:17Z"
+    "forks": 19266,
+    "updated_at": "2026-07-19T09:36:47Z"
   },
   {
     "title": "Snailclimb/JavaGuide",
@@ -352,15 +352,15 @@
       "system-design"
     ],
     "language": "JavaScript",
-    "forks": 46179,
-    "updated_at": "2026-07-19T06:27:08Z"
+    "forks": 46180,
+    "updated_at": "2026-07-19T09:34:35Z"
   },
   {
     "title": "firecrawl/firecrawl",
     "url": "https://github.com/firecrawl/firecrawl",
     "source": "github",
     "summary": "The API to search, scrape, and interact with the web at scale. 🔥",
-    "popularity": 152884,
+    "popularity": 152929,
     "owner": "firecrawl",
     "topics": [
       "ai",
@@ -385,14 +385,14 @@
     ],
     "language": "TypeScript",
     "forks": 8733,
-    "updated_at": "2026-07-19T06:37:30Z"
+    "updated_at": "2026-07-19T09:39:14Z"
   },
   {
     "title": "langflow-ai/langflow",
     "url": "https://github.com/langflow-ai/langflow",
     "source": "github",
     "summary": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
-    "popularity": 152010,
+    "popularity": 152012,
     "owner": "langflow-ai",
     "topics": [
       "agents",
@@ -403,15 +403,15 @@
       "react-flow"
     ],
     "language": "Python",
-    "forks": 9594,
-    "updated_at": "2026-07-19T06:13:16Z"
+    "forks": 9592,
+    "updated_at": "2026-07-19T09:39:17Z"
   },
   {
     "title": "langgenius/dify",
     "url": "https://github.com/langgenius/dify",
     "source": "github",
     "summary": "Production-ready platform for agentic workflow development.",
-    "popularity": 149285,
+    "popularity": 149298,
     "owner": "langgenius",
     "topics": [
       "agent",
@@ -436,15 +436,15 @@
       "workflow"
     ],
     "language": "TypeScript",
-    "forks": 23518,
-    "updated_at": "2026-07-19T06:35:32Z"
+    "forks": 23523,
+    "updated_at": "2026-07-19T09:37:03Z"
   },
   {
     "title": "open-webui/open-webui",
     "url": "https://github.com/open-webui/open-webui",
     "source": "github",
     "summary": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-    "popularity": 145906,
+    "popularity": 145916,
     "owner": "open-webui",
     "topics": [
       "ai",
@@ -464,7 +464,7 @@
       "webui"
     ],
     "language": "Python",
-    "forks": 21148,
-    "updated_at": "2026-07-19T06:27:11Z"
+    "forks": 21151,
+    "updated_at": "2026-07-19T09:34:17Z"
   }
 ]

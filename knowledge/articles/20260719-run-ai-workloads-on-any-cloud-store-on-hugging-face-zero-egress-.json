@@ -3,26 +3,26 @@
   "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
   "source_url": "https://huggingface.co/blog/skypilot-hf-storage",
   "source_platform": "rss",
-  "summary": "SkyPilot与Hugging Face集成，实现零出站费用的云存储，支持在任何云上运行AI工作负载。",
+  "summary": "SkyPilot与Hugging Face集成，实现零出口费用的云存储，支持在任何云上运行AI工作负载。",
   "tags": [
     "SkyPilot",
     "Hugging Face",
     "多云存储",
-    "零出站费用",
+    "零出口费用",
     "AI工作负载"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:41:04Z",
-  "updated_at": "2026-07-19T06:41:04Z",
+  "created_at": "2026-07-19T09:45:56Z",
+  "updated_at": "2026-07-19T09:45:56Z",
   "analysis": {
-    "description": "该技术通过SkyPilot与Hugging Face存储的深度集成，允许用户在任何云平台上运行AI工作负载，同时将数据存储在Hugging Face上，避免了云服务商的高额出站流量费用。这简化了多云环境下的数据管理和成本控制。",
-    "tech_category": "AI基础设施与多云管理",
-    "innovation": "零出站费用的多云存储与计算集成，优化AI工作负载的部署和成本。",
+    "description": "该技术通过SkyPilot与Hugging Face存储的集成，允许用户在任何云平台上运行AI工作负载，同时将数据存储在Hugging Face上，避免了云服务商之间的数据出口费用，简化了多云环境下的数据管理。",
+    "tech_category": "云原生AI基础设施",
+    "innovation": "实现零出口费用的跨云AI工作负载与存储解耦，利用Hugging Face作为统一存储层。",
     "difficulty": "中等",
     "use_cases": [
-      "跨云AI模型训练与推理",
-      "降低云存储出站成本",
-      "简化多云数据管理"
+      "跨云AI训练与推理",
+      "多云数据管理",
+      "降低云服务商锁定成本"
     ],
     "score": 8
   }
