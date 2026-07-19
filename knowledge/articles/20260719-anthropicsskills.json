@@ -3,26 +3,26 @@
   "title": "anthropics/skills",
   "source_url": "https://github.com/anthropics/skills",
   "source_platform": "github",
-  "summary": "Anthropics 发布的 Agent Skills 公共仓库，提供可复用的 AI 代理技能实现，基于 Python 开发。",
+  "summary": "Anthropics 发布的 Agent Skills 公共仓库，提供可复用的 AI 代理技能实现，基于 Python 语言。",
   "tags": [
-    "多智能体",
     "AI代理",
     "技能库",
     "Python",
+    "开源",
     "Anthropics"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:04:51Z",
-  "updated_at": "2026-07-19T06:04:51Z",
+  "created_at": "2026-07-19T06:39:36Z",
+  "updated_at": "2026-07-19T06:39:36Z",
   "analysis": {
-    "description": "该仓库由 Anthropics 维护，包含一系列可复用的 AI 代理技能（Agent Skills），旨在帮助开发者快速构建和部署具备特定能力的智能代理。项目使用 Python 语言实现，提供了模块化的技能组件，便于集成到各种 AI 应用中。",
+    "description": "该仓库由 Anthropics 维护，包含一系列预构建的 AI 代理技能模块，旨在帮助开发者快速集成和部署智能代理功能。技能覆盖多种任务场景，代码开源且易于扩展。",
     "tech_category": "多智能体",
-    "innovation": "提供标准化、可复用的 AI 代理技能模块，降低智能代理开发门槛。",
+    "innovation": "提供标准化、可复用的代理技能组件，降低 AI 代理开发门槛。",
     "difficulty": "中等",
     "use_cases": [
-      "构建智能客服代理",
+      "智能客服代理",
       "自动化任务执行",
-      "多代理协作系统"
+      "多步骤工作流编排"
     ],
     "score": 8
   }

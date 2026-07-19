@@ -8,21 +8,21 @@
     "AI代理",
     "Java框架迁移",
     "基准测试",
-    "企业级应用",
+    "企业应用",
     "代码重构"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:06:46Z",
-  "updated_at": "2026-07-19T06:06:46Z",
+  "created_at": "2026-07-19T06:41:15Z",
+  "updated_at": "2026-07-19T06:41:15Z",
   "analysis": {
-    "description": "ScarfBench由IBM Research提出，旨在系统性地评估AI代理在将企业Java应用从旧框架迁移到新框架时的能力，包括代码理解、重构和测试等环节。",
+    "description": "ScarfBench由IBM Research提出，专门用于衡量AI代理在将企业Java应用从旧框架迁移到新框架时的能力，包括代码重构、依赖更新和测试验证等复杂任务。",
     "tech_category": "AI编程工具",
-    "innovation": "首次针对企业级Java框架迁移场景设计专门的AI代理基准测试。",
+    "innovation": "首个针对企业级Java框架迁移的AI代理基准测试，填补了该领域评估标准的空白。",
     "difficulty": "较高",
     "use_cases": [
-      "评估AI代理在代码迁移中的性能",
-      "指导企业选择AI辅助迁移工具",
-      "推动AI在软件工程中的应用研究"
+      "评估AI代理在大型代码库迁移中的表现",
+      "指导企业选择适合的AI迁移工具",
+      "推动AI辅助软件现代化研究"
     ],
     "score": 8
   }

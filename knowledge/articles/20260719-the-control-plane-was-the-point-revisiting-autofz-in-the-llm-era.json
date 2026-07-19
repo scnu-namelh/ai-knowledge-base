@@ -3,26 +3,26 @@
   "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
   "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
   "source_platform": "rss",
-  "summary": "本文重新审视了autofz在LLM时代的价值，强调控制平面（control plane）才是关键，而非仅仅依赖LLM生成测试用例。",
+  "summary": "本文重新审视了autofz在LLM时代的控制平面设计，强调控制平面作为关键点，探讨了如何利用大语言模型提升模糊测试的效率与智能性。",
   "tags": [
     "autofz",
     "模糊测试",
+    "大语言模型",
     "控制平面",
-    "LLM",
-    "自动化测试"
+    "漏洞发现"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:05:42Z",
-  "updated_at": "2026-07-19T06:05:42Z",
+  "created_at": "2026-07-19T06:40:21Z",
+  "updated_at": "2026-07-19T06:40:21Z",
   "analysis": {
-    "description": "作者回顾了autofz这一基于模糊测试的自动化工具，指出在LLM时代，控制平面的设计比单纯使用LLM生成测试用例更为重要。通过分析autofz的架构和实际应用，作者提出控制平面能够更有效地指导测试过程，提升测试覆盖率与效率。",
-    "tech_category": "AI编程工具",
-    "innovation": "强调控制平面在LLM时代自动化测试中的核心作用，而非仅依赖LLM生成内容。",
-    "difficulty": "中等",
+    "description": "文章回顾了autofz工具的核心设计理念，指出控制平面在模糊测试中的重要性，并分析了在大语言模型时代，如何通过LLM增强控制平面的决策能力，实现更高效的漏洞发现。作者通过实验展示了改进后的autofz在复杂场景下的性能提升。",
+    "tech_category": "大语言模型",
+    "innovation": "将大语言模型集成到模糊测试的控制平面中，利用其推理能力优化测试策略。",
+    "difficulty": "较高",
     "use_cases": [
-      "软件测试自动化",
+      "软件安全测试",
       "漏洞挖掘",
-      "测试用例生成优化"
+      "自动化测试优化"
     ],
     "score": 8
   }

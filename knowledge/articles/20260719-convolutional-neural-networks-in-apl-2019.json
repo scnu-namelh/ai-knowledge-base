@@ -3,27 +3,27 @@
   "title": "Convolutional Neural Networks in APL (2019)",
   "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
   "source_platform": "rss",
-  "summary": "本文展示了如何在APL语言中实现卷积神经网络，利用APL的数组操作特性简化CNN的实现。",
+  "summary": "本文展示了如何在APL语言中实现卷积神经网络，利用APL的数组操作优势简化CNN的构建与训练过程。",
   "tags": [
-    "APL",
     "卷积神经网络",
-    "数组编程",
+    "APL",
     "深度学习",
-    "计算机视觉"
+    "数组编程",
+    "机器学习"
   ],
   "status": "analyzed",
-  "created_at": "2026-07-19T06:05:51Z",
-  "updated_at": "2026-07-19T06:05:51Z",
+  "created_at": "2026-07-19T06:40:28Z",
+  "updated_at": "2026-07-19T06:40:28Z",
   "analysis": {
-    "description": "该论文详细介绍了在APL（一种数组编程语言）中构建卷积神经网络的方法，利用APL强大的多维数组操作能力，实现了卷积、池化等核心操作，并讨论了其性能与可读性优势。",
+    "description": "该论文详细介绍了在APL（一种数组编程语言）中实现卷积神经网络的方法，利用APL强大的数组操作能力，将CNN的前向传播、反向传播和梯度下降等核心步骤用简洁的APL代码表达，展示了APL在深度学习领域的潜力。",
     "tech_category": "计算机视觉",
-    "innovation": "利用APL的数组操作特性，以极简代码实现CNN，展示了非主流语言在深度学习中的潜力。",
+    "innovation": "将卷积神经网络用APL语言实现，利用数组操作简化深度学习模型的代码表达。",
     "difficulty": "较高",
     "use_cases": [
-      "教学演示CNN原理",
-      "探索非主流语言在AI中的应用",
-      "高性能数组计算场景"
+      "教学演示APL在深度学习中的应用",
+      "探索非传统语言实现神经网络",
+      "研究数组编程对深度学习效率的影响"
     ],
-    "score": 8
+    "score": 7
   }
 }
