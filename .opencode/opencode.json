@@ -2,5 +2,6 @@
   "$schema": "https://opencode.ai/config.json",
   "skills": {
     "paths": ["skills/mattpocock"]
-  }
+  },
+  "plugin": ["plugins/validate.ts"]
 }

@@ -1,0 +1,129 @@
+INFO:__main__:Pipeline started: sources=['github', 'rss'] limit=10 dry_run=False steps=[1, 2]
+INFO:__main__:========================================
+INFO:__main__:Step 1: Collect
+INFO:__main__:========================================
+INFO:__main__:Fetching GitHub repos: q=ai OR llm OR agent in:name,description,topics per_page=10
+INFO:httpx:HTTP Request: GET https://api.github.com/search/repositories?q=ai+OR+llm+OR+agent+in%3Aname%2Cdescription%2Ctopics&sort=stars&order=desc&per_page=10 "HTTP/1.1 200 OK"
+INFO:__main__:Collected 10 items from GitHub
+INFO:__main__:Fetching RSS: Lobsters AI (https://lobste.rs/t/ai.rss)
+INFO:httpx:HTTP Request: GET https://lobste.rs/t/ai.rss "HTTP/1.1 200 OK"
+INFO:__main__:Fetching RSS: OpenAI Blog (https://openai.com/feed.xml)
+INFO:httpx:HTTP Request: GET https://openai.com/feed.xml "HTTP/1.1 403 Forbidden"
+WARNING:__main__:Failed to fetch RSS OpenAI Blog: Client error '403 Forbidden' for url 'https://openai.com/feed.xml'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403
+INFO:__main__:Fetching RSS: Anthropic Research (https://www.anthropic.com/research)
+INFO:httpx:HTTP Request: GET https://www.anthropic.com/research "HTTP/1.1 200 OK"
+INFO:__main__:Fetching RSS: Hugging Face Blog (https://huggingface.co/blog/feed.xml)
+WARNING:__main__:Failed to fetch RSS Hugging Face Blog: [Errno 101] Network is unreachable
+INFO:__main__:Collected 10 items from RSS
+INFO:__main__:Total collected: 20 items
+INFO:__main__:Saved raw: github-20260719.json (10 items)
+INFO:__main__:Saved raw: rss-20260719.json (10 items)
+INFO:__main__:========================================
+INFO:__main__:Step 2: Analyze
+INFO:__main__:========================================
+INFO:__main__:[1/20] Analyzing: openclaw/openclaw
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=226, completion_tokens=142, total_tokens=368)
+INFO:__main__:[2/20] Analyzing: obra/superpowers
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=214, completion_tokens=160, total_tokens=374)
+INFO:__main__:[3/20] Analyzing: affaan-m/ECC
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=238, completion_tokens=166, total_tokens=404)
+INFO:__main__:[4/20] Analyzing: NousResearch/hermes-agent
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=211, completion_tokens=144, total_tokens=355)
+INFO:__main__:[5/20] Analyzing: n8n-io/n8n
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=237, completion_tokens=163, total_tokens=400)
+INFO:__main__:[6/20] Analyzing: ultraworkers/claw-code
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=237, completion_tokens=170, total_tokens=407)
+INFO:__main__:[7/20] Analyzing: multica-ai/andrej-karpathy-skills
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=243, completion_tokens=173, total_tokens=416)
+INFO:__main__:[8/20] Analyzing: anomalyco/opencode
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=214, completion_tokens=155, total_tokens=369)
+INFO:__main__:[9/20] Analyzing: Significant-Gravitas/AutoGPT
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=245, completion_tokens=159, total_tokens=404)
+INFO:__main__:[10/20] Analyzing: mattpocock/skills
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+INFO:model_client:Received response from deepseek usage=Usage(prompt_tokens=221, completion_tokens=150, total_tokens=371)
+INFO:__main__:[11/20] Analyzing: Human-like Neural Nets by Catapulting
+INFO:model_client:Sending chat request to deepseek model=deepseek-chat messages=2
+INFO:httpx:HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "/home/ubuntu/ai-knowledge-base/pipeline/pipeline.py", line 989, in <module>
+    main()
+  File "/home/ubuntu/ai-knowledge-base/pipeline/pipeline.py", line 836, in main
+    run_pipeline(
+  File "/home/ubuntu/ai-knowledge-base/pipeline/pipeline.py", line 745, in run_pipeline
+    step_analyze = analyze(step_collect, dry_run=dry_run)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/ai-knowledge-base/pipeline/pipeline.py", line 420, in analyze
+    response = chat_with_retry(
+               ^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/ai-knowledge-base/pipeline/model_client.py", line 295, in chat_with_retry
+    return provider.chat(
+           ^^^^^^^^^^^^^^
+  File "/home/ubuntu/ai-knowledge-base/pipeline/model_client.py", line 178, in chat
+    response = client.post("/chat/completions", json=payload)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_client.py", line 1144, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_client.py", line 928, in send
+    raise exc
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_client.py", line 922, in send
+    response.read()
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_models.py", line 881, in read
+    self._content = b"".join(self.iter_bytes())
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_models.py", line 897, in iter_bytes
+    for raw_bytes in self.iter_raw():
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_models.py", line 951, in iter_raw
+    for raw_stream_bytes in self.stream:
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_client.py", line 153, in __iter__
+    for chunk in self._stream:
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpx/_transports/default.py", line 127, in __iter__
+    for part in self._httpcore_stream:
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 407, in __iter__
+    raise exc from None
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 403, in __iter__
+    for part in self._stream:
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 342, in __iter__
+    raise exc
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 334, in __iter__
+    for chunk in self._connection._receive_response_body(**kwargs):
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 203, in _receive_response_body
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.hermes/hermes-agent/venv/lib/python3.11/site-packages/httpcore/_backends/sync.py", line 128, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/share/uv/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/ssl.py", line 1307, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "/home/ubuntu/.local/share/uv/python/cpython-3.11.15-linux-x86_64-gnu/lib/python3.11/ssl.py", line 1180, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

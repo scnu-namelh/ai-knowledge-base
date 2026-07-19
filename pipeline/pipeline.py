@@ -593,32 +593,172 @@ def save_raw(items: List[RawItem], dry_run: bool = False) -> None:
 # ---------------------------------------------------------------------------
 
 
+INTERMEDIATE_DIR = RAW_DIR / "_intermediate"
+
+
+def _intermediate_path(date: Optional[str] = None) -> Path:
+    """返回分析中间结果文件路径。
+
+    Args:
+        date: 日期字符串，为 None 时使用当前日期。
+
+    Returns:
+        中间结果文件路径。
+    """
+    d = date or DATE_STAMP
+    INTERMEDIATE_DIR.mkdir(parents=True, exist_ok=True)
+    return INTERMEDIATE_DIR / f"analyzed_{d}.json"
+
+
+def _save_intermediate(articles: List[Article], dry_run: bool = False) -> None:
+    """保存分析后的中间结果到磁盘。
+
+    Args:
+        articles: Article 列表。
+        dry_run: 为 True 时不写入。
+    """
+    if dry_run or not articles:
+        return
+    data = [a.data for a in articles]
+    path = _intermediate_path()
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    logger.info("Saved intermediate: %s (%d articles)", path.name, len(articles))
+
+
+def _load_latest_intermediate() -> List[Dict[str, Any]]:
+    """加载最近一次分析步骤保存的中间结果。
+
+    按文件名中的日期后缀降序排序，取最新文件。
+
+    Returns:
+        Article 原始数据字典列表，无可用文件时返回空列表。
+    """
+    if not INTERMEDIATE_DIR.exists():
+        return []
+    files = sorted(INTERMEDIATE_DIR.glob("analyzed_*.json"), reverse=True)
+    if not files:
+        return []
+    latest = files[0]
+    with open(latest, encoding="utf-8") as f:
+        data = json.load(f)
+    logger.info("Loaded intermediate: %s (%d articles)", latest.name, len(data))
+    return data
+
+
+def _load_latest_raw() -> List[RawItem]:
+    """从 knowledge/raw/ 加载最近一次采集的原始数据。
+
+    Returns:
+        RawItem 列表。
+    """
+    if not RAW_DIR.exists():
+        return []
+    files = sorted(RAW_DIR.glob("*.json"), reverse=True)
+    raw_items: List[RawItem] = []
+    for f in files[:3]:
+        if f.parent.name == "_intermediate":
+            continue
+        try:
+            with open(f, encoding="utf-8") as fh:
+                data = json.load(fh)
+        except (json.JSONDecodeError, OSError):
+            continue
+        for entry in data if isinstance(data, list) else [data]:
+            raw_items.append(RawItem(
+                title=entry.get("title", ""),
+                url=entry.get("url", entry.get("source_url", "")),
+                source=entry.get("source", entry.get("source_platform", "unknown")),
+                summary=entry.get("summary", ""),
+                popularity=entry.get("popularity", 0),
+                extra=entry.get("extra", {}),
+            ))
+    return raw_items
+
+
+def _rebuild_articles_from_data(data_list: List[Dict[str, Any]]) -> List[Article]:
+    """从字典列表重建 Article 对象。
+
+    Args:
+        data_list: Article.data 字典列表。
+
+    Returns:
+        Article 列表。
+    """
+    articles: List[Article] = []
+    for d in data_list:
+        raw = RawItem(
+            title=d.get("title", ""),
+            url=d.get("source_url", ""),
+            source=d.get("source_platform", "unknown"),
+            summary=d.get("summary", ""),
+        )
+        analysis = d.get("analysis", {})
+        article = Article(raw, {
+            "summary": d.get("summary", ""),
+            "tags": d.get("tags", []),
+            "description": analysis.get("description", ""),
+            "tech_category": analysis.get("tech_category", ""),
+            "innovation": analysis.get("innovation", ""),
+            "difficulty": analysis.get("difficulty", ""),
+            "use_cases": analysis.get("use_cases", []),
+            "score": analysis.get("score", 0),
+        })
+        article.data["id"] = d.get("id", article.data["id"])
+        article.data["created_at"] = d.get("created_at", article.data["created_at"])
+        article.data["updated_at"] = d.get("updated_at", article.data["updated_at"])
+        articles.append(article)
+    return articles
+
+
 def run_pipeline(
-    sources: List[str],
+    sources: Optional[List[str]] = None,
     limit: int = 10,
     dry_run: bool = False,
+    steps: Optional[List[int]] = None,
 ) -> None:
-    """执行完整流水线：采集 → 分析 → 整理 → 保存。
+    """执行流水线：采集 → 分析 → 整理 → 保存，支持指定步骤。
 
     Args:
         sources: 源名称列表，如 ["github", "rss"]。
         limit: 每个源的最大采集数量。
         dry_run: 为 True 时跳过文件写入。
+        steps: 要运行的步骤编号列表（1-4），为 None 时运行全部。
     """
-    logger.info("Pipeline started: sources=%s limit=%d dry_run=%s",
-                sources, limit, dry_run)
+    steps = steps or [1, 2, 3, 4]
+    sources = sources or ["github", "rss"]
 
-    step_collect = collect(sources, limit)
-    save_raw(step_collect, dry_run=dry_run)
+    logger.info("Pipeline started: sources=%s limit=%d dry_run=%s steps=%s",
+                sources, limit, dry_run, steps)
 
-    step_analyze = analyze(step_collect, dry_run=dry_run)
+    # Step 1: Collect
+    step_collect: List[RawItem] = []
+    if 1 in steps:
+        step_collect = collect(sources, limit)
+        save_raw(step_collect, dry_run=dry_run)
+    else:
+        step_collect = _load_latest_raw()
 
-    step_organize = organize(step_analyze)
+    # Step 2: Analyze
+    step_analyze: List[Article] = []
+    if 2 in steps:
+        step_analyze = analyze(step_collect, dry_run=dry_run)
+        _save_intermediate(step_analyze, dry_run=dry_run)
+    else:
+        intermediate_data = _load_latest_intermediate()
+        step_analyze = _rebuild_articles_from_data(intermediate_data)
 
-    save(step_organize, dry_run=dry_run)
+    # Step 3: Organize
+    step_organize: List[Article] = []
+    if 3 in steps:
+        step_organize = organize(step_analyze)
 
-    logger.info("Pipeline finished: %d collected, %d articles saved",
-                len(step_collect), len(step_organize))
+    # Step 4: Save
+    if 4 in steps:
+        save(step_organize, dry_run=dry_run)
+
+    logger.info("Pipeline finished: %d collected, %d analyzed, %d articles",
+                len(step_collect), len(step_analyze), len(step_organize))
 
 
 # ---------------------------------------------------------------------------
@@ -644,6 +784,8 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
             "  python pipeline/pipeline.py --sources github --limit 5\n"
             "  python pipeline/pipeline.py --sources rss --limit 10\n"
             "  python pipeline/pipeline.py --sources github --limit 5 --dry-run\n"
+            "  python pipeline/pipeline.py --step 1 --step 2\n"
+            "  python pipeline/pipeline.py --step 3 --step 4\n"
             "  python pipeline/pipeline.py --verbose\n"
         ),
     )
@@ -657,6 +799,14 @@ def parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
         type=int,
         default=10,
         help="每个源的最大采集数量，默认 10",
+    )
+    parser.add_argument(
+        "--step",
+        type=int,
+        action="append",
+        dest="steps",
+        choices=[1, 2, 3, 4],
+        help="要运行的步骤编号（可重复，如 --step 1 --step 2），不指定则运行全部",
     )
     parser.add_argument(
         "--dry-run",
@@ -683,7 +833,12 @@ def main(argv: Optional[List[str]] = None) -> None:
         logging.getLogger().setLevel(logging.DEBUG)
 
     sources = [s.strip() for s in args.sources.split(",") if s.strip()]
-    run_pipeline(sources=sources, limit=args.limit, dry_run=args.dry_run)
+    run_pipeline(
+        sources=sources,
+        limit=args.limit,
+        dry_run=args.dry_run,
+        steps=args.steps,
+    )
 
 
 # ---------------------------------------------------------------------------

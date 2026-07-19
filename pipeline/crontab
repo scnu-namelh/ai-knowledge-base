@@ -1,0 +1,20 @@
+# AI 知识库自动化流水线 — Crontab 配置
+#
+# 安装方式：
+#   crontab pipeline/crontab
+#
+# 日志文件会自动追加到以下位置（需提前创建 logs/ 目录）：
+#   logs/collect.log
+#   logs/analyze.log
+
+# ─────────────────────────────────────────────
+# 每天早上 8:00 — Step 1 (采集) + Step 2 (分析)
+# 从 GitHub Search API 和 RSS 源获取最新数据并调用 LLM 分析
+# ─────────────────────────────────────────────
+0 8 * * * cd /home/ubuntu/ai-knowledge-base && python pipeline/pipeline.py --step 1 --step 2 >> logs/collect.log 2>&1
+
+# ─────────────────────────────────────────────
+# 每周日上午 10:00 — Step 3 (整理) + Step 4 (保存)
+# 对本周采集的数据去重、校验、标准化后写入 knowledge/articles/
+# ─────────────────────────────────────────────
+0 10 * * 0 cd /home/ubuntu/ai-knowledge-base && python pipeline/pipeline.py --step 3 --step 4 >> logs/analyze.log 2>&1

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "How does Pangram work?",
+    "url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/femw5f/how_does_pangram_work\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\"&gt;here&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The book has a companion &lt;a href=\"findingeliza.org\" rel=\"ugc\"&gt;site&lt;/a&gt; - I was monitoring this since I first heard the &lt;a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\"&gt;episode&lt;/a&gt; on CoRecursive.&lt",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Verifiable AI inference",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Tensor is the might",
+    "url": "https://zserge.com/posts/tensor/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "AI Surveillance and Social Progress",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "A Prolog library for interfacing with LLMs",
+    "url": "https://github.com/vagos/llmpl",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  }
+]
