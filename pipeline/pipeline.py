@@ -21,6 +21,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(BASE_DIR))
 RAW_DIR = BASE_DIR / "knowledge" / "raw"
 ARTICLES_DIR = BASE_DIR / "knowledge" / "articles"
 RSS_CONFIG = BASE_DIR / "pipeline" / "rss_sources.yaml"
@@ -547,6 +548,7 @@ def save(articles: List[Article], dry_run: bool = False) -> None:
     output_dir = ARTICLES_DIR
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    saved_paths: list[str] = []
     for article in articles:
         filepath = output_dir / article.filename
         json_str = article.to_json()
@@ -559,6 +561,21 @@ def save(articles: List[Article], dry_run: bool = False) -> None:
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(json_str)
             logger.info("Saved: %s", filepath.name)
+            saved_paths.append(str(filepath))
+
+    if saved_paths:
+        import importlib
+        validate_json = importlib.import_module("hooks.validate_json")
+        result = validate_json.ValidationResult()
+        for path in saved_paths:
+            validate_json.validate_file(path, result)
+        if result.passed:
+            logger.info("Hook validate_json: all %d files passed validation", len(saved_paths))
+        else:
+            logger.warning("Hook validate_json: %d/%d files failed validation",
+                           result.files_failed, len(saved_paths))
+            for error in result.errors:
+                logger.warning("  %s", error)
 
 
 def save_raw(items: List[RawItem], dry_run: bool = False) -> None:
