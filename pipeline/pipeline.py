@@ -564,18 +564,8 @@ def save(articles: List[Article], dry_run: bool = False) -> None:
             saved_paths.append(str(filepath))
 
     if saved_paths:
-        import importlib
-        validate_json = importlib.import_module("hooks.validate_json")
-        result = validate_json.ValidationResult()
-        for path in saved_paths:
-            validate_json.validate_file(path, result)
-        if result.passed:
-            logger.info("Hook validate_json: all %d files passed validation", len(saved_paths))
-        else:
-            logger.warning("Hook validate_json: %d/%d files failed validation",
-                           result.files_failed, len(saved_paths))
-            for error in result.errors:
-                logger.warning("  %s", error)
+        from hooks.dispatcher import fire
+        fire("after_save", file_paths=saved_paths)
 
 
 def save_raw(items: List[RawItem], dry_run: bool = False) -> None:

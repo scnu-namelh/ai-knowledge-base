@@ -291,5 +291,25 @@ def main() -> None:
         sys.exit(1)
 
 
+def handle_after_save(file_paths: list[str], **kwargs: Any) -> None:
+    """Hook: after_save 事件处理 — 验证已保存的 JSON 文件。
+
+    Args:
+        file_paths: 已保存的 JSON 文件路径列表。
+    """
+    result = ValidationResult()
+    for path in file_paths:
+        validate_file(path, result)
+    if result.passed:
+        logging.getLogger(__name__).info(
+            "Hook validate_json: all %d files passed validation", len(file_paths))
+    else:
+        logging.getLogger(__name__).warning(
+            "Hook validate_json: %d/%d files failed validation",
+            result.files_failed, len(file_paths))
+        for error in result.errors:
+            logging.getLogger(__name__).warning("  %s", error)
+
+
 if __name__ == "__main__":
     main()
