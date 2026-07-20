@@ -1,0 +1,29 @@
+{
+  "id": "obrasuperpowers-20260720",
+  "title": "obra/superpowers",
+  "source_url": "https://github.com/obra/superpowers",
+  "source_platform": "github",
+  "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率。",
+  "tags": [
+    "智能体",
+    "软件开发方法论",
+    "框架",
+    "Shell",
+    "效率工具"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:39:52Z",
+  "updated_at": "2026-07-20T10:39:52Z",
+  "analysis": {
+    "description": "该项目提供了一个智能体技能框架和软件开发方法论，通过定义明确的技能和流程，帮助开发者更高效地构建和管理软件项目。它强调实用性和可操作性，适用于多种开发场景。",
+    "tech_category": "AI编程工具",
+    "innovation": "将智能体技能与软件开发方法论结合，提供可落地的框架。",
+    "difficulty": "中等",
+    "use_cases": [
+      "加速软件开发流程",
+      "团队协作开发",
+      "自动化任务管理"
+    ],
+    "score": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fine-tune-video-and-image-models-at-scale-with-nvidia-nemo-autom-20260720",
+  "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+  "source_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+  "source_platform": "rss",
+  "summary": "NVIDIA NeMo Automodel 与 Hugging Face Diffusers 结合，实现视频和图像模型的大规模微调。",
+  "tags": [
+    "NVIDIA NeMo",
+    "Hugging Face Diffusers",
+    "大规模微调",
+    "视频模型",
+    "图像模型"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:41:44Z",
+  "updated_at": "2026-07-20T10:41:44Z",
+  "analysis": {
+    "description": "本文介绍如何使用 NVIDIA NeMo Automodel 和 Hugging Face Diffusers 对视频和图像模型进行大规模微调。通过结合 NeMo 的自动化和 Diffusers 的灵活性，用户可以高效地训练和优化扩散模型，适用于多种视觉生成任务。",
+    "tech_category": "大语言模型",
+    "innovation": "将 NVIDIA NeMo 的自动化微调能力与 Hugging Face Diffusers 的扩散模型框架结合，实现视频和图像模型的高效大规模训练。",
+    "difficulty": "较高",
+    "use_cases": [
+      "视频生成模型微调",
+      "图像生成模型优化",
+      "扩散模型大规模训练"
+    ],
+    "score": 8
+  }
+}

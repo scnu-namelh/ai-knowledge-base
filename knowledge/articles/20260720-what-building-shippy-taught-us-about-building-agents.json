@@ -1,0 +1,29 @@
+{
+  "id": "what-building-shippy-taught-us-about-building-agents-20260720",
+  "title": "What building Shippy taught us about building agents",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "source_platform": "rss",
+  "summary": "本文分享了构建Shippy智能体过程中的经验教训，强调从简单规则开始、逐步增加复杂性的开发方法。",
+  "tags": [
+    "智能体开发",
+    "规则系统",
+    "机器学习",
+    "迭代开发",
+    "系统可靠性"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:41:53Z",
+  "updated_at": "2026-07-20T10:41:53Z",
+  "analysis": {
+    "description": "文章详细介绍了构建Shippy智能体时采用的迭代开发策略：先实现基础规则系统，再逐步引入机器学习模型，最后通过用户反馈优化。重点讨论了如何平衡规则与模型、处理边缘案例以及确保系统可靠性。",
+    "tech_category": "多智能体",
+    "innovation": "提出了一种从规则到模型的渐进式智能体构建方法，强调实用性和可迭代性。",
+    "difficulty": "中等",
+    "use_cases": [
+      "智能客服系统开发",
+      "自动化任务代理设计",
+      "人机协作系统构建"
+    ],
+    "score": 8
+  }
+}

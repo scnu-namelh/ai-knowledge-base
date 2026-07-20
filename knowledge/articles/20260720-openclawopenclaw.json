@@ -1,0 +1,29 @@
+{
+  "id": "openclawopenclaw-20260720",
+  "title": "openclaw/openclaw",
+  "source_url": "https://github.com/openclaw/openclaw",
+  "source_platform": "github",
+  "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手，采用TypeScript开发，以龙虾为象征。",
+  "tags": [
+    "AI助手",
+    "跨平台",
+    "TypeScript",
+    "个人助手",
+    "开源"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:39:49Z",
+  "updated_at": "2026-07-20T10:39:49Z",
+  "analysis": {
+    "description": "OpenClaw 是一款个人AI助手，支持任何操作系统和平台，旨在为用户提供便捷的智能交互体验。项目使用TypeScript编写，强调跨平台兼容性和易用性。",
+    "tech_category": "AI编程工具",
+    "innovation": "以龙虾为象征，强调跨平台和跨操作系统的个人AI助手。",
+    "difficulty": "中等",
+    "use_cases": [
+      "个人日常任务辅助",
+      "跨设备智能交互",
+      "多平台AI服务集成"
+    ],
+    "score": 8
+  }
+}

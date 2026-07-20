@@ -1,0 +1,29 @@
+{
+  "id": "mattpocockskills-20260720",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_platform": "github",
+  "summary": "一个为真实工程师准备的技能集合，直接来自作者的.agents目录。",
+  "tags": [
+    "Shell",
+    "技能",
+    "自动化",
+    "工程师",
+    "开源"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:40:14Z",
+  "updated_at": "2026-07-20T10:40:14Z",
+  "analysis": {
+    "description": "该项目是一个Shell脚本集合，提供了各种实用技能和工具，旨在帮助工程师提高工作效率和自动化日常任务。",
+    "tech_category": "AI编程工具",
+    "innovation": "将个人.agents目录中的技能直接开源，方便其他工程师使用和扩展。",
+    "difficulty": "入门",
+    "use_cases": [
+      "自动化日常开发任务",
+      "快速搭建开发环境",
+      "学习Shell脚本最佳实践"
+    ],
+    "score": 7
+  }
+}

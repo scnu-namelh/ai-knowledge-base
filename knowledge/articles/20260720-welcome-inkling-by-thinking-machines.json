@@ -1,0 +1,29 @@
+{
+  "id": "welcome-inkling-by-thinking-machines-20260720",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source_platform": "rss",
+  "summary": "Thinking Machines 发布了 Inkling，一个基于 Hugging Face 的新项目，旨在推动 AI 技术的创新与应用。",
+  "tags": [
+    "Hugging Face",
+    "AI 项目",
+    "Thinking Machines",
+    "Inkling",
+    "开源"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:41:58Z",
+  "updated_at": "2026-07-20T10:41:58Z",
+  "analysis": {
+    "description": "Inkling 是 Thinking Machines 团队在 Hugging Face 上发布的一个新项目，可能涉及模型、工具或数据集，旨在促进 AI 研究和开发，具体细节需进一步查看。",
+    "tech_category": "大语言模型",
+    "innovation": "通过 Hugging Face 平台发布，可能整合了先进的 AI 技术或提供了新的应用方式。",
+    "difficulty": "入门",
+    "use_cases": [
+      "AI 研究",
+      "模型部署",
+      "技术探索"
+    ],
+    "score": 8
+  }
+}

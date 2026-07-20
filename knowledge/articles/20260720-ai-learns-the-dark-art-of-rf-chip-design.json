@@ -1,0 +1,29 @@
+{
+  "id": "ai-learns-the-dark-art-of-rf-chip-design-20260720",
+  "title": "AI Learns the \"Dark Art\" of RF Chip Design",
+  "source_url": "https://spectrum.ieee.org/ai-radio-chip-design",
+  "source_platform": "rss",
+  "summary": "AI学习RF芯片设计的“黑暗艺术”，通过强化学习自动生成射频电路布局，显著提升设计效率。",
+  "tags": [
+    "AI芯片设计",
+    "强化学习",
+    "射频电路",
+    "自动化设计",
+    "电子设计自动化"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-20T10:41:42Z",
+  "updated_at": "2026-07-20T10:41:42Z",
+  "analysis": {
+    "description": "该技术利用AI（特别是强化学习）自动设计射频芯片的电路布局，克服传统手工设计的复杂性和耗时问题。AI通过迭代优化，生成性能接近甚至超越人类专家的设计，展示了在模拟电路设计领域的巨大潜力。",
+    "tech_category": "计算机视觉",
+    "innovation": "将强化学习应用于射频芯片设计，自动生成高性能电路布局，突破传统设计瓶颈。",
+    "difficulty": "较高",
+    "use_cases": [
+      "射频芯片自动布局设计",
+      "模拟电路优化",
+      "加速芯片开发流程"
+    ],
+    "score": 8
+  }
+}
