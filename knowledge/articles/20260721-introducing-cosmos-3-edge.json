@@ -1,0 +1,29 @@
+{
+  "id": "introducing-cosmos-3-edge-20260721",
+  "title": "Introducing Cosmos 3 Edge",
+  "source_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+  "source_platform": "rss",
+  "summary": "NVIDIA 推出 Cosmos 3 Edge，一款针对边缘设备优化的多模态 AI 模型，提升实时推理效率。",
+  "tags": [
+    "NVIDIA",
+    "边缘计算",
+    "多模态",
+    "实时推理",
+    "AI模型"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-21T10:16:04Z",
+  "updated_at": "2026-07-21T10:16:04Z",
+  "analysis": {
+    "description": "Cosmos 3 Edge 是 NVIDIA 发布的新模型，专为边缘计算场景设计，支持多模态输入（如文本、图像），在保持高性能的同时降低计算资源需求，适用于物联网、自动驾驶等实时应用。",
+    "tech_category": "多模态AI",
+    "innovation": "针对边缘设备优化多模态推理，平衡性能与资源消耗。",
+    "difficulty": "较高",
+    "use_cases": [
+      "物联网设备智能分析",
+      "自动驾驶实时感知",
+      "边缘视频监控识别"
+    ],
+    "score": 8
+  }
+}

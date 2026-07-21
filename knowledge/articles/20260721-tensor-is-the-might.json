@@ -1,0 +1,29 @@
+{
+  "id": "tensor-is-the-might-20260721",
+  "title": "Tensor is the might",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "source_platform": "rss",
+  "summary": "本文探讨了张量（Tensor）作为编程核心抽象的强大之处，强调其在数据处理和计算中的通用性。",
+  "tags": [
+    "张量",
+    "编程抽象",
+    "数据处理",
+    "机器学习",
+    "计算机视觉"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-21T10:15:26Z",
+  "updated_at": "2026-07-21T10:15:26Z",
+  "analysis": {
+    "description": "文章深入分析了张量在编程中的核心地位，从数学定义到实际应用，展示了张量如何简化复杂数据操作，并提升代码的简洁性和性能。作者通过实例说明张量在机器学习、图形学等领域的广泛应用。",
+    "tech_category": "计算机视觉",
+    "innovation": "将张量提升为编程的核心抽象，强调其超越传统数据结构的通用性和表达能力。",
+    "difficulty": "中等",
+    "use_cases": [
+      "机器学习模型的数据表示",
+      "图形学中的矩阵运算",
+      "科学计算中的多维数据处理"
+    ],
+    "score": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "what-building-shippy-taught-us-about-building-agents-20260721",
+  "title": "What building Shippy taught us about building agents",
+  "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+  "source_platform": "rss",
+  "summary": "本文分享了构建Shippy智能体过程中的经验教训，探讨了如何有效设计和部署AI代理系统。",
+  "tags": [
+    "多智能体",
+    "AI代理",
+    "架构设计",
+    "工程实践",
+    "任务分解"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-21T10:16:12Z",
+  "updated_at": "2026-07-21T10:16:12Z",
+  "analysis": {
+    "description": "文章详细介绍了Shippy智能体的开发历程，包括架构设计、任务分解、工具集成和错误处理等关键环节，总结了构建可靠AI代理的最佳实践和常见陷阱。",
+    "tech_category": "多智能体",
+    "innovation": "通过实际案例系统总结了构建AI代理的工程化经验，提供了可复用的设计模式。",
+    "difficulty": "中等",
+    "use_cases": [
+      "智能客服系统",
+      "自动化工作流",
+      "复杂任务编排"
+    ],
+    "score": 8
+  }
+}

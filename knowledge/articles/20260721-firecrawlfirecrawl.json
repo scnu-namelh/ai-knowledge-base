@@ -1,0 +1,29 @@
+{
+  "id": "firecrawlfirecrawl-20260721",
+  "title": "firecrawl/firecrawl",
+  "source_url": "https://github.com/firecrawl/firecrawl",
+  "source_platform": "github",
+  "summary": "Firecrawl 是一个用于大规模搜索、抓取和交互网页的 API 工具，基于 TypeScript 开发。",
+  "tags": [
+    "网页抓取",
+    "API",
+    "数据采集",
+    "TypeScript",
+    "大规模处理"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-21T10:15:00Z",
+  "updated_at": "2026-07-21T10:15:00Z",
+  "analysis": {
+    "description": "Firecrawl 提供强大的 API 接口，支持对网页进行搜索、抓取和交互操作，适用于需要大规模处理网页数据的场景。它基于 TypeScript 构建，易于集成和使用。",
+    "tech_category": "AI编程工具",
+    "innovation": "提供一站式网页数据抓取与交互 API，简化大规模网页数据处理流程。",
+    "difficulty": "入门",
+    "use_cases": [
+      "网页数据采集与分析",
+      "搜索引擎优化",
+      "内容聚合与监控"
+    ],
+    "score": 8
+  }
+}

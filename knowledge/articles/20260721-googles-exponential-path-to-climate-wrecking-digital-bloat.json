@@ -1,0 +1,29 @@
+{
+  "id": "googles-exponential-path-to-climate-wrecking-digital-bloat-20260721",
+  "title": "Google’s exponential path to climate-wrecking digital bloat",
+  "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+  "source_platform": "rss",
+  "summary": "文章探讨谷歌数字服务膨胀对气候的负面影响，指出其指数级增长路径加剧碳排放。",
+  "tags": [
+    "谷歌",
+    "数字膨胀",
+    "气候变化",
+    "碳排放",
+    "科技伦理"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-21T10:15:40Z",
+  "updated_at": "2026-07-21T10:15:40Z",
+  "analysis": {
+    "description": "本文分析谷歌在数字服务领域的快速扩张，如搜索、云服务和AI产品，如何导致能源消耗和碳排放指数级增长，进而对气候造成破坏。文章呼吁关注科技巨头的环境责任。",
+    "tech_category": "环境与科技伦理",
+    "innovation": "将数字服务膨胀与气候变化直接关联，强调指数级增长的环境代价。",
+    "difficulty": "中等",
+    "use_cases": [
+      "科技公司环境评估",
+      "可持续发展策略制定",
+      "公众意识提升"
+    ],
+    "score": 7
+  }
+}
