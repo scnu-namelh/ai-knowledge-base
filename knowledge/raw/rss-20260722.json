@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/1xbtlo/two_years_vector_search_at_notion_10x\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Triton language for Alibaba SAIL",
+    "url": "https://github.com/t-head/triton-for-sail",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/y8okbv/triton_language_for_alibaba_sail\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Human-like Neural Nets by Catapulting",
+    "url": "https://gwern.net/llm-catapult",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qmvc5h/human_like_neural_nets_by_catapulting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "How does Pangram work?",
+    "url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/femw5f/how_does_pangram_work\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srir6m/novel_computer_scrabble_engine_based_on\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source": "rss",
+    "summary": "&lt;p&gt;The book \"Inventing ELIZA - How the First Chatbot Shaped the Future of AI\". It is Open Access so the link to the PDF is &lt;a href=\"https://direct.mit.edu/books/book-pdf/2615293/book_9780262052504.pdf\" rel=\"ugc\"&gt;here&lt;/a&gt;&lt;/p&gt; &lt;p&gt;The book has a companion &lt;a href=\"findingeliza.org\" rel=\"ugc\"&gt;site&lt;/a&gt; - I was monitoring this since I first heard the &lt;a href=\"https://corecursive.com/eliza-with-jeff-shrager/\" rel=\"ugc\"&gt;episode&lt;/a&gt; on CoRecursive.&lt",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Verifiable AI inference",
+    "url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xkk9ja/verifiable_ai_inference\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Tensor is the might",
+    "url": "https://zserge.com/posts/tensor/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/uhzuf7/tensor_is_might\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/srdtlp/full_pipeline_inference_optimization\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "AI Surveillance and Social Progress",
+    "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/qvu1m0/ai_surveillance_social_progress\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "A Prolog library for interfacing with LLMs",
+    "url": "https://github.com/vagos/llmpl",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ad7cm6/prolog_library_for_interfacing_with_llms\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/az2jfb/native_speed_vllm_transformers_modeling\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/xgtzrp/global_workspace_language_models\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/v8hk8q/google_s_exponential_path_climate\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "url": "https://arxiv.org/abs/2604.03136",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/hjuopb/investigating_idiosyncrasies_ai\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+    "url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/gwxqmh/control_plane_was_point_revisiting\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/k9qw5n/matrix_orthogonalization_improves\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "url": "https://ieeexplore.ieee.org/document/11475847/",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update\" rel=\"ugc\"&gt;NIST article&lt;/a&gt; covers this paper well&lt;/p&gt; &lt;p&gt;&lt;a href=\"https://lobste.rs/s/7exvix/robust_ai_security_alignment_sisyphean\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "Convolutional Neural Networks in APL (2019)",
+    "url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/ibji5x/convolutional_neural_networks_apl_2019\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "source": "rss",
+    "summary": "&lt;p&gt;&lt;a href=\"https://lobste.rs/s/4srepl/max_models_can_now_run_on_apple_silicon\"&gt;Comments&lt;/a&gt;&lt;/p&gt;",
+    "popularity": 0,
+    "source_name": "Lobsters AI"
+  },
+  {
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "url": "https://huggingface.co/blog/grabette",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Newer Models, Same Advantage",
+    "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Security incident disclosure — July 2026",
+    "url": "https://huggingface.co/blog/security-incident-july-2026",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "What building Shippy taught us about building agents",
+    "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Welcome Inkling by Thinking Machines",
+    "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "url": "https://huggingface.co/blog/real-world-voiceeq",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Native-speed vLLM transformers modeling backend",
+    "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "url": "https://huggingface.co/blog/lerobot-release-v060",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "PRX Part 4: Our Data Strategy",
+    "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "🤗 Kernels: Major Updates",
+    "url": "https://huggingface.co/blog/revamped-kernels",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Why Specialization Is Inevitable",
+    "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  },
+  {
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "url": "https://huggingface.co/blog/eee-community-evals",
+    "source": "rss",
+    "summary": "",
+    "popularity": 0,
+    "source_name": "Hugging Face Blog"
+  }
+]

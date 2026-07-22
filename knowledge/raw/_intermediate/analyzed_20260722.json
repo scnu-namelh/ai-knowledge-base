@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "openclawopenclaw-20260722",
+    "title": "openclaw/openclaw",
+    "source_url": "https://github.com/openclaw/openclaw",
+    "source_platform": "github",
+    "summary": "OpenClaw 是一个跨平台、跨操作系统的个人AI助手，采用TypeScript开发，以龙虾为标志。",
+    "tags": [
+      "AI助手",
+      "跨平台",
+      "TypeScript",
+      "开源",
+      "个人助手"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:10Z",
+    "updated_at": "2026-07-22T10:14:10Z",
+    "analysis": {
+      "description": "OpenClaw 是一个开源的个人AI助手项目，支持在任何操作系统和平台上运行。它使用TypeScript编写，旨在为用户提供灵活、可定制的AI助手体验，以龙虾（lobster）作为其标志性形象。",
+      "tech_category": "大语言模型",
+      "innovation": "跨平台、跨操作系统的个人AI助手，强调灵活性和可定制性。",
+      "difficulty": "中等",
+      "use_cases": [
+        "个人日常任务辅助",
+        "跨设备AI助手",
+        "开发者自定义AI工具"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "obrasuperpowers-20260722",
+    "title": "obra/superpowers",
+    "source_url": "https://github.com/obra/superpowers",
+    "source_platform": "github",
+    "summary": "Superpowers 是一个基于智能体技能的框架和软件开发方法论，旨在提升开发效率。",
+    "tags": [
+      "智能体技能",
+      "软件开发方法论",
+      "Shell",
+      "框架",
+      "效率提升"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:12Z",
+    "updated_at": "2026-07-22T10:14:12Z",
+    "analysis": {
+      "description": "该项目提供了一个智能体技能框架和软件开发方法论，通过定义明确的技能和流程，帮助开发者更高效地构建和管理软件项目。它使用 Shell 语言实现，强调实用性和可操作性。",
+      "tech_category": "AI编程工具",
+      "innovation": "将智能体技能与软件开发方法论结合，形成可操作的框架。",
+      "difficulty": "中等",
+      "use_cases": [
+        "软件开发流程优化",
+        "智能体技能集成",
+        "项目管理自动化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "affaan-mecc-20260722",
+    "title": "affaan-m/ECC",
+    "source_url": "https://github.com/affaan-m/ECC",
+    "source_platform": "github",
+    "summary": "ECC是一个针对Claude Code、Codex等AI编程工具的性能优化系统，集成了技能、直觉、记忆、安全和研究优先的开发特性。",
+    "tags": [
+      "AI编程工具",
+      "性能优化",
+      "代理系统",
+      "安全",
+      "JavaScript"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:15Z",
+    "updated_at": "2026-07-22T10:14:15Z",
+    "analysis": {
+      "description": "该项目旨在优化AI编程代理的性能，通过提供技能、直觉、记忆和安全机制，支持Claude Code、Codex、Opencode、Cursor等多种工具，采用JavaScript实现，强调研究优先的开发方法。",
+      "tech_category": "AI编程工具",
+      "innovation": "将技能、直觉和记忆集成到AI编程代理中，实现性能优化和安全增强。",
+      "difficulty": "中等",
+      "use_cases": [
+        "提升AI编程代理的响应速度和准确性",
+        "增强代码生成的安全性和可靠性",
+        "支持多工具环境下的代理性能调优"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "nousresearchhermes-agent-20260722",
+    "title": "NousResearch/hermes-agent",
+    "source_url": "https://github.com/NousResearch/hermes-agent",
+    "source_platform": "github",
+    "summary": "Hermes-Agent是一个基于Python的智能代理框架，旨在与用户共同成长，提供灵活、可扩展的AI代理解决方案。",
+    "tags": [
+      "智能代理",
+      "Python",
+      "开源",
+      "可扩展",
+      "AI框架"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:17Z",
+    "updated_at": "2026-07-22T10:14:17Z",
+    "analysis": {
+      "description": "Hermes-Agent由NousResearch开发，是一个开源的Python智能代理框架，支持用户自定义和扩展代理功能，适用于多种AI应用场景，强调代理的适应性和成长性。",
+      "tech_category": "多智能体",
+      "innovation": "强调代理与用户共同成长的动态适应能力，提供灵活的扩展机制。",
+      "difficulty": "中等",
+      "use_cases": [
+        "个性化AI助手",
+        "自动化任务执行",
+        "智能对话系统"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "n8n-ion8n-20260722",
+    "title": "n8n-io/n8n",
+    "source_url": "https://github.com/n8n-io/n8n",
+    "source_platform": "github",
+    "summary": "n8n是一个公平代码的工作流自动化平台，具备原生AI能力，支持可视化构建与自定义代码结合，可自托管或云部署，集成400多个服务。",
+    "tags": [
+      "工作流自动化",
+      "AI集成",
+      "可视化编程",
+      "自托管",
+      "开源"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:20Z",
+    "updated_at": "2026-07-22T10:14:20Z",
+    "analysis": {
+      "description": "n8n是一个开源的工作流自动化平台，采用公平代码许可。它允许用户通过可视化界面构建工作流，同时支持自定义代码。平台内置AI能力，可轻松集成AI模型。支持自托管和云部署，拥有超过400个集成节点，覆盖各种流行服务。",
+      "tech_category": "AI编程工具",
+      "innovation": "将可视化工作流构建与原生AI能力深度结合，提供公平代码许可和自托管选项。",
+      "difficulty": "中等",
+      "use_cases": [
+        "自动化数据处理与转换",
+        "AI模型调用与集成",
+        "跨应用业务流程自动化"
+      ],
+      "score": 9
+    }
+  },
+  {
+    "id": "multica-aiandrej-karpathy-skills-20260722",
+    "title": "multica-ai/andrej-karpathy-skills",
+    "source_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "source_platform": "github",
+    "summary": "一个基于Andrej Karpathy对LLM编码陷阱观察的CLAUDE.md文件，用于改善Claude Code的行为。",
+    "tags": [
+      "Claude Code",
+      "LLM编码",
+      "配置文件",
+      "代码质量",
+      "AI辅助开发"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:22Z",
+    "updated_at": "2026-07-22T10:14:22Z",
+    "analysis": {
+      "description": "该项目提供了一个CLAUDE.md配置文件，旨在通过Karpathy的见解优化Claude Code的编码行为，避免常见陷阱，提升代码质量和开发效率。",
+      "tech_category": "AI编程工具",
+      "innovation": "将Karpathy的LLM编码经验转化为可执行的配置文件，直接改善AI编程助手的行为。",
+      "difficulty": "入门",
+      "use_cases": [
+        "优化Claude Code的编码行为",
+        "避免LLM常见编码错误",
+        "提升AI编程助手输出质量"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "ultraworkersclaw-code-20260722",
+    "title": "ultraworkers/claw-code",
+    "source_url": "https://github.com/ultraworkers/claw-code",
+    "source_platform": "github",
+    "summary": "一个由AI代理自主开发维护的博物馆展品，使用Rust和Gajae-Code/LazyCodex构建，全程无人类干预。",
+    "tags": [
+      "AI代理",
+      "Rust",
+      "自主编程",
+      "博物馆展品",
+      "无人类干预"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:25Z",
+    "updated_at": "2026-07-22T10:14:25Z",
+    "analysis": {
+      "description": "该项目是一个完全由AI代理管理的博物馆展品，基于Rust语言和Gajae-Code/LazyCodex技术栈开发。其核心创新在于整个开发、维护和运行过程无需任何人类干预，展示了AI自主编程和持续运维的能力。",
+      "tech_category": "AI编程工具",
+      "innovation": "完全由AI代理自主开发、维护和运行，实现零人类干预的软件生命周期管理。",
+      "difficulty": "较高",
+      "use_cases": [
+        "AI自主软件开发演示",
+        "博物馆互动展品",
+        "自动化运维实验"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "anomalycoopencode-20260722",
+    "title": "anomalyco/opencode",
+    "source_url": "https://github.com/anomalyco/opencode",
+    "source_platform": "github",
+    "summary": "OpenCode 是一个开源的 AI 编程助手，旨在帮助开发者高效编写代码。",
+    "tags": [
+      "AI编程工具",
+      "开源",
+      "TypeScript",
+      "编码代理",
+      "代码生成"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:27Z",
+    "updated_at": "2026-07-22T10:14:27Z",
+    "analysis": {
+      "description": "OpenCode 是基于 TypeScript 开发的开源编码代理，提供智能代码补全、生成和优化功能，支持多种编程语言和 IDE 集成，提升开发效率。",
+      "tech_category": "AI编程工具",
+      "innovation": "开源且专注于编码代理功能，提供灵活的定制和集成能力。",
+      "difficulty": "中等",
+      "use_cases": [
+        "代码自动补全",
+        "代码生成与优化",
+        "IDE 集成开发辅助"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "significant-gravitasautogpt-20260722",
+    "title": "Significant-Gravitas/AutoGPT",
+    "source_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "source_platform": "github",
+    "summary": "AutoGPT 是一个开源项目，旨在让每个人都能轻松使用和构建 AI 工具，专注于提供基础平台。",
+    "tags": [
+      "AutoGPT",
+      "AI代理",
+      "自动化",
+      "开源",
+      "Python"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:29Z",
+    "updated_at": "2026-07-22T10:14:29Z",
+    "analysis": {
+      "description": "AutoGPT 是一个基于 Python 的开源项目，致力于实现 AI 的民主化，让用户能够轻松使用和构建 AI 应用。它提供了一套工具和框架，使用户可以专注于核心任务，而无需从零开始开发。",
+      "tech_category": "大语言模型",
+      "innovation": "通过自动化任务执行和智能代理，降低了 AI 应用的门槛。",
+      "difficulty": "中等",
+      "use_cases": [
+        "自动化任务执行",
+        "智能助手开发",
+        "AI 应用原型设计"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "mattpocockskills-20260722",
+    "title": "mattpocock/skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "source_platform": "github",
+    "summary": "一个面向真实工程师的技能集合，直接来自作者的.agents目录。",
+    "tags": [
+      "Shell",
+      "技能",
+      "工程师",
+      "工具",
+      "开源"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:31Z",
+    "updated_at": "2026-07-22T10:14:31Z",
+    "analysis": {
+      "description": "该项目提供了一系列实用技能，旨在帮助工程师提升工作效率，内容直接来源于作者的.agents目录，涵盖了多种Shell脚本和工具。",
+      "tech_category": "AI编程工具",
+      "innovation": "将个人.agents目录中的技能直接开源，便于工程师快速复用和集成。",
+      "difficulty": "入门",
+      "use_cases": [
+        "工程师日常开发效率提升",
+        "自动化任务处理",
+        "技能学习与分享"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "ollamaollama-20260722",
+    "title": "ollama/ollama",
+    "source_url": "https://github.com/ollama/ollama",
+    "source_platform": "github",
+    "summary": "Ollama 是一个本地运行大语言模型的工具，支持 Kimi、DeepSeek、Qwen 等多种模型，便于开发者快速部署和使用。",
+    "tags": [
+      "大语言模型",
+      "本地部署",
+      "模型管理",
+      "开源工具",
+      "Go"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:34Z",
+    "updated_at": "2026-07-22T10:14:34Z",
+    "analysis": {
+      "description": "Ollama 是一个用 Go 语言开发的开源工具，旨在让用户轻松在本地运行和管理多种大语言模型，包括 Kimi-K2.6、GLM-5.2、MiniMax、DeepSeek、gpt-oss、Qwen、Gemma 等。它简化了模型下载、配置和推理过程，支持命令行操作，适合开发者和研究人员进行本地实验和部署。",
+      "tech_category": "大语言模型",
+      "innovation": "提供统一的本地模型管理接口，支持多种主流模型一键运行，降低本地部署门槛。",
+      "difficulty": "入门",
+      "use_cases": [
+        "本地模型推理与测试",
+        "离线环境下的AI应用开发",
+        "多模型对比实验"
+      ],
+      "score": 9
+    }
+  },
+  {
+    "id": "fpromptschat-20260722",
+    "title": "f/prompts.chat",
+    "source_url": "https://github.com/f/prompts.chat",
+    "source_platform": "github",
+    "summary": "一个开源社区平台，用于分享、发现和收集ChatGPT提示词，支持自托管以保护隐私。",
+    "tags": [
+      "ChatGPT",
+      "提示词",
+      "开源",
+      "社区",
+      "隐私"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:36Z",
+    "updated_at": "2026-07-22T10:14:36Z",
+    "analysis": {
+      "description": "该项目是一个基于HTML的社区驱动平台，允许用户分享、发现和收集ChatGPT提示词。它完全开源，支持自托管部署，确保组织使用的隐私安全。",
+      "tech_category": "大语言模型",
+      "innovation": "将提示词管理从个人收藏转变为社区协作平台，并强调隐私自托管。",
+      "difficulty": "入门",
+      "use_cases": [
+        "收集和分享ChatGPT提示词",
+        "团队协作管理提示词",
+        "自托管提示词库"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "automatic1111stable-diffusion-webui-20260722",
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "source_platform": "github",
+    "summary": "AUTOMATIC1111/stable-diffusion-webui 是一个基于 Gradio 库的 Stable Diffusion 模型 Web 界面，提供图像生成、编辑和优化功能。",
+    "tags": [
+      "Stable Diffusion",
+      "Web UI",
+      "图像生成",
+      "Gradio",
+      "Python"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:39Z",
+    "updated_at": "2026-07-22T10:14:39Z",
+    "analysis": {
+      "description": "该项目为 Stable Diffusion 模型提供了一个直观的 Web 用户界面，支持文本到图像、图像到图像、图像修复、超分辨率等多种功能。它集成了多种采样器、模型管理、提示词优化、批量处理等特性，并支持扩展插件，使得用户无需编程即可轻松使用 Stable Diffusion 进行创作。",
+      "tech_category": "计算机视觉",
+      "innovation": "将 Stable Diffusion 模型封装为易用的 Web 界面，并集成丰富的图像处理功能和扩展生态。",
+      "difficulty": "入门",
+      "use_cases": [
+        "文本生成图像",
+        "图像编辑与修复",
+        "艺术创作与设计辅助"
+      ],
+      "score": 9
+    }
+  },
+  {
+    "id": "anthropicsskills-20260722",
+    "title": "anthropics/skills",
+    "source_url": "https://github.com/anthropics/skills",
+    "source_platform": "github",
+    "summary": "Anthropics 发布 Agent Skills 公共仓库，提供可复用的 AI 代理技能库，助力开发者快速构建智能代理应用。",
+    "tags": [
+      "Agent Skills",
+      "多智能体",
+      "Python",
+      "Anthropics",
+      "AI代理"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:41Z",
+    "updated_at": "2026-07-22T10:14:41Z",
+    "analysis": {
+      "description": "该仓库由 Anthropics 维护，包含一系列预定义的 Agent Skills，旨在简化 AI 代理的开发流程。这些技能覆盖多种任务，如信息检索、代码生成等，支持 Python 语言，便于集成与扩展。",
+      "tech_category": "多智能体",
+      "innovation": "提供标准化、可复用的 AI 代理技能模块，降低开发门槛。",
+      "difficulty": "中等",
+      "use_cases": [
+        "快速构建智能客服代理",
+        "自动化代码生成与审查",
+        "信息检索与知识问答系统"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "huggingfacetransformers-20260722",
+    "title": "huggingface/transformers",
+    "source_url": "https://github.com/huggingface/transformers",
+    "source_platform": "github",
+    "summary": "Hugging Face Transformers 是一个提供最先进机器学习模型的框架，支持文本、视觉、音频和多模态模型的推理与训练。",
+    "tags": [
+      "Transformers",
+      "预训练模型",
+      "多模态",
+      "NLP",
+      "计算机视觉"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:44Z",
+    "updated_at": "2026-07-22T10:14:44Z",
+    "analysis": {
+      "description": "该框架集成了大量预训练模型，如BERT、GPT等，支持多种任务和模态，简化了模型加载、微调和部署流程，广泛应用于自然语言处理、计算机视觉等领域。",
+      "tech_category": "大语言模型",
+      "innovation": "统一接口支持多模态模型，简化从研究到生产的转换。",
+      "difficulty": "中等",
+      "use_cases": [
+        "文本分类与生成",
+        "图像识别与生成",
+        "语音识别与合成"
+      ],
+      "score": 9
+    }
+  },
+  {
+    "id": "snailclimbjavaguide-20260722",
+    "title": "Snailclimb/JavaGuide",
+    "source_url": "https://github.com/Snailclimb/JavaGuide",
+    "source_platform": "github",
+    "summary": "JavaGuide 是一个全面的 Java 面试与后端通用面试指南，涵盖计算机基础、数据库、分布式、高并发、系统设计及 AI 应用开发。",
+    "tags": [
+      "Java",
+      "面试指南",
+      "后端开发",
+      "分布式系统",
+      "AI应用"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:46Z",
+    "updated_at": "2026-07-22T10:14:46Z",
+    "analysis": {
+      "description": "该项目为 Java 开发者提供系统化的面试准备资源，内容覆盖计算机基础、数据库、分布式系统、高并发编程、系统设计以及 AI 应用开发等后端核心领域，适合求职者和进阶学习者。",
+      "tech_category": "大语言模型",
+      "innovation": "将传统后端面试知识体系与 AI 应用开发结合，提供一站式学习路径。",
+      "difficulty": "中等",
+      "use_cases": [
+        "Java 面试准备",
+        "后端技术学习",
+        "系统设计复习"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "firecrawlfirecrawl-20260722",
+    "title": "firecrawl/firecrawl",
+    "source_url": "https://github.com/firecrawl/firecrawl",
+    "source_platform": "github",
+    "summary": "Firecrawl 是一个大规模网络搜索、抓取和交互的 API，使用 TypeScript 开发。",
+    "tags": [
+      "网络抓取",
+      "API",
+      "数据挖掘",
+      "TypeScript",
+      "自动化"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:48Z",
+    "updated_at": "2026-07-22T10:14:48Z",
+    "analysis": {
+      "description": "Firecrawl 提供强大的 API，支持大规模网络搜索、数据抓取和网页交互，适用于需要高效获取和处理网络数据的场景，如数据挖掘、内容聚合和自动化测试。",
+      "tech_category": "AI编程工具",
+      "innovation": "提供一站式大规模网络数据获取与交互的 API 解决方案。",
+      "difficulty": "入门",
+      "use_cases": [
+        "数据采集与聚合",
+        "内容监控与更新",
+        "自动化测试与验证"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "langflow-ailangflow-20260722",
+    "title": "langflow-ai/langflow",
+    "source_url": "https://github.com/langflow-ai/langflow",
+    "source_platform": "github",
+    "summary": "Langflow是一个用于构建和部署AI代理及工作流的强大工具，支持可视化编程。",
+    "tags": [
+      "Langflow",
+      "AI代理",
+      "工作流",
+      "可视化编程",
+      "Python"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:50Z",
+    "updated_at": "2026-07-22T10:14:50Z",
+    "analysis": {
+      "description": "Langflow是一个基于Python的开源工具，提供可视化界面用于构建和部署AI代理及工作流。它简化了复杂AI应用的开发过程，支持多种组件集成，适合快速原型设计和生产部署。",
+      "tech_category": "AI编程工具",
+      "innovation": "通过可视化拖拽方式简化AI代理和工作流的构建与部署。",
+      "difficulty": "中等",
+      "use_cases": [
+        "快速构建AI聊天机器人",
+        "自动化工作流设计",
+        "AI代理原型开发"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "langgeniusdify-20260722",
+    "title": "langgenius/dify",
+    "source_url": "https://github.com/langgenius/dify",
+    "source_platform": "github",
+    "summary": "Dify是一个开源的AI应用开发平台，支持构建智能体工作流和RAG管道，集成多种AI模型和工具，可部署在云、VPC或自托管环境。",
+    "tags": [
+      "AI应用开发",
+      "智能体工作流",
+      "RAG管道",
+      "开源平台",
+      "TypeScript"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:53Z",
+    "updated_at": "2026-07-22T10:14:53Z",
+    "analysis": {
+      "description": "Dify提供协作工作空间，帮助团队快速从原型到生产，无需重建技术栈。它支持丰富的AI模型和工具集成，适用于构建智能体工作流、RAG管道等，部署灵活，支持云、VPC或自托管。",
+      "tech_category": "AI编程工具",
+      "innovation": "提供一站式协作平台，集成多种AI模型和工具，支持灵活部署，简化从原型到生产的流程。",
+      "difficulty": "中等",
+      "use_cases": [
+        "构建智能客服系统",
+        "开发知识库问答应用",
+        "创建自动化工作流"
+      ],
+      "score": 9
+    }
+  },
+  {
+    "id": "open-webuiopen-webui-20260722",
+    "title": "open-webui/open-webui",
+    "source_url": "https://github.com/open-webui/open-webui",
+    "source_platform": "github",
+    "summary": "open-webui是一个用户友好的AI交互界面，支持Ollama和OpenAI API等多种后端，提供便捷的AI对话和管理功能。",
+    "tags": [
+      "AI界面",
+      "Ollama",
+      "OpenAI",
+      "Web应用",
+      "Python"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:55Z",
+    "updated_at": "2026-07-22T10:14:55Z",
+    "analysis": {
+      "description": "该项目提供了一个直观的Web界面，用于与多种AI模型进行交互，包括本地运行的Ollama和云端的OpenAI API。它支持对话管理、模型切换、历史记录等功能，旨在简化AI应用的使用体验。",
+      "tech_category": "大语言模型",
+      "innovation": "通过统一界面整合多种AI后端，降低用户使用门槛。",
+      "difficulty": "入门",
+      "use_cases": [
+        "个人AI助手",
+        "团队协作AI平台",
+        "AI模型测试与演示"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "two-years-of-vector-search-at-notion-10x-scale-110th-cost-20260722",
+    "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+    "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+    "source_platform": "rss",
+    "summary": "Notion 分享两年向量搜索经验，实现10倍规模扩展和10倍成本降低。",
+    "tags": [
+      "向量搜索",
+      "Notion",
+      "成本优化",
+      "规模扩展",
+      "系统架构"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:14:58Z",
+    "updated_at": "2026-07-22T10:14:58Z",
+    "analysis": {
+      "description": "Notion 团队详细介绍了其向量搜索系统在过去两年中的演进，通过优化索引策略、采用更高效的向量数据库和算法，成功将搜索规模扩大10倍，同时将成本降低至原来的十分之一，为大规模向量搜索应用提供了宝贵实践。",
+      "tech_category": "大语言模型",
+      "innovation": "通过系统架构优化和算法改进，在扩展搜索规模的同时大幅降低成本。",
+      "difficulty": "较高",
+      "use_cases": [
+        "企业知识库搜索",
+        "文档检索系统",
+        "大规模向量数据库应用"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "triton-language-for-alibaba-sail-20260722",
+    "title": "Triton language for Alibaba SAIL",
+    "source_url": "https://github.com/t-head/triton-for-sail",
+    "source_platform": "rss",
+    "summary": "阿里巴巴SAIL团队为T-Head芯片适配Triton语言，实现AI加速器的高效编程。",
+    "tags": [
+      "Triton",
+      "阿里巴巴SAIL",
+      "AI加速器",
+      "GPU编程",
+      "芯片适配"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:00Z",
+    "updated_at": "2026-07-22T10:15:00Z",
+    "analysis": {
+      "description": "该项目将Triton语言适配到阿里巴巴的SAIL（T-Head）芯片上，使开发者能够利用Triton的简洁语法编写高性能的GPU内核，从而在SAIL架构上实现高效的AI计算加速。",
+      "tech_category": "AI编程工具",
+      "innovation": "将Triton语言适配到阿里巴巴自研SAIL芯片，降低AI加速器编程门槛。",
+      "difficulty": "较高",
+      "use_cases": [
+        "AI模型推理加速",
+        "高性能计算内核开发",
+        "芯片验证与优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "human-like-neural-nets-by-catapulting-20260722",
+    "title": "Human-like Neural Nets by Catapulting",
+    "source_url": "https://gwern.net/llm-catapult",
+    "source_platform": "rss",
+    "summary": "通过“弹射”机制使神经网络更接近人类学习方式，提升泛化能力。",
+    "tags": [
+      "神经网络",
+      "训练方法",
+      "泛化",
+      "学习率",
+      "人类学习"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:03Z",
+    "updated_at": "2026-07-22T10:15:03Z",
+    "analysis": {
+      "description": "该文章提出一种名为“弹射”（Catapulting）的训练方法，通过在训练过程中动态调整学习率和权重更新，使神经网络能够跳出局部最优，模拟人类学习的灵活性和泛化能力，从而在多种任务上取得更好性能。",
+      "tech_category": "大语言模型",
+      "innovation": "提出“弹射”训练机制，模拟人类学习中的跳跃式思维，提升模型泛化能力。",
+      "difficulty": "较高",
+      "use_cases": [
+        "提升深度学习模型泛化能力",
+        "优化大语言模型训练",
+        "改进计算机视觉模型性能"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "how-does-pangram-work-20260722",
+    "title": "How does Pangram work?",
+    "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+    "source_platform": "rss",
+    "summary": "Pangram是一个基于大语言模型的AI编程工具，通过自然语言描述自动生成代码，提高开发效率。",
+    "tags": [
+      "大语言模型",
+      "代码生成",
+      "自然语言处理",
+      "开发效率",
+      "AI编程"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:05Z",
+    "updated_at": "2026-07-22T10:15:05Z",
+    "analysis": {
+      "description": "Pangram利用大语言模型理解用户用自然语言描述的编程需求，自动生成对应的代码片段或完整程序。它支持多种编程语言，并集成到开发环境中，帮助开发者快速实现功能，减少重复性编码工作。",
+      "tech_category": "AI编程工具",
+      "innovation": "通过自然语言直接生成可执行代码，降低编程门槛。",
+      "difficulty": "中等",
+      "use_cases": [
+        "快速原型开发",
+        "自动化代码生成",
+        "辅助编程学习"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "a-novel-computer-scrabble-engine-based-on-probability-that-perfo-20260722",
+    "title": "A novel computer Scrabble engine based on probability that performs at championship level (2021)",
+    "source_url": "https://upcommons.upc.edu/server/api/core/bitstreams/1339ae43-3d65-4015-8e11-3689e5572b23/content",
+    "source_platform": "rss",
+    "summary": "提出一种基于概率的新型计算机Scrabble引擎，在2021年达到冠军级水平，通过概率模型优化单词选择和棋盘策略。",
+    "tags": [
+      "Scrabble引擎",
+      "概率模型",
+      "游戏AI",
+      "冠军级性能",
+      "搜索算法"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:08Z",
+    "updated_at": "2026-07-22T10:15:08Z",
+    "analysis": {
+      "description": "该研究开发了一种基于概率的Scrabble引擎，利用统计模型评估单词得分和棋盘位置，结合高效搜索算法，在比赛中展现出冠军级表现，超越了传统基于规则的方法。",
+      "tech_category": "计算机视觉",
+      "innovation": "将概率模型应用于Scrabble引擎的决策过程，显著提升游戏性能至冠军级别。",
+      "difficulty": "较高",
+      "use_cases": [
+        "棋牌游戏AI开发",
+        "概率决策系统",
+        "教育游戏优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "inventing-eliza-how-the-first-chatbot-shaped-the-future-of-ai-20260722",
+    "title": "Inventing ELIZA - How the First Chatbot Shaped the Future of AI",
+    "source_url": "https://mitpress.mit.edu/9780262052481/inventing-eliza/",
+    "source_platform": "rss",
+    "summary": "《Inventing ELIZA》一书讲述了第一个聊天机器人ELIZA的诞生及其对AI发展的影响，提供开放获取PDF。",
+    "tags": [
+      "ELIZA",
+      "聊天机器人",
+      "AI历史",
+      "开放获取",
+      "MIT出版社"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:10Z",
+    "updated_at": "2026-07-22T10:15:10Z",
+    "analysis": {
+      "description": "该书详细记录了ELIZA的发明过程，探讨了它如何塑造了人工智能的未来，并提供了开放获取的PDF版本，附有配套网站和播客访谈。",
+      "tech_category": "大语言模型",
+      "innovation": "首次系统性地记录了ELIZA的发明历史及其对AI对话系统的深远影响。",
+      "difficulty": "入门",
+      "use_cases": [
+        "AI历史研究",
+        "聊天机器人发展学习",
+        "人工智能教育"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "verifiable-ai-inference-20260722",
+    "title": "Verifiable AI inference",
+    "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+    "source_platform": "rss",
+    "summary": "提出了一种可验证的AI推理方法，确保模型输出结果的可信度和完整性。",
+    "tags": [
+      "可验证AI",
+      "密码学证明",
+      "推理完整性",
+      "信任机制",
+      "模型验证"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:13Z",
+    "updated_at": "2026-07-22T10:15:13Z",
+    "analysis": {
+      "description": "该技术通过引入密码学证明机制，使AI推理过程可被第三方验证，确保输出未被篡改且来自指定模型，适用于需要高信任度的场景。",
+      "tech_category": "大语言模型",
+      "innovation": "将密码学证明应用于AI推理，实现输出结果的可验证性。",
+      "difficulty": "较高",
+      "use_cases": [
+        "金融风控中的模型输出验证",
+        "医疗诊断AI结果可信性检查",
+        "法律文档自动生成的可审计性"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "tensor-is-the-might-20260722",
+    "title": "Tensor is the might",
+    "source_url": "https://zserge.com/posts/tensor/",
+    "source_platform": "rss",
+    "summary": "本文探讨了张量（Tensor）作为数据处理核心抽象的强大之处，并展示了其在机器学习、物理模拟等领域的应用。",
+    "tags": [
+      "张量",
+      "数据处理",
+      "机器学习",
+      "NumPy",
+      "TensorFlow"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:15Z",
+    "updated_at": "2026-07-22T10:15:15Z",
+    "analysis": {
+      "description": "文章深入解析了张量的概念，强调其作为多维数组的泛化，能够高效表示和操作数据。通过实例说明张量在神经网络、图形学及科学计算中的关键作用，并讨论了相关库如NumPy和TensorFlow的实现原理。",
+      "tech_category": "计算机视觉",
+      "innovation": "系统性地阐述了张量作为通用数据结构的优势，并连接了理论与实践。",
+      "difficulty": "中等",
+      "use_cases": [
+        "神经网络训练",
+        "物理模拟",
+        "图像处理"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "full-pipeline-inference-optimization-for-mimo-v25-series-20260722",
+    "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series",
+    "source_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference",
+    "source_platform": "rss",
+    "summary": "小米发布MiMo-V2.5系列全流水线推理优化方案，提升模型推理效率。",
+    "tags": [
+      "推理优化",
+      "模型压缩",
+      "算子优化",
+      "MiMo-V2.5",
+      "小米"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:18Z",
+    "updated_at": "2026-07-22T10:15:18Z",
+    "analysis": {
+      "description": "该技术针对MiMo-V2.5系列模型，提出全流水线推理优化方法，涵盖模型压缩、算子优化和硬件适配，旨在降低延迟并提高吞吐量，适用于大规模部署场景。",
+      "tech_category": "大语言模型",
+      "innovation": "通过全流水线协同优化，实现推理效率的显著提升。",
+      "difficulty": "较高",
+      "use_cases": [
+        "云端模型部署",
+        "边缘设备推理",
+        "实时应用加速"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "ai-surveillance-and-social-progress-20260722",
+    "title": "AI Surveillance and Social Progress",
+    "source_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
+    "source_platform": "rss",
+    "summary": "探讨AI监控技术对社会进步的双重影响，分析其带来的效率提升与隐私风险。",
+    "tags": [
+      "AI监控",
+      "社会进步",
+      "隐私",
+      "公共安全",
+      "伦理"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:20Z",
+    "updated_at": "2026-07-22T10:15:20Z",
+    "analysis": {
+      "description": "文章深入分析了AI监控技术如何提升公共安全与治理效率，同时指出其可能导致的隐私侵犯、社会控制加强等问题，呼吁在技术进步与个人自由之间寻求平衡。",
+      "tech_category": "计算机视觉",
+      "innovation": "从社会进步视角系统评估AI监控技术的利弊，而非单纯技术讨论。",
+      "difficulty": "中等",
+      "use_cases": [
+        "城市安防监控",
+        "社会治理效率提升",
+        "隐私保护政策制定"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "a-prolog-library-for-interfacing-with-llms-20260722",
+    "title": "A Prolog library for interfacing with LLMs",
+    "source_url": "https://github.com/vagos/llmpl",
+    "source_platform": "rss",
+    "summary": "一个用于Prolog语言与大型语言模型交互的库，提供接口和工具。",
+    "tags": [
+      "Prolog",
+      "LLM",
+      "库",
+      "接口",
+      "逻辑编程"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:22Z",
+    "updated_at": "2026-07-22T10:15:22Z",
+    "analysis": {
+      "description": "llmpl是一个Prolog库，旨在简化Prolog程序与大型语言模型（LLMs）的集成。它提供了调用LLM API、处理响应以及将自然语言处理能力融入Prolog逻辑编程环境的接口和实用工具。",
+      "tech_category": "大语言模型",
+      "innovation": "将LLM能力引入Prolog逻辑编程环境，实现符号推理与神经网络的结合。",
+      "difficulty": "中等",
+      "use_cases": [
+        "在Prolog应用中集成自然语言理解",
+        "构建基于规则的智能问答系统",
+        "利用LLM增强Prolog的推理能力"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "native-speed-vllm-transformers-modeling-backend-20260722",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source_platform": "rss",
+    "summary": "vLLM推出原生速度的Transformers建模后端，显著提升推理性能。",
+    "tags": [
+      "vLLM",
+      "推理加速",
+      "Transformers",
+      "模型部署",
+      "性能优化"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:25Z",
+    "updated_at": "2026-07-22T10:15:25Z",
+    "analysis": {
+      "description": "vLLM项目发布了新的Transformers建模后端，旨在提供接近原生速度的推理性能。该后端优化了模型加载和计算流程，支持多种主流模型，并兼容Hugging Face生态，使得开发者能够以更低的延迟和更高的吞吐量部署大语言模型。",
+      "tech_category": "大语言模型",
+      "innovation": "通过重新设计后端架构，实现与原生速度相当的推理效率，同时保持对Hugging Face Transformers的兼容性。",
+      "difficulty": "中等",
+      "use_cases": [
+        "大语言模型的高效推理服务",
+        "实时对话系统",
+        "大规模模型部署与优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "a-global-workspace-in-language-models-20260722",
+    "title": "A global workspace in language models",
+    "source_url": "https://www.anthropic.com/research/global-workspace",
+    "source_platform": "rss",
+    "summary": "Anthropic提出在语言模型中引入全局工作空间，通过一个共享的中间表示层来增强模型的多步推理和跨任务能力。",
+    "tags": [
+      "全局工作空间",
+      "语言模型",
+      "推理增强",
+      "Anthropic",
+      "Transformer架构"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:28Z",
+    "updated_at": "2026-07-22T10:15:28Z",
+    "analysis": {
+      "description": "该研究在语言模型中设计了一个全局工作空间，作为所有token共享的中间表示，允许模型在生成过程中动态访问和整合信息，从而提升复杂推理、长文本理解和多任务处理的性能。",
+      "tech_category": "大语言模型",
+      "innovation": "在Transformer架构中引入全局共享工作空间，打破传统自注意力机制的局部限制，实现更灵活的信息流动。",
+      "difficulty": "较高",
+      "use_cases": [
+        "复杂多步推理",
+        "长文档理解与生成",
+        "多任务联合学习"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "googles-exponential-path-to-climate-wrecking-digital-bloat-20260722",
+    "title": "Google’s exponential path to climate-wrecking digital bloat",
+    "source_url": "https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/",
+    "source_platform": "rss",
+    "summary": "文章探讨谷歌技术扩张导致数字膨胀，加剧气候危机，分析其指数级增长路径。",
+    "tags": [
+      "谷歌",
+      "数字膨胀",
+      "气候变化",
+      "能源消耗",
+      "科技责任"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:31Z",
+    "updated_at": "2026-07-22T10:15:31Z",
+    "analysis": {
+      "description": "本文深入分析谷歌在搜索、广告、云服务等领域的指数级技术扩张，指出其数字基础设施的膨胀正显著增加能源消耗和碳排放，对气候造成破坏性影响，呼吁关注科技巨头的环境责任。",
+      "tech_category": "大语言模型",
+      "innovation": "将数字膨胀与气候危机直接关联，揭示科技巨头扩张的环境代价。",
+      "difficulty": "中等",
+      "use_cases": [
+        "环境政策研究",
+        "科技公司可持续发展评估",
+        "公众意识提升"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "investigating-idiosyncrasies-in-ai-fiction-20260722",
+    "title": "Investigating idiosyncrasies in AI fiction",
+    "source_url": "https://arxiv.org/abs/2604.03136",
+    "source_platform": "rss",
+    "summary": "研究AI生成小说中的独特风格特征，分析其与人类写作的差异。",
+    "tags": [
+      "AI小说",
+      "风格分析",
+      "大语言模型",
+      "文学创作",
+      "自然语言处理"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:33Z",
+    "updated_at": "2026-07-22T10:15:33Z",
+    "analysis": {
+      "description": "该论文探讨了AI生成小说中存在的独特风格和模式，通过对比人类创作，揭示了AI在叙事结构、语言使用和情感表达上的特异性，为理解AI文学创作提供了新视角。",
+      "tech_category": "大语言模型",
+      "innovation": "系统性地识别和分类AI小说中的风格特异性，而非仅关注生成质量。",
+      "difficulty": "中等",
+      "use_cases": [
+        "文学创作辅助",
+        "AI内容检测",
+        "人机协作写作"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "the-control-plane-was-the-point-revisiting-autofz-in-the-llm-era-20260722",
+    "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+    "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+    "source_platform": "rss",
+    "summary": "本文重新审视了autofz在LLM时代的价值，强调控制平面（Control Plane）才是关键，而非传统fuzzing方法。",
+    "tags": [
+      "autofz",
+      "控制平面",
+      "LLM",
+      "fuzzing",
+      "软件测试"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:35Z",
+    "updated_at": "2026-07-22T10:15:35Z",
+    "analysis": {
+      "description": "文章探讨了在LLM时代，如何重新定位autofz工具，指出控制平面（即策略和调度）比具体fuzzing技术更重要，并提出了结合LLM的新思路。",
+      "tech_category": "AI编程工具",
+      "innovation": "强调控制平面在fuzzing中的核心作用，并探索LLM如何增强这一层面。",
+      "difficulty": "较高",
+      "use_cases": [
+        "自动化漏洞挖掘",
+        "软件安全测试",
+        "LLM辅助的fuzzing策略优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "matrix-orthogonalization-improves-memory-in-recurrent-models-20260722",
+    "title": "Matrix Orthogonalization Improves Memory in Recurrent Models",
+    "source_url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+    "source_platform": "rss",
+    "summary": "通过矩阵正交化技术提升循环模型记忆能力，解决梯度消失问题，实现长序列依赖建模。",
+    "tags": [
+      "矩阵正交化",
+      "循环神经网络",
+      "长期依赖",
+      "梯度消失",
+      "记忆增强"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:38Z",
+    "updated_at": "2026-07-22T10:15:38Z",
+    "analysis": {
+      "description": "该技术通过强制循环神经网络中的权重矩阵保持正交性，有效缓解梯度消失或爆炸问题，从而显著提升模型对长序列信息的记忆能力。实验表明，正交化方法在多种循环架构上均能改善长期依赖学习，且计算开销可控。",
+      "tech_category": "大语言模型",
+      "innovation": "将矩阵正交化约束引入循环模型训练，以数学手段直接优化记忆保持能力。",
+      "difficulty": "较高",
+      "use_cases": [
+        "长文本序列建模",
+        "时间序列预测",
+        "语音识别与生成"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "robust-ai-security-and-alignment-a-sisyphean-endeavor-20260722",
+    "title": "Robust AI Security and Alignment: A Sisyphean Endeavor?",
+    "source_url": "https://ieeexplore.ieee.org/document/11475847/",
+    "source_platform": "rss",
+    "summary": "该论文探讨了AI安全与对齐的挑战，指出其如同西西弗斯式任务，需要持续监控与更新。",
+    "tags": [
+      "AI安全",
+      "对齐",
+      "持续监控",
+      "NIST",
+      "数学证明"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:41Z",
+    "updated_at": "2026-07-22T10:15:41Z",
+    "analysis": {
+      "description": "本文通过NIST的数学证明支持，分析了AI安全与对齐的持续性问题，强调在AI系统部署后仍需不断监控和调整，以应对新出现的威胁和漏洞，确保系统长期安全。",
+      "tech_category": "AI安全与对齐",
+      "innovation": "提出AI安全与对齐是持续过程，而非一次性任务，并引用NIST数学证明支持。",
+      "difficulty": "较高",
+      "use_cases": [
+        "AI系统安全评估",
+        "AI对齐策略制定",
+        "AI风险管理"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "convolutional-neural-networks-in-apl-2019-20260722",
+    "title": "Convolutional Neural Networks in APL (2019)",
+    "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+    "source_platform": "rss",
+    "summary": "本文展示了如何在APL语言中实现卷积神经网络，利用其数组操作能力简化深度学习模型构建。",
+    "tags": [
+      "APL",
+      "卷积神经网络",
+      "深度学习",
+      "数组编程",
+      "计算机视觉"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:43Z",
+    "updated_at": "2026-07-22T10:15:43Z",
+    "analysis": {
+      "description": "该论文详细介绍了使用APL（一种强大的数组编程语言）实现卷积神经网络的方法，包括卷积层、池化层和全连接层的实现，并讨论了APL在深度学习中的优势，如简洁的代码和高效的数组运算。",
+      "tech_category": "计算机视觉",
+      "innovation": "将APL语言应用于卷积神经网络的实现，展示了非传统语言在深度学习中的潜力。",
+      "difficulty": "较高",
+      "use_cases": [
+        "教学演示APL在深度学习中的应用",
+        "探索非主流语言实现神经网络",
+        "优化特定场景下的模型实现效率"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "max-models-can-now-run-on-apple-silicon-gpus-20260722",
+    "title": "MAX models can now run on Apple silicon GPUs",
+    "source_url": "https://forum.modular.com/t/max-models-can-now-run-on-apple-silicon-gpus/3283",
+    "source_platform": "rss",
+    "summary": "MAX模型现在可以在Apple Silicon GPU上运行，提升了本地AI推理性能。",
+    "tags": [
+      "MAX模型",
+      "Apple Silicon",
+      "GPU",
+      "Metal",
+      "本地推理"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:45Z",
+    "updated_at": "2026-07-22T10:15:45Z",
+    "analysis": {
+      "description": "Modular宣布其MAX模型已支持在Apple Silicon GPU上运行，利用Metal性能着色器实现高效推理，为Mac用户提供更快的本地AI处理能力。",
+      "tech_category": "大语言模型",
+      "innovation": "将MAX模型适配至Apple Silicon GPU，利用Metal优化性能。",
+      "difficulty": "中等",
+      "use_cases": [
+        "Mac上的AI推理",
+        "本地大模型部署",
+        "高性能计算"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "the-state-of-simulation-for-physical-ai-an-overview-20260722",
+    "title": "The State of Simulation for Physical AI: An Overview",
+    "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "source_platform": "rss",
+    "summary": "本文概述了物理AI模拟的现状，探讨了模拟技术在训练和测试物理AI系统中的应用与挑战。",
+    "tags": [
+      "物理AI",
+      "模拟",
+      "NVIDIA",
+      "AI训练",
+      "计算机视觉"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:48Z",
+    "updated_at": "2026-07-22T10:15:48Z",
+    "analysis": {
+      "description": "该文章由NVIDIA发布，全面介绍了物理AI模拟的最新进展，包括模拟环境、数据生成、模型训练及评估方法，强调了模拟在加速物理AI发展中的关键作用。",
+      "tech_category": "计算机视觉",
+      "innovation": "系统梳理了物理AI模拟的技术栈和未来方向，为研究者提供了清晰的路线图。",
+      "difficulty": "中等",
+      "use_cases": [
+        "机器人训练与仿真",
+        "自动驾驶场景模拟",
+        "物理交互AI系统开发"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "grabette-an-open-system-to-record-robot-manipulation-data-20260722",
+    "title": "Grabette: an open system to record robot-manipulation data",
+    "source_url": "https://huggingface.co/blog/grabette",
+    "source_platform": "rss",
+    "summary": "Grabette是一个开源系统，用于记录机器人操作数据，旨在简化数据采集流程。",
+    "tags": [
+      "机器人",
+      "数据记录",
+      "开源系统",
+      "操作数据",
+      "机器人学习"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:50Z",
+    "updated_at": "2026-07-22T10:15:50Z",
+    "analysis": {
+      "description": "Grabette是一个开源系统，专门设计用于记录机器人操作数据。它提供了一套工具和框架，帮助研究人员和开发者高效地采集、标注和管理机器人操作过程中的数据，从而支持机器人学习和控制算法的开发。",
+      "tech_category": "机器人技术",
+      "innovation": "通过开源系统简化机器人操作数据的记录流程，降低数据采集门槛。",
+      "difficulty": "中等",
+      "use_cases": [
+        "机器人操作数据采集",
+        "机器人学习训练数据准备",
+        "机器人控制算法开发"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "newer-models-same-advantage-20260722",
+    "title": "Newer Models, Same Advantage",
+    "source_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+    "source_platform": "rss",
+    "summary": "本文探讨了新一代AI模型在保持原有优势的同时，如何通过改进架构和训练方法实现性能提升。",
+    "tags": [
+      "大语言模型",
+      "模型优化",
+      "架构改进",
+      "训练方法",
+      "性能提升"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:52Z",
+    "updated_at": "2026-07-22T10:15:52Z",
+    "analysis": {
+      "description": "文章分析了最新AI模型在继承前代模型优势的基础上，通过优化架构、扩大训练数据和改进算法，在多个任务上取得了显著进步，同时保持了原有的高效性和可扩展性。",
+      "tech_category": "大语言模型",
+      "innovation": "在保持模型原有优势的同时，通过架构和训练方法的创新实现性能提升。",
+      "difficulty": "中等",
+      "use_cases": [
+        "自然语言处理",
+        "文本生成",
+        "智能问答"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "security-incident-disclosure-july-2026-20260722",
+    "title": "Security incident disclosure — July 2026",
+    "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+    "source_platform": "rss",
+    "summary": "Hugging Face披露2026年7月安全事件，涉及数据泄露和系统入侵，强调已采取措施加强安全。",
+    "tags": [
+      "安全事件",
+      "数据泄露",
+      "Hugging Face",
+      "AI安全",
+      "隐私保护"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:55Z",
+    "updated_at": "2026-07-22T10:15:55Z",
+    "analysis": {
+      "description": "Hugging Face在博客中公开了2026年7月发生的一起安全事件，包括未经授权访问用户数据和系统入侵。公司已修复漏洞、通知受影响用户，并加强安全措施以防止未来事件。",
+      "tech_category": "AI安全与隐私",
+      "innovation": "公开透明地披露安全事件，展示AI平台的安全响应机制。",
+      "difficulty": "入门",
+      "use_cases": [
+        "AI平台安全审计",
+        "用户数据保护",
+        "安全事件响应"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "what-building-shippy-taught-us-about-building-agents-20260722",
+    "title": "What building Shippy taught us about building agents",
+    "source_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "source_platform": "rss",
+    "summary": "本文分享了构建Shippy智能体过程中的经验教训，探讨了如何有效构建和部署AI代理。",
+    "tags": [
+      "智能体",
+      "AI代理",
+      "架构设计",
+      "任务分解",
+      "工具使用"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:15:58Z",
+    "updated_at": "2026-07-22T10:15:58Z",
+    "analysis": {
+      "description": "文章详细介绍了在构建Shippy智能体时遇到的关键挑战和解决方案，包括代理的架构设计、任务分解、工具使用和错误处理等，为开发者提供了实用的指导。",
+      "tech_category": "多智能体",
+      "innovation": "总结了构建实用AI代理的实战经验，强调了迭代开发和用户反馈的重要性。",
+      "difficulty": "中等",
+      "use_cases": [
+        "智能客服",
+        "自动化任务执行",
+        "复杂工作流管理"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "model-routing-is-simple-until-it-isnt-20260722",
+    "title": "Model Routing Is Simple. Until It Isn’t.",
+    "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "source_platform": "rss",
+    "summary": "本文探讨了模型路由的复杂性，指出看似简单的路由策略在实际应用中面临诸多挑战，如性能权衡、成本控制和动态调整。",
+    "tags": [
+      "模型路由",
+      "大语言模型",
+      "推理优化",
+      "成本控制",
+      "动态调整"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:00Z",
+    "updated_at": "2026-07-22T10:16:00Z",
+    "analysis": {
+      "description": "文章深入分析了模型路由在AI系统中的关键作用，强调从简单规则到复杂决策的转变。讨论了路由策略如何影响模型选择、推理效率和资源分配，并提出了应对非平凡场景的解决方案。",
+      "tech_category": "大语言模型",
+      "innovation": "揭示了模型路由从简单到复杂的演进过程，并提出了应对实际部署中动态和不确定性的方法。",
+      "difficulty": "中等",
+      "use_cases": [
+        "多模型选择与调度",
+        "推理成本优化",
+        "资源分配管理"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "welcome-inkling-by-thinking-machines-20260722",
+    "title": "Welcome Inkling by Thinking Machines",
+    "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+    "source_platform": "rss",
+    "summary": "Thinking Machines 发布了 Inkling，一个面向开发者的新工具，旨在简化机器学习模型的部署和管理。",
+    "tags": [
+      "机器学习",
+      "模型部署",
+      "自动化",
+      "开发者工具",
+      "Thinking Machines"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:03Z",
+    "updated_at": "2026-07-22T10:16:03Z",
+    "analysis": {
+      "description": "Inkling 是一个由 Thinking Machines 推出的工具，专注于帮助开发者更轻松地部署和管理机器学习模型。它提供了简洁的接口和自动化功能，降低了模型上线的门槛，适合快速迭代和实验。",
+      "tech_category": "AI编程工具",
+      "innovation": "通过简化部署流程和提供自动化管理功能，降低了机器学习模型上线的复杂性。",
+      "difficulty": "入门",
+      "use_cases": [
+        "快速部署机器学习模型到生产环境",
+        "自动化模型版本管理和监控",
+        "简化团队协作中的模型共享流程"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "introducing-real-world-voiceeq-measuring-the-human-quality-of-vo-20260722",
+    "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+    "source_url": "https://huggingface.co/blog/real-world-voiceeq",
+    "source_platform": "rss",
+    "summary": "Real World VoiceEQ 是一个评估语音AI人类质量的新基准，通过模拟真实场景测试语音交互的自然度和清晰度。",
+    "tags": [
+      "语音AI",
+      "质量评估",
+      "真实场景",
+      "人类感知",
+      "基准测试"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:06Z",
+    "updated_at": "2026-07-22T10:16:06Z",
+    "analysis": {
+      "description": "该博客介绍了Real World VoiceEQ，一个用于衡量语音AI系统在真实世界条件下人类感知质量的基准测试。它通过模拟各种环境噪声、说话风格和交互场景，评估语音合成和识别系统的自然度、清晰度和情感表达，旨在推动语音AI更接近人类水平。",
+      "tech_category": "语音AI",
+      "innovation": "提出基于真实场景的语音质量评估基准，弥补了传统测试在模拟人类感知方面的不足。",
+      "difficulty": "中等",
+      "use_cases": [
+        "语音助手质量测试",
+        "语音合成系统评估",
+        "语音识别系统优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "profiling-in-pytorch-part-3-attention-is-all-you-profile-20260722",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "source_url": "https://huggingface.co/blog/torch-attention-profile",
+    "source_platform": "rss",
+    "summary": "本文是PyTorch性能分析系列第三部分，聚焦注意力机制的profiling，展示如何通过PyTorch Profiler优化Transformer模型性能。",
+    "tags": [
+      "PyTorch",
+      "性能分析",
+      "注意力机制",
+      "Transformer",
+      "模型优化"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:09Z",
+    "updated_at": "2026-07-22T10:16:09Z",
+    "analysis": {
+      "description": "文章深入探讨了使用PyTorch Profiler对注意力机制进行性能分析的方法，包括识别瓶颈、优化内存和计算效率，并提供了实际代码示例和最佳实践。",
+      "tech_category": "大语言模型",
+      "innovation": "系统性地将PyTorch Profiler应用于注意力机制的性能优化，提供具体可操作的profiling策略。",
+      "difficulty": "中等",
+      "use_cases": [
+        "Transformer模型性能调优",
+        "注意力层计算瓶颈分析",
+        "大模型训练效率提升"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "native-speed-vllm-transformers-modeling-backend-20260722",
+    "title": "Native-speed vLLM transformers modeling backend",
+    "source_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "source_platform": "rss",
+    "summary": "vLLM推出原生速度的Transformers建模后端，大幅提升推理性能。",
+    "tags": [
+      "vLLM",
+      "Transformers",
+      "推理优化",
+      "大语言模型",
+      "性能提升"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:11Z",
+    "updated_at": "2026-07-22T10:16:11Z",
+    "analysis": {
+      "description": "vLLM团队开发了一种新的Transformers建模后端，旨在实现原生速度的推理，通过优化内存管理和计算图，显著提高大语言模型的推理效率。",
+      "tech_category": "大语言模型",
+      "innovation": "通过原生速度后端优化，实现vLLM推理性能的显著提升。",
+      "difficulty": "较高",
+      "use_cases": [
+        "大语言模型推理加速",
+        "生产环境部署优化",
+        "高性能AI服务"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "from-hugging-face-to-amazon-sagemaker-studio-in-one-click-20260722",
+    "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+    "source_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "source_platform": "rss",
+    "summary": "Hugging Face模型一键部署到Amazon SageMaker Studio，简化AI工作流。",
+    "tags": [
+      "Hugging Face",
+      "Amazon SageMaker",
+      "模型部署",
+      "AI工作流",
+      "云服务"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:14Z",
+    "updated_at": "2026-07-22T10:16:14Z",
+    "analysis": {
+      "description": "该博客介绍如何通过一键操作将Hugging Face上的预训练模型快速部署到Amazon SageMaker Studio，实现从模型发现到训练、推理的无缝衔接，降低AI开发门槛。",
+      "tech_category": "AI编程工具",
+      "innovation": "提供一键集成方案，简化Hugging Face模型到SageMaker的部署流程。",
+      "difficulty": "入门",
+      "use_cases": [
+        "快速部署预训练模型",
+        "简化AI开发流程",
+        "模型训练与推理集成"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "hugging-face-models-on-foundry-managed-compute-20260722",
+    "title": "Hugging Face Models on Foundry Managed Compute",
+    "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "source_platform": "rss",
+    "summary": "微软与Hugging Face合作，在Azure Foundry托管计算上运行Hugging Face模型，简化AI模型部署。",
+    "tags": [
+      "Hugging Face",
+      "Azure Foundry",
+      "托管计算",
+      "模型部署",
+      "微软"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:16Z",
+    "updated_at": "2026-07-22T10:16:16Z",
+    "analysis": {
+      "description": "该博客介绍了微软与Hugging Face的集成，允许用户在Azure Foundry的托管计算环境中直接部署和运行Hugging Face模型。这降低了AI模型部署的复杂性，提供了可扩展、安全的计算资源，支持多种模型类型，并简化了管理流程。",
+      "tech_category": "大语言模型",
+      "innovation": "将Hugging Face模型无缝集成到Azure Foundry托管计算，实现一键式部署和自动扩展。",
+      "difficulty": "中等",
+      "use_cases": [
+        "企业级AI模型部署",
+        "快速原型开发",
+        "大规模推理服务"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "run-ai-workloads-on-any-cloud-store-on-hugging-face-zero-egress--20260722",
+    "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+    "source_url": "https://huggingface.co/blog/skypilot-hf-storage",
+    "source_platform": "rss",
+    "summary": "SkyPilot与Hugging Face集成，实现零出站费用的多云AI工作负载存储方案。",
+    "tags": [
+      "SkyPilot",
+      "Hugging Face",
+      "多云存储",
+      "零出站费用",
+      "AI工作负载"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:19Z",
+    "updated_at": "2026-07-22T10:16:19Z",
+    "analysis": {
+      "description": "该方案通过SkyPilot连接Hugging Face存储，允许用户在任何云平台上运行AI工作负载，同时将数据存储在Hugging Face上，避免云厂商的数据出站费用，实现高效、低成本的AI开发与部署。",
+      "tech_category": "多云AI基础设施",
+      "innovation": "零出站费用的多云存储与计算解耦，简化AI工作流。",
+      "difficulty": "中等",
+      "use_cases": [
+        "跨云AI模型训练与推理",
+        "低成本数据存储与访问",
+        "多云环境下的AI开发协作"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "lerobot-v060-imagine-evaluate-improve-20260722",
+    "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+    "source_url": "https://huggingface.co/blog/lerobot-release-v060",
+    "source_platform": "rss",
+    "summary": "LeRobot v0.6.0 发布，新增想象、评估和改进功能，提升机器人学习效率。",
+    "tags": [
+      "机器人学习",
+      "LeRobot",
+      "模拟环境",
+      "评估指标",
+      "迭代优化"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:21Z",
+    "updated_at": "2026-07-22T10:16:21Z",
+    "analysis": {
+      "description": "LeRobot v0.6.0 版本引入了想象、评估和改进三大核心功能，旨在优化机器人学习流程。该版本通过增强模拟环境、改进评估指标和提供迭代优化工具，帮助开发者更高效地训练和部署机器人模型。",
+      "tech_category": "多智能体",
+      "innovation": "引入想象、评估和改进的闭环流程，提升机器人学习的迭代效率。",
+      "difficulty": "中等",
+      "use_cases": [
+        "机器人技能训练",
+        "机器人行为评估",
+        "机器人学习算法优化"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "prx-part-4-our-data-strategy-20260722",
+    "title": "PRX Part 4: Our Data Strategy",
+    "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "source_platform": "rss",
+    "summary": "Photoroom 分享了其数据策略，包括数据收集、处理和利用方法，以支持其 AI 模型的训练和优化。",
+    "tags": [
+      "数据策略",
+      "数据增强",
+      "计算机视觉",
+      "模型训练",
+      "数据标注"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:24Z",
+    "updated_at": "2026-07-22T10:16:24Z",
+    "analysis": {
+      "description": "本文是 Photoroom 关于 PRX 系列博客的第四部分，详细介绍了其数据策略，涵盖数据来源、清洗、标注和增强技术，以及如何利用这些数据提升模型性能。",
+      "tech_category": "计算机视觉",
+      "innovation": "系统性地阐述了数据策略在 AI 模型开发中的关键作用，强调数据质量与多样性。",
+      "difficulty": "中等",
+      "use_cases": [
+        "图像编辑 AI 模型训练",
+        "数据驱动产品优化",
+        "AI 模型性能提升"
+      ],
+      "score": 7
+    }
+  },
+  {
+    "id": "kernels-major-updates-20260722",
+    "title": "🤗 Kernels: Major Updates",
+    "source_url": "https://huggingface.co/blog/revamped-kernels",
+    "source_platform": "rss",
+    "summary": "Hugging Face 对 Kernels 进行了重大更新，提升了性能和易用性。",
+    "tags": [
+      "Hugging Face",
+      "Kernels",
+      "性能优化",
+      "机器学习",
+      "开发者工具"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:26Z",
+    "updated_at": "2026-07-22T10:16:26Z",
+    "analysis": {
+      "description": "Hugging Face 发布了 Kernels 的重大更新，包括性能优化、新功能添加和用户体验改进，旨在为机器学习开发者提供更高效、更稳定的内核支持。",
+      "tech_category": "大语言模型",
+      "innovation": "通过性能优化和功能增强，显著提升了内核的效率和开发者体验。",
+      "difficulty": "中等",
+      "use_cases": [
+        "机器学习模型训练加速",
+        "内核性能调优",
+        "开发者工具集成"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "hugging-face-and-cerebras-bring-gemma-4-to-real-time-voice-ai-20260722",
+    "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+    "source_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "source_platform": "rss",
+    "summary": "Hugging Face与Cerebras合作，将Gemma 4模型应用于实时语音AI，提升语音交互的效率和准确性。",
+    "tags": [
+      "Hugging Face",
+      "Cerebras",
+      "Gemma 4",
+      "实时语音AI",
+      "硬件加速"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:29Z",
+    "updated_at": "2026-07-22T10:16:29Z",
+    "analysis": {
+      "description": "该合作利用Cerebras的硬件加速能力，在Hugging Face平台上部署Gemma 4模型，实现低延迟的实时语音处理，适用于语音助手、实时翻译等场景，推动语音AI技术的实用化。",
+      "tech_category": "大语言模型",
+      "innovation": "将Gemma 4模型与Cerebras专用硬件结合，实现实时语音AI的低延迟推理。",
+      "difficulty": "较高",
+      "use_cases": [
+        "语音助手",
+        "实时语音翻译",
+        "语音交互应用"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "scarfbench-benchmarking-ai-agents-for-enterprise-java-framework--20260722",
+    "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+    "source_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+    "source_platform": "rss",
+    "summary": "ScarfBench是一个用于评估AI代理在Java企业框架迁移任务中性能的基准测试平台。",
+    "tags": [
+      "AI代理",
+      "Java框架迁移",
+      "基准测试",
+      "企业应用",
+      "代码重构"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:31Z",
+    "updated_at": "2026-07-22T10:16:31Z",
+    "analysis": {
+      "description": "ScarfBench由IBM Research推出，旨在系统性地评估AI代理在将Java企业应用从旧框架迁移到现代框架时的能力，包括代码重构、依赖管理和兼容性处理等复杂任务。",
+      "tech_category": "AI编程工具",
+      "innovation": "首次提出针对企业级Java框架迁移的AI代理基准测试，填补了该领域评估标准的空白。",
+      "difficulty": "较高",
+      "use_cases": [
+        "评估AI代理在Java框架迁移中的性能",
+        "指导企业选择AI迁移工具",
+        "推动AI辅助代码迁移技术发展"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "why-specialization-is-inevitable-20260722",
+    "title": "Why Specialization Is Inevitable",
+    "source_url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "source_platform": "rss",
+    "summary": "文章论证了AI模型专业化发展的必然性，指出通用模型虽强大但在特定任务上效率低下，未来趋势是领域专用模型。",
+    "tags": [
+      "AI专业化",
+      "大语言模型",
+      "模型效率",
+      "领域专用模型",
+      "技术趋势"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:34Z",
+    "updated_at": "2026-07-22T10:16:34Z",
+    "analysis": {
+      "description": "本文从技术、经济和实际应用角度分析，认为随着AI应用深入，通用模型在特定领域表现不佳且成本高，专业化模型能提供更高效率和准确性，因此专业化是不可避免的发展方向。",
+      "tech_category": "大语言模型",
+      "innovation": "系统性地论证了AI模型从通用到专业化的必然趋势，并分析了背后的驱动因素。",
+      "difficulty": "中等",
+      "use_cases": [
+        "企业级AI应用定制",
+        "垂直领域AI解决方案",
+        "模型优化与部署策略"
+      ],
+      "score": 8
+    }
+  },
+  {
+    "id": "featuring-every-eval-ever-results-on-hugging-face-model-pages-20260722",
+    "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+    "source_url": "https://huggingface.co/blog/eee-community-evals",
+    "source_platform": "rss",
+    "summary": "Hugging Face在模型页面新增“Every Eval Ever”功能，汇总社区评估结果，方便用户比较模型性能。",
+    "tags": [
+      "Hugging Face",
+      "模型评估",
+      "社区协作",
+      "基准测试",
+      "模型比较"
+    ],
+    "status": "analyzed",
+    "created_at": "2026-07-22T10:16:37Z",
+    "updated_at": "2026-07-22T10:16:37Z",
+    "analysis": {
+      "description": "Hugging Face推出“Every Eval Ever”功能，在模型页面集中展示来自社区的各种评估结果，包括基准测试、排行榜和用户反馈，帮助用户更全面地了解模型表现并做出选择。",
+      "tech_category": "大语言模型",
+      "innovation": "将分散的社区评估结果整合到模型页面，提升模型透明度与可比较性。",
+      "difficulty": "入门",
+      "use_cases": [
+        "模型选择与对比",
+        "社区评估汇总",
+        "模型透明度提升"
+      ],
+      "score": 8
+    }
+  }
+]

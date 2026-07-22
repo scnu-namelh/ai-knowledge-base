@@ -1,0 +1,29 @@
+{
+  "id": "tensor-is-the-might-20260722",
+  "title": "Tensor is the might",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "source_platform": "rss",
+  "summary": "本文探讨了张量（Tensor）作为数据处理核心抽象的强大之处，并展示了其在机器学习、物理模拟等领域的应用。",
+  "tags": [
+    "张量",
+    "数据处理",
+    "机器学习",
+    "NumPy",
+    "TensorFlow"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-22T10:15:15Z",
+  "updated_at": "2026-07-22T10:15:15Z",
+  "analysis": {
+    "description": "文章深入解析了张量的概念，强调其作为多维数组的泛化，能够高效表示和操作数据。通过实例说明张量在神经网络、图形学及科学计算中的关键作用，并讨论了相关库如NumPy和TensorFlow的实现原理。",
+    "tech_category": "计算机视觉",
+    "innovation": "系统性地阐述了张量作为通用数据结构的优势，并连接了理论与实践。",
+    "difficulty": "中等",
+    "use_cases": [
+      "神经网络训练",
+      "物理模拟",
+      "图像处理"
+    ],
+    "score": 8
+  }
+}

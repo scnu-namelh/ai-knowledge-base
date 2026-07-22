@@ -1,0 +1,29 @@
+{
+  "id": "the-state-of-simulation-for-physical-ai-an-overview-20260722",
+  "title": "The State of Simulation for Physical AI: An Overview",
+  "source_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+  "source_platform": "rss",
+  "summary": "本文概述了物理AI模拟的现状，探讨了模拟技术在训练和测试物理AI系统中的应用与挑战。",
+  "tags": [
+    "物理AI",
+    "模拟",
+    "NVIDIA",
+    "AI训练",
+    "计算机视觉"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-22T10:15:48Z",
+  "updated_at": "2026-07-22T10:15:48Z",
+  "analysis": {
+    "description": "该文章由NVIDIA发布，全面介绍了物理AI模拟的最新进展，包括模拟环境、数据生成、模型训练及评估方法，强调了模拟在加速物理AI发展中的关键作用。",
+    "tech_category": "计算机视觉",
+    "innovation": "系统梳理了物理AI模拟的技术栈和未来方向，为研究者提供了清晰的路线图。",
+    "difficulty": "中等",
+    "use_cases": [
+      "机器人训练与仿真",
+      "自动驾驶场景模拟",
+      "物理交互AI系统开发"
+    ],
+    "score": 8
+  }
+}

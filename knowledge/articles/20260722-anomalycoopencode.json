@@ -1,0 +1,29 @@
+{
+  "id": "anomalycoopencode-20260722",
+  "title": "anomalyco/opencode",
+  "source_url": "https://github.com/anomalyco/opencode",
+  "source_platform": "github",
+  "summary": "OpenCode 是一个开源的 AI 编程助手，旨在帮助开发者高效编写代码。",
+  "tags": [
+    "AI编程工具",
+    "开源",
+    "TypeScript",
+    "编码代理",
+    "代码生成"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-22T10:14:27Z",
+  "updated_at": "2026-07-22T10:14:27Z",
+  "analysis": {
+    "description": "OpenCode 是基于 TypeScript 开发的开源编码代理，提供智能代码补全、生成和优化功能，支持多种编程语言和 IDE 集成，提升开发效率。",
+    "tech_category": "AI编程工具",
+    "innovation": "开源且专注于编码代理功能，提供灵活的定制和集成能力。",
+    "difficulty": "中等",
+    "use_cases": [
+      "代码自动补全",
+      "代码生成与优化",
+      "IDE 集成开发辅助"
+    ],
+    "score": 8
+  }
+}
