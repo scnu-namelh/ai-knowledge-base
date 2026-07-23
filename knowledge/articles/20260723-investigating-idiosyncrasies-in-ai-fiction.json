@@ -1,0 +1,29 @@
+{
+  "id": "investigating-idiosyncrasies-in-ai-fiction-20260723",
+  "title": "Investigating idiosyncrasies in AI fiction",
+  "source_url": "https://arxiv.org/abs/2604.03136",
+  "source_platform": "rss",
+  "summary": "该研究调查了AI生成小说中的独特特征，分析其与人类写作的差异，揭示AI在叙事中的特殊模式。",
+  "tags": [
+    "AI小说",
+    "叙事分析",
+    "大语言模型",
+    "文学创作",
+    "文本生成"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-23T10:12:27Z",
+  "updated_at": "2026-07-23T10:12:27Z",
+  "analysis": {
+    "description": "本文通过对比AI生成小说与人类创作，识别出AI在情节结构、语言风格和角色塑造上的独特倾向，如重复模式、逻辑跳跃等，为理解AI文学创作提供新视角。",
+    "tech_category": "大语言模型",
+    "innovation": "首次系统性地分析AI生成小说中的独特叙事特征，而非仅关注质量评估。",
+    "difficulty": "中等",
+    "use_cases": [
+      "AI文学创作评估",
+      "叙事风格研究",
+      "人机协作写作"
+    ],
+    "score": 8
+  }
+}

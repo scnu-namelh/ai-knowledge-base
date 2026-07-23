@@ -1,0 +1,29 @@
+{
+  "id": "convolutional-neural-networks-in-apl-2019-20260723",
+  "title": "Convolutional Neural Networks in APL (2019)",
+  "source_url": "https://dl.acm.org/doi/epdf/10.1145/3315454.3329960",
+  "source_platform": "rss",
+  "summary": "本文展示了如何在APL语言中实现卷积神经网络，利用APL的数组操作优势简化深度学习模型构建。",
+  "tags": [
+    "APL",
+    "卷积神经网络",
+    "深度学习",
+    "数组编程",
+    "模型实现"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-23T10:12:39Z",
+  "updated_at": "2026-07-23T10:12:39Z",
+  "analysis": {
+    "description": "该论文详细介绍了使用APL（一种数组编程语言）实现卷积神经网络（CNN）的方法，通过APL的简洁语法和高效数组运算，展示了深度学习模型在非传统语言中的实现可能性，并提供了性能对比。",
+    "tech_category": "计算机视觉",
+    "innovation": "将卷积神经网络实现于APL语言，利用其数组操作特性简化模型代码。",
+    "difficulty": "较高",
+    "use_cases": [
+      "教学演示APL在深度学习中的应用",
+      "探索非主流语言的AI实现",
+      "优化特定场景下的模型部署"
+    ],
+    "score": 7
+  }
+}

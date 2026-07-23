@@ -1,0 +1,29 @@
+{
+  "id": "how-does-pangram-work-20260723",
+  "title": "How does Pangram work?",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "source_platform": "rss",
+  "summary": "Pangram是一个AI驱动的写作助手，通过分析用户输入和上下文，提供实时建议和内容生成，帮助用户提高写作效率和质量。",
+  "tags": [
+    "大语言模型",
+    "写作助手",
+    "实时建议",
+    "内容生成",
+    "AI应用"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-23T10:11:56Z",
+  "updated_at": "2026-07-23T10:11:56Z",
+  "analysis": {
+    "description": "Pangram利用大语言模型技术，理解用户意图并生成连贯、有创意的文本。它支持多种写作场景，如邮件、文章和社交媒体帖子，通过智能提示和自动补全功能，减少写作障碍，提升产出速度。",
+    "tech_category": "大语言模型",
+    "innovation": "将大语言模型与实时写作辅助结合，提供上下文感知的智能建议和内容生成。",
+    "difficulty": "中等",
+    "use_cases": [
+      "邮件撰写",
+      "文章创作",
+      "社交媒体内容生成"
+    ],
+    "score": 8
+  }
+}
