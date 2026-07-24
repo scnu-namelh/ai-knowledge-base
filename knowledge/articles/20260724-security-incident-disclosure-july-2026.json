@@ -1,0 +1,29 @@
+{
+  "id": "security-incident-disclosure-july-2026-20260724",
+  "title": "Security incident disclosure — July 2026",
+  "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+  "source_platform": "rss",
+  "summary": "Hugging Face 披露了2026年7月发生的一起安全事件，涉及用户数据泄露和模型仓库的未授权访问。",
+  "tags": [
+    "安全事件",
+    "数据泄露",
+    "Hugging Face",
+    "模型仓库",
+    "漏洞修复"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-24T10:09:07Z",
+  "updated_at": "2026-07-24T10:09:07Z",
+  "analysis": {
+    "description": "Hugging Face 在2026年7月遭遇安全事件，导致部分用户数据泄露和模型仓库被未授权访问。公司已采取措施修复漏洞，并建议用户更新API密钥和密码。事件影响范围有限，但强调了平台安全的重要性。",
+    "tech_category": "大语言模型",
+    "innovation": "事件披露了平台安全漏洞，强调了模型托管服务的安全防护需求。",
+    "difficulty": "入门",
+    "use_cases": [
+      "安全审计",
+      "漏洞修复",
+      "用户数据保护"
+    ],
+    "score": 6
+  }
+}

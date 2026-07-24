@@ -1,0 +1,29 @@
+{
+  "id": "a-tour-of-mlir-the-dialect-stack-everyone-depends-on-20260724",
+  "title": "A tour of MLIR: The Dialect Stack Everyone Depends On",
+  "source_url": "https://hiraditya.github.io/posts/mlir-dialect-stack-for-ml/",
+  "source_platform": "rss",
+  "summary": "MLIR是编译器基础设施，通过分层方言栈实现多级抽象，支持机器学习模型优化与硬件后端适配。",
+  "tags": [
+    "MLIR",
+    "编译器",
+    "方言栈",
+    "机器学习",
+    "代码生成"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-24T10:08:02Z",
+  "updated_at": "2026-07-24T10:08:02Z",
+  "analysis": {
+    "description": "本文介绍了MLIR（多级中间表示）的核心概念——方言栈，展示了如何通过不同层次的方言（如Linalg、Affine、LLVM）实现从高级机器学习模型到底层代码生成的高效编译流程，并强调了其在多硬件平台上的可移植性和可扩展性。",
+    "tech_category": "编译器技术",
+    "innovation": "通过分层方言栈实现多级抽象，统一了机器学习模型优化与硬件后端代码生成。",
+    "difficulty": "较高",
+    "use_cases": [
+      "机器学习模型编译优化",
+      "多硬件后端适配",
+      "领域特定语言编译"
+    ],
+    "score": 8
+  }
+}

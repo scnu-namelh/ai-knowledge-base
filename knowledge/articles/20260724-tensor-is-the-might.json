@@ -1,0 +1,29 @@
+{
+  "id": "tensor-is-the-might-20260724",
+  "title": "Tensor is the might",
+  "source_url": "https://zserge.com/posts/tensor/",
+  "source_platform": "rss",
+  "summary": "本文探讨了张量（Tensor）作为数据表示和计算核心的概念，强调其在机器学习和科学计算中的重要性。",
+  "tags": [
+    "张量",
+    "机器学习",
+    "深度学习",
+    "数据表示",
+    "科学计算"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-24T10:08:30Z",
+  "updated_at": "2026-07-24T10:08:30Z",
+  "analysis": {
+    "description": "文章深入解析了张量的数学基础及其在深度学习框架中的应用，展示了张量如何通过多维数组操作实现高效计算，并讨论了其在不同领域的实际价值。",
+    "tech_category": "大语言模型",
+    "innovation": "将张量概念从数学抽象提升为实际计算核心，突出其在现代AI中的基础作用。",
+    "difficulty": "中等",
+    "use_cases": [
+      "深度学习模型训练",
+      "科学计算与仿真",
+      "数据处理与特征工程"
+    ],
+    "score": 8
+  }
+}

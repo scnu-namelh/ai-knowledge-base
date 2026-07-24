@@ -1,0 +1,29 @@
+{
+  "id": "the-control-plane-was-the-point-revisiting-autofz-in-the-llm-era-20260724",
+  "title": "The Control Plane Was the Point: Revisiting autofz in the LLM Era",
+  "source_url": "https://yfu.tw/blog/en/autofz-revisited/",
+  "source_platform": "rss",
+  "summary": "重新审视autofz在LLM时代的价值，强调控制平面是核心创新点。",
+  "tags": [
+    "autofz",
+    "模糊测试",
+    "LLM",
+    "控制平面",
+    "自动化测试"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-24T10:08:51Z",
+  "updated_at": "2026-07-24T10:08:51Z",
+  "analysis": {
+    "description": "本文回顾了autofz这一自动化模糊测试工具，指出在LLM时代其控制平面设计依然具有关键意义，并探讨了如何结合LLM提升测试效率。",
+    "tech_category": "AI编程工具",
+    "innovation": "强调控制平面在自动化测试中的核心地位，并探索与LLM的融合。",
+    "difficulty": "较高",
+    "use_cases": [
+      "软件安全测试",
+      "漏洞挖掘",
+      "自动化代码审查"
+    ],
+    "score": 8
+  }
+}
