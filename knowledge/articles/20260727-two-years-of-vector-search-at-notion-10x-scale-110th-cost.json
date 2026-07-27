@@ -1,0 +1,29 @@
+{
+  "id": "two-years-of-vector-search-at-notion-10x-scale-110th-cost-20260727",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "source_platform": "rss",
+  "summary": "Notion分享两年向量搜索经验：规模扩大10倍，成本降至1/10。",
+  "tags": [
+    "向量搜索",
+    "Notion",
+    "成本优化",
+    "规模扩展",
+    "近似最近邻搜索"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-27T11:10:38Z",
+  "updated_at": "2026-07-27T11:10:38Z",
+  "analysis": {
+    "description": "Notion团队回顾了两年向量搜索的演进，通过优化索引结构、采用近似最近邻搜索算法和硬件加速，实现了10倍规模扩展和90%成本降低，提升了搜索效率和用户体验。",
+    "tech_category": "向量搜索",
+    "innovation": "通过算法和架构优化，同时实现规模扩展和成本大幅降低。",
+    "difficulty": "较高",
+    "use_cases": [
+      "文档搜索",
+      "知识库检索",
+      "语义搜索"
+    ],
+    "score": 8
+  }
+}

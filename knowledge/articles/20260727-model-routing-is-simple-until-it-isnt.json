@@ -1,0 +1,29 @@
+{
+  "id": "model-routing-is-simple-until-it-isnt-20260727",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "source_platform": "rss",
+  "summary": "本文探讨了模型路由的复杂性，指出看似简单的任务在实际应用中面临诸多挑战。",
+  "tags": [
+    "模型路由",
+    "大语言模型",
+    "系统优化",
+    "性能平衡",
+    "成本控制"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-27T11:11:34Z",
+  "updated_at": "2026-07-27T11:11:34Z",
+  "analysis": {
+    "description": "文章深入分析了模型路由在AI系统中的关键作用，从简单概念出发，揭示了实现高效路由时遇到的性能、成本和准确性等实际难题，并提出了解决方案。",
+    "tech_category": "大语言模型",
+    "innovation": "系统性地揭示了模型路由从简单到复杂的实际挑战，并提供了实用指导。",
+    "difficulty": "中等",
+    "use_cases": [
+      "多模型选择与调度",
+      "AI系统性能优化",
+      "资源成本管理"
+    ],
+    "score": 8
+  }
+}
