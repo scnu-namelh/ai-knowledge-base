@@ -1,0 +1,29 @@
+{
+  "id": "kernels-major-updates-20260728",
+  "title": "🤗 Kernels: Major Updates",
+  "source_url": "https://huggingface.co/blog/revamped-kernels",
+  "source_platform": "rss",
+  "summary": "Hugging Face 对内核进行了重大更新，提升了模型训练和推理的性能与效率。",
+  "tags": [
+    "Hugging Face",
+    "内核更新",
+    "性能优化",
+    "模型训练",
+    "推理加速"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-28T10:25:47Z",
+  "updated_at": "2026-07-28T10:25:47Z",
+  "analysis": {
+    "description": "Hugging Face 博客宣布对内核进行重大更新，包括优化计算内核、改进内存管理和支持更多硬件加速，旨在加速深度学习模型的训练和推理过程，降低资源消耗。",
+    "tech_category": "大语言模型",
+    "innovation": "通过内核优化显著提升模型训练和推理性能，同时降低资源消耗。",
+    "difficulty": "中等",
+    "use_cases": [
+      "加速大语言模型训练",
+      "提升推理效率",
+      "降低硬件资源需求"
+    ],
+    "score": 8
+  }
+}

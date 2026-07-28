@@ -1,0 +1,29 @@
+{
+  "id": "open-weights-and-american-ai-leadership-20260728",
+  "title": "Open Weights and American AI Leadership",
+  "source_url": "https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/",
+  "source_platform": "rss",
+  "summary": "微软发布关于开放权重模型对美国AI领导力影响的文章，探讨开放权重在促进创新与维护国家安全之间的平衡。",
+  "tags": [
+    "开放权重",
+    "AI领导力",
+    "微软",
+    "开源模型",
+    "政策分析"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-28T10:24:24Z",
+  "updated_at": "2026-07-28T10:24:24Z",
+  "analysis": {
+    "description": "本文由微软发布，探讨开放权重AI模型（如开源大模型）如何影响美国在全球AI领域的领导地位。文章分析了开放权重对创新、经济竞争力和国家安全的双重影响，并提出政策建议以平衡开放性与风险管控。",
+    "tech_category": "大语言模型",
+    "innovation": "从企业视角系统分析开放权重模型对AI领导力的战略影响，并提出政策框架。",
+    "difficulty": "中等",
+    "use_cases": [
+      "AI政策制定",
+      "开源模型战略评估",
+      "技术领导力研究"
+    ],
+    "score": 7
+  }
+}

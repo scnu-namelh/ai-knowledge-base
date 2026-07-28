@@ -1,0 +1,29 @@
+{
+  "id": "fpromptschat-20260728",
+  "title": "f/prompts.chat",
+  "source_url": "https://github.com/f/prompts.chat",
+  "source_platform": "github",
+  "summary": "一个社区驱动的ChatGPT提示词分享平台，支持自托管部署，保障隐私安全。",
+  "tags": [
+    "ChatGPT",
+    "提示词",
+    "开源",
+    "社区",
+    "自托管"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-28T10:24:02Z",
+  "updated_at": "2026-07-28T10:24:02Z",
+  "analysis": {
+    "description": "该项目是一个开源的ChatGPT提示词收集与分享平台，用户可发现、分享和收藏提示词。支持自托管部署，确保组织数据隐私，界面简洁易用。",
+    "tech_category": "大语言模型",
+    "innovation": "将提示词社区化，并提供自托管隐私保护方案。",
+    "difficulty": "入门",
+    "use_cases": [
+      "提示词收集与分享",
+      "组织内部提示词管理",
+      "提示词发现与学习"
+    ],
+    "score": 8
+  }
+}

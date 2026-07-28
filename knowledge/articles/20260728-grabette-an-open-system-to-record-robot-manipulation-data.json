@@ -1,0 +1,29 @@
+{
+  "id": "grabette-an-open-system-to-record-robot-manipulation-data-20260728",
+  "title": "Grabette: an open system to record robot-manipulation data",
+  "source_url": "https://huggingface.co/blog/grabette",
+  "source_platform": "rss",
+  "summary": "Grabette 是一个开源系统，用于记录机器人操作数据，旨在简化数据采集流程，支持多种传感器和机器人平台。",
+  "tags": [
+    "机器人操作",
+    "数据记录",
+    "开源系统",
+    "传感器集成",
+    "机器人平台"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-28T10:25:14Z",
+  "updated_at": "2026-07-28T10:25:14Z",
+  "analysis": {
+    "description": "Grabette 是一个开源系统，专为记录机器人操作数据而设计。它提供灵活的接口，支持多种传感器（如摄像头、力传感器）和机器人平台，帮助研究人员高效采集高质量数据，用于训练和评估机器人操作算法。",
+    "tech_category": "机器人技术",
+    "innovation": "通过开源和模块化设计，简化了机器人操作数据的记录流程，支持多种硬件和传感器集成。",
+    "difficulty": "中等",
+    "use_cases": [
+      "机器人操作数据采集",
+      "机器人算法训练",
+      "机器人研究实验"
+    ],
+    "score": 8
+  }
+}

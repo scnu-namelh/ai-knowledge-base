@@ -1,0 +1,29 @@
+{
+  "id": "verifiable-ai-inference-20260728",
+  "title": "Verifiable AI inference",
+  "source_url": "https://blog.vrypan.net/2026/07/14/verifiable-ai-inference/",
+  "source_platform": "rss",
+  "summary": "本文探讨了可验证AI推理的概念，旨在确保AI模型输出的可信度和完整性，通过密码学方法验证推理过程。",
+  "tags": [
+    "可验证计算",
+    "零知识证明",
+    "AI推理",
+    "透明度",
+    "信任"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-28T10:24:49Z",
+  "updated_at": "2026-07-28T10:24:49Z",
+  "analysis": {
+    "description": "文章介绍了可验证AI推理的核心思想，即利用零知识证明等技术，让用户能够验证AI模型在推理过程中是否按预期运行，而无需暴露模型细节。这有助于提升AI系统的透明度和信任度，尤其在金融、医疗等关键领域。",
+    "tech_category": "大语言模型",
+    "innovation": "将密码学中的可验证计算应用于AI推理，实现模型输出的可审计性。",
+    "difficulty": "较高",
+    "use_cases": [
+      "金融风控模型验证",
+      "医疗诊断结果审计",
+      "AI服务商合规检查"
+    ],
+    "score": 8
+  }
+}
