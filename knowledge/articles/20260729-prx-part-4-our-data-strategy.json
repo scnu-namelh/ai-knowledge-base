@@ -1,0 +1,29 @@
+{
+  "id": "prx-part-4-our-data-strategy-20260729",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source_platform": "rss",
+  "summary": "Photoroom 分享了其数据策略，强调通过高质量、多样化的数据来提升模型性能，并介绍了数据收集、清洗和标注的流程。",
+  "tags": [
+    "数据策略",
+    "计算机视觉",
+    "图像处理",
+    "合成数据",
+    "数据标注"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-29T10:31:22Z",
+  "updated_at": "2026-07-29T10:31:22Z",
+  "analysis": {
+    "description": "本文是 Photoroom 系列博客的第四部分，详细阐述了其数据策略，包括数据来源、筛选标准、标注方法以及如何利用合成数据增强训练集，旨在通过数据驱动的方式优化图像处理模型。",
+    "tech_category": "计算机视觉",
+    "innovation": "提出了一套结合真实数据与合成数据的系统化数据策略，用于提升图像处理模型的泛化能力。",
+    "difficulty": "中等",
+    "use_cases": [
+      "图像分割模型训练",
+      "背景去除模型优化",
+      "图像增强应用开发"
+    ],
+    "score": 8
+  }
+}
