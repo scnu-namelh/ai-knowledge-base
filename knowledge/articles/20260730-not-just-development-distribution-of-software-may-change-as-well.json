@@ -1,0 +1,29 @@
+{
+  "id": "not-just-development-distribution-of-software-may-change-as-well-20260730",
+  "title": "Not just development, distribution of software may change as well",
+  "source_url": "https://antirez.com/news/170",
+  "source_platform": "rss",
+  "summary": "文章探讨AI对软件开发的影响，不仅改变开发过程，还可能改变软件分发方式。",
+  "tags": [
+    "AI",
+    "软件开发",
+    "软件分发",
+    "变革",
+    "未来趋势"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-30T10:12:23Z",
+  "updated_at": "2026-07-30T10:12:23Z",
+  "analysis": {
+    "description": "文章指出，AI不仅影响软件开发过程，还可能彻底改变软件的发行和分发模式。随着AI生成代码的普及，传统软件分发方式可能面临变革，例如更动态、个性化的软件交付。",
+    "tech_category": "AI编程工具",
+    "innovation": "提出AI将改变软件分发模式，而不仅仅是开发过程。",
+    "difficulty": "入门",
+    "use_cases": [
+      "软件分发模式创新",
+      "AI辅助开发",
+      "动态软件交付"
+    ],
+    "score": 7
+  }
+}
