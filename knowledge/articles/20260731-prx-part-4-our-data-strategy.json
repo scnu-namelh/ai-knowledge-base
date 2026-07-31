@@ -1,0 +1,29 @@
+{
+  "id": "prx-part-4-our-data-strategy-20260731",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source_platform": "rss",
+  "summary": "Photoroom 在 PRX 系列第四部分中，详细阐述了其数据策略，强调高质量数据对模型性能的关键作用，并分享了数据采集、清洗、标注及合成数据的实践经验。",
+  "tags": [
+    "数据策略",
+    "数据飞轮",
+    "合成数据",
+    "图像编辑",
+    "数据标注"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:31:08Z",
+  "updated_at": "2026-07-31T10:31:08Z",
+  "analysis": {
+    "description": "本文是 Photoroom 关于其图像编辑模型 PRX 的系列博客第四篇，聚焦于数据策略。文章指出，模型性能的提升不仅依赖算法，更取决于数据的质量与多样性。作者分享了从真实用户反馈中收集数据、利用内部工具进行高效标注、以及通过合成数据增强训练集的方法，并强调了数据飞轮效应，即模型部署后持续收集数据以迭代优化。",
+    "tech_category": "计算机视觉",
+    "innovation": "强调数据飞轮效应，将用户反馈与合成数据结合，形成持续优化的数据闭环。",
+    "difficulty": "中等",
+    "use_cases": [
+      "图像编辑模型训练",
+      "数据质量管理",
+      "AI产品迭代优化"
+    ],
+    "score": 8
+  }
+}

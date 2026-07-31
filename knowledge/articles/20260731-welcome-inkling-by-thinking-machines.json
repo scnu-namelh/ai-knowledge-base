@@ -1,0 +1,29 @@
+{
+  "id": "welcome-inkling-by-thinking-machines-20260731",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source_platform": "rss",
+  "summary": "Thinking Machines 发布 Inkling，一个用于构建和部署 AI 代理的新框架，旨在简化复杂工作流的开发。",
+  "tags": [
+    "AI代理",
+    "框架",
+    "开源",
+    "工作流",
+    "部署"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:30:45Z",
+  "updated_at": "2026-07-31T10:30:45Z",
+  "analysis": {
+    "description": "Inkling 是 Thinking Machines 推出的开源框架，专注于 AI 代理的构建与部署。它提供模块化组件、可视化编排和自动扩展功能，支持多模型集成，降低开发门槛，适用于生产环境。",
+    "tech_category": "多智能体",
+    "innovation": "通过可视化编排和模块化设计，简化 AI 代理的构建与部署流程。",
+    "difficulty": "中等",
+    "use_cases": [
+      "自动化工作流",
+      "智能客服系统",
+      "复杂任务编排"
+    ],
+    "score": 8
+  }
+}

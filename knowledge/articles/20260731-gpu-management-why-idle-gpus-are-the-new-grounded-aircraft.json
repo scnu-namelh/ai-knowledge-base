@@ -1,0 +1,29 @@
+{
+  "id": "gpu-management-why-idle-gpus-are-the-new-grounded-aircraft-20260731",
+  "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+  "source_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+  "source_platform": "rss",
+  "summary": "本文探讨GPU闲置问题，将其比作停飞飞机，强调GPU管理的重要性，并提出优化利用率的策略。",
+  "tags": [
+    "GPU管理",
+    "资源优化",
+    "AI基础设施",
+    "成本控制",
+    "调度策略"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:30:15Z",
+  "updated_at": "2026-07-31T10:30:15Z",
+  "analysis": {
+    "description": "文章指出GPU资源闲置是AI领域常见痛点，如同飞机停飞造成浪费。作者分析了闲置原因，如任务调度不均、资源分配不当等，并提出了动态分配、任务队列优化、监控告警等管理方案，旨在提升GPU利用率，降低成本。",
+    "tech_category": "AI基础设施",
+    "innovation": "将GPU闲置问题类比为航空管理，强调资源调度的系统性优化。",
+    "difficulty": "入门",
+    "use_cases": [
+      "数据中心GPU集群管理",
+      "云GPU资源调度",
+      "AI训练任务优化"
+    ],
+    "score": 7
+  }
+}

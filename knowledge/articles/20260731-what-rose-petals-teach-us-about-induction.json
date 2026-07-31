@@ -1,0 +1,30 @@
+{
+  "id": "what-rose-petals-teach-us-about-induction-20260731",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "source_platform": "rss",
+  "summary": "文章通过玫瑰花瓣的排列，探讨数学归纳法的本质，揭示归纳与演绎在自然界的体现。",
+  "tags": [
+    "数学归纳法",
+    "斐波那契数列",
+    "自然哲学",
+    "数学思维",
+    "科普"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:29:42Z",
+  "updated_at": "2026-07-31T10:29:42Z",
+  "analysis": {
+    "description": "文章以玫瑰花瓣的斐波那契数列排列为引，深入浅出地讲解数学归纳法的原理与应用，强调归纳法在数学证明和自然规律中的普遍性，并反思其哲学意义。",
+    "tech_category": "数学与算法基础",
+    "innovation": "用自然现象直观解释抽象数学概念，连接数学与自然哲学。",
+    "difficulty": "入门",
+    "use_cases": [
+      "数学教学",
+      "科普写作",
+      "算法思维培养",
+      "哲学讨论"
+    ],
+    "score": 7
+  }
+}

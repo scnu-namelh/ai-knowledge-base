@@ -1,0 +1,29 @@
+{
+  "id": "why-every-wikimedian-should-be-a-toolmaker-20260731",
+  "title": "Why every Wikimedian should be a toolmaker",
+  "source_url": "https://www.haykranen.nl/2026/07/30/wikimania-2026-every-wikimedian-toolmaker/",
+  "source_platform": "rss",
+  "summary": "文章倡导维基媒体社区成员成为工具制造者，通过开发小工具提升编辑效率与协作，强调工具文化对维基生态的重要性。",
+  "tags": [
+    "维基媒体",
+    "工具开发",
+    "社区协作",
+    "自动化",
+    "开源"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:29:15Z",
+  "updated_at": "2026-07-31T10:29:15Z",
+  "analysis": {
+    "description": "文章基于Wikimania 2026的讨论，提出维基媒体用户不应仅作为内容贡献者，还应积极参与工具开发。通过简单脚本或机器人自动化重复任务，可显著降低维护成本，增强社区自治与创新。作者呼吁降低技术门槛，鼓励更多编辑者学习基础编程，形成工具共享文化。",
+    "tech_category": "开源社区与协作工具",
+    "innovation": "将工具制造视为维基媒体参与的核心方式，强调社区驱动的技术赋权。",
+    "difficulty": "入门",
+    "use_cases": [
+      "维基百科编辑自动化",
+      "社区维护工具共享",
+      "新手技术培训"
+    ],
+    "score": 7
+  }
+}

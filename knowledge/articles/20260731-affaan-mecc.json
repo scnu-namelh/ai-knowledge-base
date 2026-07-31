@@ -1,0 +1,29 @@
+{
+  "id": "affaan-mecc-20260731",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_platform": "github",
+  "summary": "ECC 是一个为 Claude Code、Codex 等 AI 编程工具设计的代理性能优化系统，提供技能、直觉、记忆、安全与研究优先的开发支持。",
+  "tags": [
+    "AI代理",
+    "性能优化",
+    "开发工具",
+    "JavaScript",
+    "跨平台"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:28:23Z",
+  "updated_at": "2026-07-31T10:28:23Z",
+  "analysis": {
+    "description": "ECC 是一个开源的代理性能优化系统，旨在增强多种 AI 编程工具（如 Claude Code、Codex、Opencode、Cursor）的能力。它通过提供技能库、直觉机制、记忆管理、安全策略和研究驱动的开发方法，帮助开发者更高效地使用 AI 代理进行编程。项目基于 JavaScript 实现，强调可扩展性和跨工具兼容性。",
+    "tech_category": "AI编程工具",
+    "innovation": "通过统一的代理性能优化层，跨多个 AI 编程工具提供一致的能力增强。",
+    "difficulty": "中等",
+    "use_cases": [
+      "增强 Claude Code 的代理能力",
+      "优化 Codex 的代码生成性能",
+      "为 Cursor 提供记忆和技能管理"
+    ],
+    "score": 8
+  }
+}

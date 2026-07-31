@@ -1,0 +1,29 @@
+{
+  "id": "the-dark-night-of-mathematics-20260731",
+  "title": "The Dark Night of Mathematics",
+  "source_url": "https://kirwinhampshire.substack.com/p/the-dark-night-of-mathematics",
+  "source_platform": "rss",
+  "summary": "探讨数学研究中的困境与突破，类比“暗夜”阶段，强调数学家面对不确定性和失败时的心理与哲学挑战。",
+  "tags": [
+    "数学",
+    "哲学",
+    "创造力",
+    "学术心理",
+    "研究过程"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-07-31T10:29:21Z",
+  "updated_at": "2026-07-31T10:29:21Z",
+  "analysis": {
+    "description": "文章以“数学的暗夜”为隐喻，描述数学家在研究过程中经历的迷茫、挫折和不确定性，并探讨如何通过坚持与直觉突破困境。内容涉及数学哲学、创造过程及学术心理，适合对数学本质感兴趣的读者。",
+    "tech_category": "数学哲学",
+    "innovation": "将数学研究中的心理困境比作“暗夜”，强调情感与直觉在数学创造中的作用。",
+    "difficulty": "入门",
+    "use_cases": [
+      "数学教育启发",
+      "科研心理支持",
+      "数学史研究"
+    ],
+    "score": 7
+  }
+}
