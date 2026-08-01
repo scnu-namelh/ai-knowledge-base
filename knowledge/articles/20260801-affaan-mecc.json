@@ -1,0 +1,29 @@
+{
+  "id": "affaan-mecc-20260801",
+  "title": "affaan-m/ECC",
+  "source_url": "https://github.com/affaan-m/ECC",
+  "source_platform": "github",
+  "summary": "ECC 是一个为 Claude Code、Codex 等 AI 编程工具设计的智能体性能优化系统，通过技能、直觉、记忆、安全和研究优先的开发方式提升智能体效率。",
+  "tags": [
+    "AI编程",
+    "智能体",
+    "性能优化",
+    "Claude Code",
+    "Codex"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:48:45Z",
+  "updated_at": "2026-08-01T09:48:45Z",
+  "analysis": {
+    "description": "ECC 是一个开源项目，旨在优化 AI 编程智能体的性能。它提供了一套完整的框架，包括技能管理、直觉机制、记忆系统、安全策略和研究优先的开发方法，支持多种主流 AI 编程工具，如 Claude Code、Codex、Opencode 和 Cursor，帮助开发者更高效地使用这些工具进行软件开发。",
+    "tech_category": "AI编程工具",
+    "innovation": "通过集成技能、直觉、记忆和安全机制，为 AI 编程智能体提供系统化的性能优化方案。",
+    "difficulty": "中等",
+    "use_cases": [
+      "提升 AI 编程工具的代码生成质量",
+      "增强智能体的上下文记忆和决策能力",
+      "为多智能体协作提供安全框架"
+    ],
+    "score": 8
+  }
+}

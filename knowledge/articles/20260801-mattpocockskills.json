@@ -1,0 +1,29 @@
+{
+  "id": "mattpocockskills-20260801",
+  "title": "mattpocock/skills",
+  "source_url": "https://github.com/mattpocock/skills",
+  "source_platform": "github",
+  "summary": "mattpocock/skills 是一个包含真实工程师技能的仓库，直接来自作者的 .agents 目录，提供实用的 Shell 脚本和配置。",
+  "tags": [
+    "Shell",
+    "开发效率",
+    "开源",
+    "技能库",
+    "AI辅助"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:48:56Z",
+  "updated_at": "2026-08-01T09:48:56Z",
+  "analysis": {
+    "description": "该仓库由知名开发者 Matt Pocock 创建，旨在分享他在实际工作中使用的技能和工具配置。内容主要基于 Shell 脚本，可能包含自动化任务、开发环境设置或 AI 辅助工具，适合希望提升开发效率的工程师参考。",
+    "tech_category": "AI编程工具",
+    "innovation": "将个人 .agents 目录中的实战技能开源，提供可直接使用的工程化配置。",
+    "difficulty": "入门",
+    "use_cases": [
+      "快速配置开发环境",
+      "学习高效 Shell 脚本技巧",
+      "集成 AI 辅助工具到工作流"
+    ],
+    "score": 7
+  }
+}

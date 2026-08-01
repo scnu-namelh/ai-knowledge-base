@@ -1,0 +1,29 @@
+{
+  "id": "large-language-models-and-the-future-of-programming-by-peter-nor-20260801",
+  "title": "Large Language Models and the Future of Programming by Peter Norvig (2023)",
+  "source_url": "https://www.youtube.com/watch?v=ia6aJIplmtc",
+  "source_platform": "rss",
+  "summary": "Peter Norvig 探讨大语言模型对编程未来的影响，分析其能力、局限及对开发者角色的变革。",
+  "tags": [
+    "大语言模型",
+    "编程未来",
+    "Peter Norvig",
+    "AI编程",
+    "技术演讲"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:49:41Z",
+  "updated_at": "2026-08-01T09:49:41Z",
+  "analysis": {
+    "description": "视频中，Peter Norvig 从自身经验出发，讨论 LLM 在代码生成、调试和教学中的应用，强调它们将改变编程范式，但人类判断力与领域知识仍不可或缺。",
+    "tech_category": "大语言模型",
+    "innovation": "从资深计算机科学家视角，系统分析 LLM 对编程实践和教育的长期影响。",
+    "difficulty": "入门",
+    "use_cases": [
+      "编程教育",
+      "代码生成辅助",
+      "开发者工具设计"
+    ],
+    "score": 8
+  }
+}

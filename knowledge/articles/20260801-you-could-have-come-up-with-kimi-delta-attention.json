@@ -1,0 +1,29 @@
+{
+  "id": "you-could-have-come-up-with-kimi-delta-attention-20260801",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "source_platform": "rss",
+  "summary": "本文介绍Kimi Delta Attention，一种改进注意力机制的技术，并阐述其设计思路，鼓励读者理解并自主推导该创新。",
+  "tags": [
+    "注意力机制",
+    "Kimi",
+    "模型优化",
+    "技术推导",
+    "效率提升"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:49:44Z",
+  "updated_at": "2026-08-01T09:49:44Z",
+  "analysis": {
+    "description": "文章从注意力机制的基本原理出发，逐步推导出Kimi Delta Attention的改进方案，强调通过逻辑推理和实验观察即可得出该设计。内容涵盖技术细节、与标准注意力的对比，以及潜在优势，旨在降低读者对前沿技术的畏惧感。",
+    "tech_category": "大语言模型",
+    "innovation": "通过简化注意力计算的冗余部分，提出Delta Attention以提升效率，同时保持模型性能。",
+    "difficulty": "中等",
+    "use_cases": [
+      "长文本处理",
+      "实时推理",
+      "资源受限环境下的模型部署"
+    ],
+    "score": 8
+  }
+}

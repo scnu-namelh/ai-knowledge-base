@@ -1,0 +1,29 @@
+{
+  "id": "human-like-neural-nets-by-catapulting-20260801",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source_url": "https://gwern.net/llm-catapult",
+  "source_platform": "rss",
+  "summary": "通过“弹射”技术提升神经网络的人类相似性，Gwern探讨了在LLM训练中应用catapult初始化以改善性能与泛化。",
+  "tags": [
+    "神经网络",
+    "训练策略",
+    "泛化",
+    "LLM",
+    "Gwern"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:50:06Z",
+  "updated_at": "2026-08-01T09:50:06Z",
+  "analysis": {
+    "description": "Gwern的文章深入分析了“catapult”技术，即在训练初期大幅增加学习率再迅速降低，以帮助神经网络逃离尖锐局部最小值，从而获得更平坦的损失景观，提升泛化能力。文章结合实验与理论，展示了该方法在LLM上的应用潜力，并讨论了其与人类学习过程的相似性。",
+    "tech_category": "大语言模型",
+    "innovation": "将catapult初始化策略系统应用于LLM训练，以提升模型泛化性和类人行为。",
+    "difficulty": "较高",
+    "use_cases": [
+      "提升大模型训练稳定性",
+      "改善模型泛化能力",
+      "模拟人类学习动态"
+    ],
+    "score": 8
+  }
+}

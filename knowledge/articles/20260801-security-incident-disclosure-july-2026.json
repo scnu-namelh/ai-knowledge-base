@@ -1,0 +1,29 @@
+{
+  "id": "security-incident-disclosure-july-2026-20260801",
+  "title": "Security incident disclosure — July 2026",
+  "source_url": "https://huggingface.co/blog/security-incident-july-2026",
+  "source_platform": "rss",
+  "summary": "Hugging Face 披露2026年7月发生的一起安全事件，涉及平台基础设施，提醒用户注意潜在影响。",
+  "tags": [
+    "安全事件",
+    "Hugging Face",
+    "透明度",
+    "用户通知",
+    "基础设施"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:50:49Z",
+  "updated_at": "2026-08-01T09:50:49Z",
+  "analysis": {
+    "description": "该博客文章由 Hugging Face 官方发布，公开了2026年7月发生的一起安全事件。文章详细说明了事件的性质、可能受影响的用户范围以及平台已采取的措施，旨在提高透明度并指导用户采取防护行动。",
+    "tech_category": "AI安全与合规",
+    "innovation": "公开披露安全事件，强调透明度和用户信任。",
+    "difficulty": "入门",
+    "use_cases": [
+      "安全事件响应",
+      "用户风险告知",
+      "平台信任维护"
+    ],
+    "score": 7
+  }
+}

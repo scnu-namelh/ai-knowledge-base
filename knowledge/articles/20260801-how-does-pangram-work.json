@@ -1,0 +1,29 @@
+{
+  "id": "how-does-pangram-work-20260801",
+  "title": "How does Pangram work?",
+  "source_url": "https://pangram.substack.com/p/how-does-pangram-work",
+  "source_platform": "rss",
+  "summary": "Pangram是一个基于大语言模型的AI编程工具，通过自然语言生成代码，并解释其工作原理。",
+  "tags": [
+    "大语言模型",
+    "代码生成",
+    "AI编程",
+    "开发工具",
+    "自然语言处理"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-01T09:50:08Z",
+  "updated_at": "2026-08-01T09:50:08Z",
+  "analysis": {
+    "description": "文章详细介绍了Pangram如何利用大语言模型理解用户意图，生成代码片段，并集成到开发环境中，提升编程效率。",
+    "tech_category": "AI编程工具",
+    "innovation": "将大语言模型与编程工作流深度结合，实现自然语言到代码的自动转换。",
+    "difficulty": "中等",
+    "use_cases": [
+      "快速原型开发",
+      "代码自动补全",
+      "编程学习辅助"
+    ],
+    "score": 8
+  }
+}
