@@ -1,0 +1,29 @@
+{
+  "id": "anatomy-of-a-frontier-lab-agent-intrusion-a-technical-timeline-o-20260802",
+  "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+  "source_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+  "source_platform": "rss",
+  "summary": "本文详细分析了2026年7月前沿实验室智能体入侵事件的技术时间线，揭示安全漏洞与防御挑战。",
+  "tags": [
+    "AI安全",
+    "智能体",
+    "入侵事件",
+    "安全漏洞",
+    "技术复盘"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-02T09:50:02Z",
+  "updated_at": "2026-08-02T09:50:02Z",
+  "analysis": {
+    "description": "该博客文章以技术时间线形式，复盘了2026年7月发生的前沿实验室智能体入侵事件，涵盖攻击路径、漏洞利用细节、系统响应及后续修复措施，为AI安全领域提供案例参考。",
+    "tech_category": "AI安全",
+    "innovation": "首次公开披露前沿实验室智能体入侵的完整技术时间线，强调安全事件复盘方法。",
+    "difficulty": "中等",
+    "use_cases": [
+      "AI系统安全审计",
+      "智能体防御策略制定",
+      "安全事件应急响应"
+    ],
+    "score": 8
+  }
+}

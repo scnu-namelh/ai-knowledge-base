@@ -1,0 +1,29 @@
+{
+  "id": "human-like-neural-nets-by-catapulting-20260802",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source_url": "https://gwern.net/llm-catapult",
+  "source_platform": "rss",
+  "summary": "本文探讨通过“弹射”技术提升神经网络的人性化表现，可能涉及训练或推理阶段的创新方法。",
+  "tags": [
+    "神经网络",
+    "拟人化",
+    "训练技术",
+    "泛化",
+    "Gwern"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-02T09:49:11Z",
+  "updated_at": "2026-08-02T09:49:11Z",
+  "analysis": {
+    "description": "Gwern 的文章《Human-like Neural Nets by Catapulting》提出一种名为“catapulting”的技术，旨在使神经网络输出更接近人类行为。文章可能分析该技术如何通过调整模型参数或训练过程，改善模型的泛化能力和拟人性，并可能包含实验验证。",
+    "tech_category": "大语言模型",
+    "innovation": "提出“catapulting”技术，通过特定方式调整模型训练或推理，增强神经网络的人性化表现。",
+    "difficulty": "较高",
+    "use_cases": [
+      "提升对话系统自然度",
+      "改善生成文本的人类风格",
+      "增强模型在少样本场景的适应性"
+    ],
+    "score": 8
+  }
+}

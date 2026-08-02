@@ -1,0 +1,29 @@
+{
+  "id": "prx-part-4-our-data-strategy-20260802",
+  "title": "PRX Part 4: Our Data Strategy",
+  "source_url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+  "source_platform": "rss",
+  "summary": "Photoroom 分享其数据策略，强调高质量数据在训练图像生成模型中的关键作用，包括数据采集、清洗、标注和评估流程。",
+  "tags": [
+    "数据策略",
+    "图像生成",
+    "数据标注",
+    "数据质量",
+    "Photoroom"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-02T09:50:40Z",
+  "updated_at": "2026-08-02T09:50:40Z",
+  "analysis": {
+    "description": "本文是 Photoroom 关于其 PRX 模型系列的第四部分，详细介绍了数据策略。内容涵盖数据来源、筛选标准、人工与自动标注方法、数据质量评估以及数据对模型性能的影响，展示了如何通过系统化的数据管理提升生成图像的质量和多样性。",
+    "tech_category": "计算机视觉",
+    "innovation": "提出了一套完整的数据生命周期管理策略，将数据质量作为模型性能的核心驱动力。",
+    "difficulty": "中等",
+    "use_cases": [
+      "训练图像生成模型",
+      "优化数据管道",
+      "提升生成图像质量"
+    ],
+    "score": 8
+  }
+}

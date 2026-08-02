@@ -1,0 +1,30 @@
+{
+  "id": "you-could-have-come-up-with-kimi-delta-attention-20260802",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "source_platform": "rss",
+  "summary": "本文介绍Kimi Delta Attention，一种改进的注意力机制，通过分解查询向量降低KV缓存大小，提升长上下文推理效率。",
+  "tags": [
+    "注意力机制",
+    "KV缓存优化",
+    "长上下文",
+    "Kimi",
+    "推理效率"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-02T09:48:59Z",
+  "updated_at": "2026-08-02T09:48:59Z",
+  "analysis": {
+    "description": "文章从Kimi模型出发，详细解释了Delta Attention的核心思想：将查询向量分解为共享和特定部分，从而减少键值缓存中的冗余信息。该方法在保持模型性能的同时，显著降低内存占用和计算开销，适用于长文本处理。作者通过推导和示例，展示了其实现简单且效果显著，鼓励读者理解并自行实现。",
+    "tech_category": "大语言模型",
+    "innovation": "通过查询向量分解减少KV缓存冗余，实现高效长上下文推理。",
+    "difficulty": "中等",
+    "use_cases": [
+      "长文档理解",
+      "多轮对话",
+      "代码生成",
+      "实时推理"
+    ],
+    "score": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "what-does-it-mean-to-be-a-mathematician-when-ai-does-the-math-20260802",
+  "title": "What does it mean to be a mathematician when AI does the math?",
+  "source_url": "https://spectrum.ieee.org/ai-in-mathematics",
+  "source_platform": "rss",
+  "summary": "探讨AI在数学领域应用时，数学家角色的重新定义，引发对数学本质与未来职业的思考。",
+  "tags": [
+    "AI",
+    "数学",
+    "职业转型",
+    "教育",
+    "哲学"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-02T09:49:48Z",
+  "updated_at": "2026-08-02T09:49:48Z",
+  "analysis": {
+    "description": "文章讨论当AI能够完成数学计算时，数学家的意义何在。它反思了数学作为人类智力活动的独特性，以及AI工具如何改变数学研究、教育和职业路径，提出数学家需转向更高层次的抽象与创造。",
+    "tech_category": "AI应用与教育",
+    "innovation": "从哲学与职业角度审视AI对数学实践的冲击，而非技术实现。",
+    "difficulty": "入门",
+    "use_cases": [
+      "数学教育设计",
+      "AI辅助研究",
+      "职业规划"
+    ],
+    "score": 7
+  }
+}
