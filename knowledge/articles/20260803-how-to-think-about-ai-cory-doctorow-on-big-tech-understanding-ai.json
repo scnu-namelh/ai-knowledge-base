@@ -1,0 +1,29 @@
+{
+  "id": "how-to-think-about-ai-cory-doctorow-on-big-tech-understanding-ai-20260803",
+  "title": "\"How to Think About AI\": Cory Doctorow on Big Tech, Understanding AI, Labor Automation &amp; More",
+  "source_url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
+  "source_platform": "rss",
+  "summary": "Cory Doctorow 探讨 AI 对科技巨头、劳动自动化的影响，强调批判性思考 AI 的社会与伦理问题。",
+  "tags": [
+    "AI伦理",
+    "劳动自动化",
+    "科技巨头",
+    "社会影响",
+    "批判思维"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-03T11:13:58Z",
+  "updated_at": "2026-08-03T11:13:58Z",
+  "analysis": {
+    "description": "该视频中，Cory Doctorow 深入分析 AI 技术背后的权力结构，指出大科技公司如何利用 AI 加剧劳动异化，并呼吁公众理性看待 AI 的局限与风险，提出技术应服务于人类而非反之。",
+    "tech_category": "AI伦理与社会影响",
+    "innovation": "从批判视角解构 AI 技术叙事，聚焦权力与劳动议题。",
+    "difficulty": "入门",
+    "use_cases": [
+      "政策制定参考",
+      "公众教育",
+      "技术伦理讨论"
+    ],
+    "score": 7
+  }
+}

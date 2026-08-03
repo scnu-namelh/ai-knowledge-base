@@ -1,0 +1,29 @@
+{
+  "id": "gpt2-basic-portable-machine-intelligence-in-basic-20260803",
+  "title": "GPT2-BASIC: Portable Machine Intelligence in BASIC",
+  "source_url": "https://github.com/tsotchke/gpt2-basic",
+  "source_platform": "rss",
+  "summary": "GPT2-BASIC 将 GPT-2 模型移植到 BASIC 语言，实现便携式机器学习，适合复古计算环境。",
+  "tags": [
+    "GPT-2",
+    "BASIC",
+    "机器学习",
+    "复古计算",
+    "模型移植"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-03T11:13:55Z",
+  "updated_at": "2026-08-03T11:13:55Z",
+  "analysis": {
+    "description": "该项目用 BASIC 语言实现了 GPT-2 模型，使其能在老式计算机或 BASIC 环境中运行。它展示了在资源受限平台上进行机器学习推理的可能性，尽管性能有限，但具有教育意义和极客趣味。",
+    "tech_category": "大语言模型",
+    "innovation": "将现代大语言模型移植到 BASIC 语言，实现极简环境下的推理。",
+    "difficulty": "较高",
+    "use_cases": [
+      "教育演示",
+      "复古计算机AI应用",
+      "资源受限环境推理"
+    ],
+    "score": 7
+  }
+}

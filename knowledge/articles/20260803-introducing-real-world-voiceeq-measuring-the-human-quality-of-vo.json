@@ -1,0 +1,29 @@
+{
+  "id": "introducing-real-world-voiceeq-measuring-the-human-quality-of-vo-20260803",
+  "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+  "source_url": "https://huggingface.co/blog/real-world-voiceeq",
+  "source_platform": "rss",
+  "summary": "Hugging Face 发布 Real World VoiceEQ 基准，用于衡量语音 AI 的人类质量，涵盖自然度、情感表达等维度。",
+  "tags": [
+    "语音AI",
+    "基准测试",
+    "质量评估",
+    "自然度",
+    "情感表达"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-03T11:14:35Z",
+  "updated_at": "2026-08-03T11:14:35Z",
+  "analysis": {
+    "description": "该博客介绍了 Real World VoiceEQ，一个评估语音 AI 系统人类质量的基准测试。它通过真实世界场景和多种指标，如自然度、情感、清晰度等，对语音合成和转换模型进行综合评分，旨在推动语音 AI 向更自然、更人性化的方向发展。",
+    "tech_category": "语音AI应用",
+    "innovation": "提出真实世界场景下的语音质量评估基准，强调人类感知维度。",
+    "difficulty": "中等",
+    "use_cases": [
+      "语音合成系统评估",
+      "语音转换质量测试",
+      "语音助手体验优化"
+    ],
+    "score": 8
+  }
+}

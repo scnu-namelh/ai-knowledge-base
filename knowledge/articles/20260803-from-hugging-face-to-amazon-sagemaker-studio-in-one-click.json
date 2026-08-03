@@ -1,0 +1,29 @@
+{
+  "id": "from-hugging-face-to-amazon-sagemaker-studio-in-one-click-20260803",
+  "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+  "source_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+  "source_platform": "rss",
+  "summary": "Hugging Face模型现可一键部署到Amazon SageMaker Studio，简化AI模型从训练到生产的流程。",
+  "tags": [
+    "Hugging Face",
+    "Amazon SageMaker",
+    "模型部署",
+    "一键集成",
+    "MLOps"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-03T11:14:43Z",
+  "updated_at": "2026-08-03T11:14:43Z",
+  "analysis": {
+    "description": "该博客介绍了Hugging Face与Amazon SageMaker Studio的集成，用户可直接从Hugging Face Hub选择模型，一键部署到SageMaker Studio，无需手动编写部署代码，大幅降低部署门槛，加速AI应用落地。",
+    "tech_category": "AI编程工具",
+    "innovation": "一键集成Hugging Face与SageMaker Studio，实现模型部署的零代码操作。",
+    "difficulty": "入门",
+    "use_cases": [
+      "快速原型验证",
+      "生产环境模型部署",
+      "机器学习教学演示"
+    ],
+    "score": 8
+  }
+}
