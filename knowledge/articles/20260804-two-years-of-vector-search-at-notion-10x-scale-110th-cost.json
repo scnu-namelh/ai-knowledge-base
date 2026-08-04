@@ -1,0 +1,29 @@
+{
+  "id": "two-years-of-vector-search-at-notion-10x-scale-110th-cost-20260804",
+  "title": "Two years of vector search at Notion: 10x scale, 1/10th cost",
+  "source_url": "https://www.notion.com/blog/two-years-of-vector-search-at-notion",
+  "source_platform": "rss",
+  "summary": "Notion分享向量搜索两年演进：规模扩大10倍，成本降至十分之一，优化了索引与查询架构。",
+  "tags": [
+    "向量搜索",
+    "系统架构",
+    "成本优化",
+    "Notion",
+    "索引优化"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:27:55Z",
+  "updated_at": "2026-08-04T10:27:55Z",
+  "analysis": {
+    "description": "Notion工程团队详细介绍了其向量搜索系统从初期到成熟的发展历程，包括应对数据规模增长、降低计算成本、提升搜索质量与效率的关键技术决策，如分片策略、索引优化和模型选择。",
+    "tech_category": "向量数据库与搜索",
+    "innovation": "通过系统架构重构与算法优化，在保持搜索质量的同时实现10倍规模扩展和90%成本削减。",
+    "difficulty": "较高",
+    "use_cases": [
+      "大规模文档检索",
+      "企业知识库搜索",
+      "实时语义搜索"
+    ],
+    "score": 8
+  }
+}

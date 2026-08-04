@@ -1,0 +1,29 @@
+{
+  "id": "fpromptschat-20260804",
+  "title": "f/prompts.chat",
+  "source_url": "https://github.com/f/prompts.chat",
+  "source_platform": "github",
+  "summary": "f/prompts.chat 是一个开源社区平台，用于分享、发现和收集 ChatGPT 提示词，支持自托管以保护隐私。",
+  "tags": [
+    "ChatGPT",
+    "提示词",
+    "开源",
+    "社区",
+    "自托管"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:27:16Z",
+  "updated_at": "2026-08-04T10:27:16Z",
+  "analysis": {
+    "description": "该项目是 Awesome ChatGPT Prompts 的延续，提供用户友好的界面来浏览和贡献提示词。它基于 HTML，易于部署，并允许组织内部使用，确保数据安全。社区驱动，持续更新。",
+    "tech_category": "AI编程工具",
+    "innovation": "将提示词分享从静态列表转变为动态社区平台，并支持自托管。",
+    "difficulty": "入门",
+    "use_cases": [
+      "提示词收集与分享",
+      "团队内部提示词管理",
+      "学习提示词工程"
+    ],
+    "score": 7
+  }
+}

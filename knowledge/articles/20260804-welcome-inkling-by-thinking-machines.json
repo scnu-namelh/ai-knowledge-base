@@ -1,0 +1,29 @@
+{
+  "id": "welcome-inkling-by-thinking-machines-20260804",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source_platform": "rss",
+  "summary": "Thinking Machines 发布 Inkling，一个用于构建和部署多智能体系统的开源框架，旨在简化复杂 AI 应用的开发。",
+  "tags": [
+    "多智能体",
+    "开源框架",
+    "AI应用",
+    "部署工具",
+    "Thinking Machines"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:32:22Z",
+  "updated_at": "2026-08-04T10:32:22Z",
+  "analysis": {
+    "description": "Inkling 是 Thinking Machines 推出的开源框架，专注于多智能体系统的构建与部署。它提供模块化设计、可扩展的通信机制和工具，帮助开发者快速创建协作式 AI 应用，降低多智能体开发的复杂性。",
+    "tech_category": "多智能体",
+    "innovation": "提供模块化、可扩展的多智能体开发框架，简化部署流程。",
+    "difficulty": "中等",
+    "use_cases": [
+      "协作式AI任务",
+      "分布式决策系统",
+      "智能体模拟"
+    ],
+    "score": 8
+  }
+}

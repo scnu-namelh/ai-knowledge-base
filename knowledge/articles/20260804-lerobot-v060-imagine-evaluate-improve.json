@@ -1,0 +1,29 @@
+{
+  "id": "lerobot-v060-imagine-evaluate-improve-20260804",
+  "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+  "source_url": "https://huggingface.co/blog/lerobot-release-v060",
+  "source_platform": "rss",
+  "summary": "LeRobot v0.6.0发布，引入想象、评估、改进三大新功能，强化机器人学习框架。",
+  "tags": [
+    "机器人学习",
+    "LeRobot",
+    "Hugging Face",
+    "策略训练",
+    "评估改进"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:32:38Z",
+  "updated_at": "2026-08-04T10:32:38Z",
+  "analysis": {
+    "description": "LeRobot v0.6.0是Hugging Face推出的机器人学习框架的重大更新，新增了想象（Imagine）、评估（Evaluate）、改进（Improve）三个核心模块，旨在简化机器人策略的训练、评估和迭代流程，提升开发效率。",
+    "tech_category": "多智能体",
+    "innovation": "将想象、评估、改进集成到统一框架，实现机器人学习闭环。",
+    "difficulty": "中等",
+    "use_cases": [
+      "机器人控制策略开发",
+      "仿真到现实迁移",
+      "自动化评估与迭代"
+    ],
+    "score": 8
+  }
+}

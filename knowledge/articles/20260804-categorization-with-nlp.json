@@ -1,0 +1,29 @@
+{
+  "id": "categorization-with-nlp-20260804",
+  "title": "Categorization with NLP",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+  "source_platform": "rss",
+  "summary": "本文探讨使用NLP技术进行文本分类，重点介绍如何利用现代语言模型实现高效、准确的类别预测。",
+  "tags": [
+    "NLP",
+    "文本分类",
+    "语言模型",
+    "特征工程",
+    "模型评估"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:27:43Z",
+  "updated_at": "2026-08-04T10:27:43Z",
+  "analysis": {
+    "description": "文章详细讨论了NLP在文本分类中的应用，包括数据预处理、特征提取、模型选择与评估等步骤。作者分享了实际项目中的经验与挑战，并对比了传统方法与深度学习方法的优劣，提供了实用的技术建议。",
+    "tech_category": "自然语言处理",
+    "innovation": "结合现代语言模型与传统分类技术，提出一种鲁棒的文本分类流程。",
+    "difficulty": "中等",
+    "use_cases": [
+      "新闻分类",
+      "邮件过滤",
+      "用户意图识别"
+    ],
+    "score": 8
+  }
+}

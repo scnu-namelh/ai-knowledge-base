@@ -1,0 +1,29 @@
+{
+  "id": "lfm25-encoders-for-fast-long-context-inference-on-cpu-20260804",
+  "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+  "source_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+  "source_platform": "rss",
+  "summary": "LFM2.5编码器通过优化CPU上的长上下文推理，显著提升速度与效率，适用于资源受限环境。",
+  "tags": [
+    "长上下文",
+    "CPU推理",
+    "编码器",
+    "效率优化",
+    "Liquid AI"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-04T10:32:02Z",
+  "updated_at": "2026-08-04T10:32:02Z",
+  "analysis": {
+    "description": "LFM2.5-Encoders是Liquid AI推出的新型编码器模型，专为在CPU上实现快速长上下文推理而设计。它通过创新的架构和优化技术，减少了计算复杂度，同时保持了高精度，使得在无GPU环境下也能高效处理长文本，降低了部署门槛。",
+    "tech_category": "大语言模型",
+    "innovation": "针对CPU推理进行深度优化，实现长上下文下的高效计算，无需GPU加速。",
+    "difficulty": "中等",
+    "use_cases": [
+      "边缘设备部署",
+      "实时文本处理",
+      "资源受限的AI应用"
+    ],
+    "score": 8
+  }
+}
