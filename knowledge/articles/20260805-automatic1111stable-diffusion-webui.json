@@ -1,0 +1,29 @@
+{
+  "id": "automatic1111stable-diffusion-webui-20260805",
+  "title": "AUTOMATIC1111/stable-diffusion-webui",
+  "source_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "source_platform": "github",
+  "summary": "AUTOMATIC1111的Stable Diffusion Web UI，是一个基于浏览器的开源界面，用于生成和编辑AI图像。",
+  "tags": [
+    "Stable Diffusion",
+    "Web UI",
+    "AI绘画",
+    "开源",
+    "图像生成"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-05T10:24:30Z",
+  "updated_at": "2026-08-05T10:24:30Z",
+  "analysis": {
+    "description": "该项目是Stable Diffusion模型最流行的Web界面之一，提供丰富的功能，如图像生成、图像编辑、模型管理、提示词辅助等。它支持多种采样器、模型微调、扩展插件，并具有活跃的社区，极大降低了AI绘画的使用门槛。",
+    "tech_category": "AI绘画工具",
+    "innovation": "将复杂的Stable Diffusion模型封装为易用的Web界面，并支持高度可扩展的插件系统。",
+    "difficulty": "入门",
+    "use_cases": [
+      "AI艺术创作",
+      "图像编辑与修复",
+      "概念设计与原型制作"
+    ],
+    "score": 9
+  }
+}

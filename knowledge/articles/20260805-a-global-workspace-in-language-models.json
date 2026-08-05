@@ -1,0 +1,29 @@
+{
+  "id": "a-global-workspace-in-language-models-20260805",
+  "title": "A global workspace in language models",
+  "source_url": "https://www.anthropic.com/research/global-workspace",
+  "source_platform": "rss",
+  "summary": "Anthropic研究提出在语言模型中引入全局工作空间，以增强模型处理复杂任务的能力。",
+  "tags": [
+    "全局工作空间",
+    "语言模型",
+    "认知科学",
+    "推理增强",
+    "Anthropic"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-05T10:25:23Z",
+  "updated_at": "2026-08-05T10:25:23Z",
+  "analysis": {
+    "description": "该研究探讨了在语言模型内部构建一个全局工作空间，使得模型能够更有效地整合和操作信息，从而提升推理和决策能力。通过模拟人类认知中的工作记忆机制，模型可以在处理长序列或复杂任务时保持关键信息，并实现跨模块的协调。",
+    "tech_category": "大语言模型",
+    "innovation": "将认知科学中的全局工作空间理论引入语言模型架构，提升信息整合与推理效率。",
+    "difficulty": "较高",
+    "use_cases": [
+      "复杂推理任务",
+      "长文本理解",
+      "多步骤决策"
+    ],
+    "score": 9
+  }
+}
