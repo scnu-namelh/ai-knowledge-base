@@ -1,0 +1,29 @@
+{
+  "id": "nousresearchhermes-agent-20260806",
+  "title": "NousResearch/hermes-agent",
+  "source_url": "https://github.com/NousResearch/hermes-agent",
+  "source_platform": "github",
+  "summary": "Hermes Agent 是一个基于 Python 的智能体框架，旨在通过持续学习和自我进化，与用户共同成长。",
+  "tags": [
+    "智能体",
+    "Python",
+    "自适应",
+    "对话系统",
+    "开源"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-06T10:27:04Z",
+  "updated_at": "2026-08-06T10:27:04Z",
+  "analysis": {
+    "description": "Hermes Agent 由 NousResearch 开发，提供灵活的智能体架构，支持工具调用、记忆管理和多轮对话，强调可扩展性和个性化，适合构建自适应 AI 助手。",
+    "tech_category": "多智能体",
+    "innovation": "强调智能体的持续学习和自我进化，实现与用户共同成长。",
+    "difficulty": "中等",
+    "use_cases": [
+      "个性化 AI 助手",
+      "自动化任务执行",
+      "持续学习系统"
+    ],
+    "score": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "human-like-neural-nets-by-catapulting-20260806",
+  "title": "Human-like Neural Nets by Catapulting",
+  "source_url": "https://gwern.net/llm-catapult",
+  "source_platform": "rss",
+  "summary": "通过“弹射”机制提升神经网络类人性能，Gwern探讨了在LLM中应用此技术以增强泛化能力。",
+  "tags": [
+    "弹射机制",
+    "泛化性能",
+    "学习率调度",
+    "神经网络训练",
+    "Gwern"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-06T10:28:21Z",
+  "updated_at": "2026-08-06T10:28:21Z",
+  "analysis": {
+    "description": "Gwern的文章深入分析了“弹射”（catapulting）现象，即在训练后期增大学习率使模型跳出局部最优，从而提升泛化性能。文章结合实验与理论，探讨了该机制在大型语言模型中的应用潜力，并对比了人类学习中的类似策略。",
+    "tech_category": "大语言模型",
+    "innovation": "将弹射机制系统化应用于LLM训练，模拟人类学习中的突破性跳跃。",
+    "difficulty": "较高",
+    "use_cases": [
+      "改进LLM训练策略",
+      "提升模型泛化能力",
+      "研究类人学习机制"
+    ],
+    "score": 8
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "you-could-have-come-up-with-kimi-delta-attention-20260806",
+  "title": "You Could Have Come Up With Kimi Delta Attention",
+  "source_url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+  "source_platform": "rss",
+  "summary": "本文从第一性原理推导Kimi的Delta Attention机制，展示如何从标准注意力出发，通过稀疏化和增量计算优化长上下文推理。",
+  "tags": [
+    "Delta Attention",
+    "注意力机制",
+    "长上下文",
+    "推理优化",
+    "Kimi"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-06T10:28:09Z",
+  "updated_at": "2026-08-06T10:28:09Z",
+  "analysis": {
+    "description": "文章以教学式风格，逐步推导Delta Attention的核心思想：利用增量更新和稀疏注意力减少计算量，提升长文本处理效率。作者强调该机制并非高不可攀，而是基于基础概念的巧妙组合，适合理解注意力变体的演进逻辑。",
+    "tech_category": "大语言模型",
+    "innovation": "从第一性原理重构Delta Attention的推导过程，降低理解门槛，突出其增量计算与稀疏化的结合。",
+    "difficulty": "中等",
+    "use_cases": [
+      "长文本推理加速",
+      "大模型架构设计",
+      "注意力机制教学"
+    ],
+    "score": 8
+  }
+}

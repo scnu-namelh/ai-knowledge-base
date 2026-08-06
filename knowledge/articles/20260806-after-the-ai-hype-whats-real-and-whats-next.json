@@ -1,0 +1,29 @@
+{
+  "id": "after-the-ai-hype-whats-real-and-whats-next-20260806",
+  "title": "After the AI Hype – What’s Real, and What’s Next",
+  "source_url": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+  "source_platform": "rss",
+  "summary": "该视频探讨AI炒作后的现实与未来，分析哪些AI技术真正落地，以及下一步发展方向。",
+  "tags": [
+    "AI趋势",
+    "行业分析",
+    "大语言模型",
+    "技术落地",
+    "未来展望"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-06T10:27:54Z",
+  "updated_at": "2026-08-06T10:27:54Z",
+  "analysis": {
+    "description": "视频内容围绕AI领域的热点与泡沫，区分实际应用与过度宣传，讨论当前AI技术的真实能力、局限性和未来趋势，可能涉及大模型、行业应用及投资视角。",
+    "tech_category": "大语言模型",
+    "innovation": "以批判性视角审视AI炒作，提出务实的发展路径。",
+    "difficulty": "入门",
+    "use_cases": [
+      "技术战略规划",
+      "投资决策参考",
+      "AI应用评估"
+    ],
+    "score": 7
+  }
+}

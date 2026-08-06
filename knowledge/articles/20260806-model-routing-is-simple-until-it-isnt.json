@@ -1,0 +1,29 @@
+{
+  "id": "model-routing-is-simple-until-it-isnt-20260806",
+  "title": "Model Routing Is Simple. Until It Isn’t.",
+  "source_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+  "source_platform": "rss",
+  "summary": "本文探讨模型路由的复杂性，指出简单路由策略在实际应用中面临挑战，并介绍IBM Research提出的改进方法。",
+  "tags": [
+    "模型路由",
+    "强化学习",
+    "LLM",
+    "成本优化",
+    "IBM Research"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-06T10:29:13Z",
+  "updated_at": "2026-08-06T10:29:13Z",
+  "analysis": {
+    "description": "文章首先说明模型路由的基本概念，即根据任务选择最合适的模型以平衡成本和性能。随后指出简单路由（如基于规则或启发式）在真实场景中效果不佳，因为模型能力差异、任务多样性及动态变化。IBM Research提出了一种基于强化学习的路由框架，能够自适应学习路由策略，显著提升准确率和效率。",
+    "tech_category": "大语言模型",
+    "innovation": "提出基于强化学习的自适应模型路由框架，超越传统静态路由方法。",
+    "difficulty": "中等",
+    "use_cases": [
+      "多模型服务中的智能调度",
+      "降低API调用成本",
+      "提升任务准确率"
+    ],
+    "score": 8
+  }
+}
