@@ -1,0 +1,29 @@
+{
+  "id": "welcome-inkling-by-thinking-machines-20260807",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source_platform": "rss",
+  "summary": "Thinking Machines 发布 Inkling，一个面向多智能体协作的新框架，旨在提升 AI 系统的交互与决策效率。",
+  "tags": [
+    "多智能体",
+    "协作框架",
+    "AI系统",
+    "任务分配",
+    "自适应策略"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-07T08:47:34Z",
+  "updated_at": "2026-08-07T08:47:34Z",
+  "analysis": {
+    "description": "Inkling 是 Thinking Machines 推出的多智能体协作框架，专注于解决复杂任务中的智能体通信与协调问题。它提供了一套灵活的 API 和运行时环境，支持动态任务分配与自适应策略，适用于需要多智能体协同的 AI 应用场景。",
+    "tech_category": "多智能体",
+    "innovation": "通过动态任务分配与自适应策略，提升多智能体系统的协作效率与可扩展性。",
+    "difficulty": "中等",
+    "use_cases": [
+      "复杂任务协同",
+      "分布式决策",
+      "智能体仿真"
+    ],
+    "score": 8
+  }
+}

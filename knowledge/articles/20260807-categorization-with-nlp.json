@@ -1,0 +1,29 @@
+{
+  "id": "categorization-with-nlp-20260807",
+  "title": "Categorization with NLP",
+  "source_url": "https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/en/",
+  "source_platform": "rss",
+  "summary": "本文探讨使用NLP技术进行文本分类，重点介绍如何利用语言模型实现高效的内容归类。",
+  "tags": [
+    "NLP",
+    "文本分类",
+    "机器学习",
+    "语言模型",
+    "实践指南"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-07T08:46:15Z",
+  "updated_at": "2026-08-07T08:46:15Z",
+  "analysis": {
+    "description": "文章由软件开发者撰写，分享其在文本分类任务中应用NLP的实践经验，涵盖数据预处理、模型选择、训练与评估等环节，并讨论实际应用中的挑战与解决方案。",
+    "tech_category": "自然语言处理",
+    "innovation": "结合具体案例，展示NLP分类的实用技巧与优化策略。",
+    "difficulty": "中等",
+    "use_cases": [
+      "内容推荐系统",
+      "垃圾信息过滤",
+      "文档自动归档"
+    ],
+    "score": 7
+  }
+}

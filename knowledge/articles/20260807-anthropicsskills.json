@@ -1,0 +1,29 @@
+{
+  "id": "anthropicsskills-20260807",
+  "title": "anthropics/skills",
+  "source_url": "https://github.com/anthropics/skills",
+  "source_platform": "github",
+  "summary": "Anthropics官方发布的Agent Skills公共仓库，提供可复用的技能模块，增强AI代理在文档处理、网页搜索等任务中的能力。",
+  "tags": [
+    "Agent Skills",
+    "Anthropic",
+    "AI代理",
+    "文档处理",
+    "自动化"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-07T08:45:49Z",
+  "updated_at": "2026-08-07T08:45:49Z",
+  "analysis": {
+    "description": "该仓库是Anthropic推出的Agent Skills集合，包含文档问答、PDF处理、PPTX生成、网页搜索等技能。每个技能封装了特定任务的提示词、工具和脚本，便于开发者集成到Claude等AI代理中，提升自动化处理复杂任务的能力。",
+    "tech_category": "多智能体",
+    "innovation": "将常见任务封装为标准化技能模块，简化AI代理的功能扩展。",
+    "difficulty": "入门",
+    "use_cases": [
+      "文档问答与信息提取",
+      "生成PPT演示文稿",
+      "网页搜索与信息整合"
+    ],
+    "score": 8
+  }
+}

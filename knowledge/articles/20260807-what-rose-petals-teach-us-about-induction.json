@@ -1,0 +1,29 @@
+{
+  "id": "what-rose-petals-teach-us-about-induction-20260807",
+  "title": "What Rose Petals Teach Us about Induction",
+  "source_url": "https://www.oranlooney.com/post/rose-petals/",
+  "source_platform": "rss",
+  "summary": "文章通过玫瑰花瓣的排列模式，探讨归纳推理的本质，强调观察与理论之间的关系。",
+  "tags": [
+    "归纳推理",
+    "机器学习",
+    "科学哲学",
+    "认知科学",
+    "AI理论"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-07T08:46:27Z",
+  "updated_at": "2026-08-07T08:46:27Z",
+  "analysis": {
+    "description": "文章以玫瑰花瓣的排列为引，深入浅出地阐述了归纳推理在科学发现中的作用，讨论了从具体观察中抽象出一般规律的过程，并反思了归纳法的局限性与哲学意义。",
+    "tech_category": "AI基础理论",
+    "innovation": "以自然现象为喻，重新诠释归纳推理在AI学习中的核心地位。",
+    "difficulty": "入门",
+    "use_cases": [
+      "AI算法设计中的归纳偏置",
+      "科学发现自动化",
+      "机器学习模型的可解释性"
+    ],
+    "score": 7
+  }
+}
