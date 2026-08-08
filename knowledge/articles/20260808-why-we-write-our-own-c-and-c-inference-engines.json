@@ -1,0 +1,29 @@
+{
+  "id": "why-we-write-our-own-c-and-c-inference-engines-20260808",
+  "title": "Why we write our own C and C++ inference engines",
+  "source_url": "https://localai.io/blog/why-we-write-our-own-engines/",
+  "source_platform": "rss",
+  "summary": "LocalAI团队解释为何自研C/C++推理引擎，以优化性能、控制依赖并支持多硬件后端。",
+  "tags": [
+    "C++",
+    "推理引擎",
+    "性能优化",
+    "硬件加速",
+    "LocalAI"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-08T08:28:17Z",
+  "updated_at": "2026-08-08T08:28:17Z",
+  "analysis": {
+    "description": "LocalAI团队在博客中详细阐述了他们选择自研C/C++推理引擎的原因，包括对性能的极致追求、减少外部依赖、灵活支持多种硬件加速器（如CPU、GPU、NPU），以及避免Python运行时开销。他们强调自研引擎能更好地适配特定模型和部署场景，提升推理效率。",
+    "tech_category": "AI推理引擎",
+    "innovation": "通过自研C/C++引擎实现跨硬件的高效推理，减少依赖并优化性能。",
+    "difficulty": "较高",
+    "use_cases": [
+      "本地AI推理服务",
+      "边缘设备部署",
+      "多硬件适配"
+    ],
+    "score": 8
+  }
+}

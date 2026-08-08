@@ -1,0 +1,29 @@
+{
+  "id": "tutormoments-do-ai-tutors-know-when-to-help-and-when-to-hold-bac-20260808",
+  "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+  "source_url": "https://huggingface.co/blog/allenai/tutormoments",
+  "source_platform": "rss",
+  "summary": "TutorMoments是一个AI辅导数据集，旨在训练AI导师判断何时提供帮助、何时保持克制，以提升教学效果。",
+  "tags": [
+    "AI教育",
+    "数据集",
+    "教学策略",
+    "个性化学习",
+    "干预时机"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-08T08:28:59Z",
+  "updated_at": "2026-08-08T08:28:59Z",
+  "analysis": {
+    "description": "TutorMoments由Allen AI发布，包含大量真实教学场景，标注了AI导师的干预时机。该数据集用于训练模型识别学生需求，优化辅导策略，避免过度干预或不足，从而提升个性化学习体验。",
+    "tech_category": "多智能体",
+    "innovation": "首次大规模聚焦AI导师的干预时机判断，强调“何时不帮助”的教学智慧。",
+    "difficulty": "中等",
+    "use_cases": [
+      "智能辅导系统",
+      "在线学习平台",
+      "教师辅助工具"
+    ],
+    "score": 8
+  }
+}

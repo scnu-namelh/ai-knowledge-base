@@ -1,0 +1,29 @@
+{
+  "id": "hugging-face-models-on-foundry-managed-compute-20260808",
+  "title": "Hugging Face Models on Foundry Managed Compute",
+  "source_url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+  "source_platform": "rss",
+  "summary": "微软在 Foundry 托管计算上集成 Hugging Face 模型，简化 AI 模型部署与推理流程。",
+  "tags": [
+    "Hugging Face",
+    "Microsoft Foundry",
+    "模型部署",
+    "托管计算",
+    "AI推理"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-08T08:29:39Z",
+  "updated_at": "2026-08-08T08:29:39Z",
+  "analysis": {
+    "description": "该博客介绍了如何在 Microsoft Foundry 的托管计算环境中运行 Hugging Face 模型，提供无缝集成、自动扩展和优化推理性能，降低部署门槛，加速 AI 应用开发。",
+    "tech_category": "AI基础设施",
+    "innovation": "将 Hugging Face 模型库与 Foundry 托管计算结合，实现一键部署和自动运维。",
+    "difficulty": "入门",
+    "use_cases": [
+      "企业级AI模型部署",
+      "快速原型开发",
+      "大规模推理服务"
+    ],
+    "score": 8
+  }
+}

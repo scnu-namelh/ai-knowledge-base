@@ -1,0 +1,29 @@
+{
+  "id": "bringing-nunchaku-4-bit-diffusion-inference-to-diffusers-20260808",
+  "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+  "source_url": "https://huggingface.co/blog/nunchaku-diffusers",
+  "source_platform": "rss",
+  "summary": "Nunchaku 4-bit扩散模型推理集成到Diffusers，实现高效低比特图像生成。",
+  "tags": [
+    "4-bit量化",
+    "扩散模型",
+    "Diffusers",
+    "推理优化",
+    "Flux"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-08T08:29:15Z",
+  "updated_at": "2026-08-08T08:29:15Z",
+  "analysis": {
+    "description": "该博客介绍了将Nunchaku的4比特量化扩散模型推理功能集成到Hugging Face Diffusers库中，支持Flux等模型，通过低比特量化显著降低显存占用和计算成本，同时保持生成质量，并提供简单API调用。",
+    "tech_category": "大语言模型",
+    "innovation": "将4比特量化推理无缝集成到Diffusers生态，降低扩散模型部署门槛。",
+    "difficulty": "中等",
+    "use_cases": [
+      "低资源设备图像生成",
+      "云端高效推理",
+      "实时创意工具"
+    ],
+    "score": 8
+  }
+}

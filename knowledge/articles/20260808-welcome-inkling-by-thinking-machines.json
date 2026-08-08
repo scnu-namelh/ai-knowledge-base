@@ -1,0 +1,29 @@
+{
+  "id": "welcome-inkling-by-thinking-machines-20260808",
+  "title": "Welcome Inkling by Thinking Machines",
+  "source_url": "https://huggingface.co/blog/thinkingmachines-inkling",
+  "source_platform": "rss",
+  "summary": "Thinking Machines 发布 Inkling，一款新型 AI 模型，旨在提升推理与生成能力，提供高效解决方案。",
+  "tags": [
+    "大语言模型",
+    "推理",
+    "生成",
+    "AI模型",
+    "Hugging Face"
+  ],
+  "status": "analyzed",
+  "created_at": "2026-08-08T08:29:28Z",
+  "updated_at": "2026-08-08T08:29:28Z",
+  "analysis": {
+    "description": "Inkling 是 Thinking Machines 推出的创新 AI 模型，专注于增强推理和生成任务。该模型在 Hugging Face 博客上发布，展示了其在复杂问题求解和内容生成方面的潜力，适用于多种应用场景。",
+    "tech_category": "大语言模型",
+    "innovation": "Inkling 通过独特的架构设计，在推理效率和生成质量上实现突破。",
+    "difficulty": "中等",
+    "use_cases": [
+      "智能问答",
+      "内容创作",
+      "数据分析"
+    ],
+    "score": 8
+  }
+}
